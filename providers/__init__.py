@@ -1,0 +1,1 @@
+"""Charlotte model provider adapters."""
