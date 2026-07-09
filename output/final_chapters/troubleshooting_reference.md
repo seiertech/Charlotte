@@ -1,5 +1,15 @@
 # Appendix — The Troubleshooting Reference
 
+It’s Tuesday, 2:17 a.m. Lina sits on the edge of her bed, phone glowing in her lap. The baby monitor hums static from the next room—another night of broken sleep, another day of pretending she’s fine. Her shoulders ache, her jaw is clenched so tight she can feel the pulse in her molars, and the thought *I just need five minutes alone* loops in her head like a stuck record. She scrolls through her notes app, fingers trembling, searching for the bullet points she jotted down weeks ago: *drink water, breathe, walk outside.* But her brain feels like a sieve, and the words won’t stick. She exhales sharply through her nose, a sound that’s almost a laugh. *I read the whole book. I know this stuff. Why can’t I just—*
+
+Then she remembers. The last few pages. The ones she hasn’t needed yet. The ones titled *When You Can’t Think Straight.*
+
+She flips to them now, the pages crinkling in her grip. The light from her phone casts long shadows on the paper, but the words are clear: *Start with what you’d actually notice.* Not the big, abstract problem—*I’m overwhelmed*—but the thing her body is doing right now. The tight chest. The shallow breath. The way her hands won’t stop fidgeting with the hem of her shirt. She scans the lists, not reading, just letting her eyes land on whatever feels familiar. There it is: *Shoulders up near ears. Jaw sore from clenching. Feeling like you’re bracing for impact.* Below it, a single line: *Pressure layer—too much charge, not enough release.*
+
+Her breath slows, just a little. She doesn’t have to fix everything tonight. She just has to find the first layer. The one that’s struggling *right now.*
+
+---
+
 *The whole method on a few pages — kept for you to flip back to. Read every row left to right as a cause-and-effect chain.*
 
 By now you've seen the method run on real problems. Here it is at a glance — not to replace the understanding, but to give you something to reach for in the moment.
@@ -87,5 +97,11 @@ By now you've seen the method run on real problems. Here it is at a glance — n
 | Everyone else seems to have it sorted | Comparing your inside to everyone's outside | Pressure | Name the mirror trap — you're comparing unlike things |
 
 ---
+
+---
+
+This isn’t a diagnosis. It’s a map—one that starts with where you’re standing, not where you *should* be. You don’t have to untangle the whole knot. Just find the first thread that’s pulling too tight. Maybe it’s the layer you can see: the tension in your hands, the weight on your chest. Maybe it’s the one beneath it: the thought that won’t quiet, the need that isn’t being met. Start there. Adjust. Watch what moves.
+
+And if the thread feels too heavy to pull alone? That’s what people are for. Reaching out isn’t the last resort. It’s the first tool you were ever given.
 
 **The one line to remember when it all feels like too much:** find the lowest layer that's struggling, and start there. You don't have to fix everything. You have to fix the *right* thing first — and let the rest get easier because of it.
