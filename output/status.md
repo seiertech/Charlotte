@@ -16,5 +16,5 @@ Book: THE SYSTEM OF YOU
 - Chapter 11: The Cross-Layer Truths — How the System Really Works — DONE (3305 words)
 - Chapter 12: The Method Made Whole — Which Layer, Which Currency — DONE (2093 words)
 - Chapter 13: The Toolkit — DONE (4134 words)
-- Chapter 14: Six Worked Problems — PENDING
+- Chapter 14: Six Worked Problems — DONE (4088 words)
 - Chapter 15: Watching It Change — The Growth Map — PENDING
