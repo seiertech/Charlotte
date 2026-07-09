@@ -5,7 +5,7 @@ Book: THE SYSTEM OF YOU
 ## Chapters
 - Chapter 1: The Two Anchors — DONE (1575 words)
 - Chapter 2: The Body — Your Hardware — DONE (2069 words)
-- Chapter 3: The Three Currencies — What Runs Through You — PENDING
+- Chapter 3: The Three Currencies — What Runs Through You — DONE (1790 words)
 - Chapter 4: The Hidden Machine — Your Operating System — PENDING
 - Chapter 5: Habits & Skills — Your Software — PENDING
 - Chapter 6: The People — Your Network — PENDING
