@@ -5,7 +5,7 @@ Book: THE SYSTEM OF YOU
 ## Chapters
 - Chapter 1: The Two Anchors — BLOCKED (671 words, 1 revisions)
 - Chapter 2: The Body — Your Hardware — BLOCKED (1848 words, 1 revisions)
-- Chapter 3: The Three Currencies — What Runs Through You — PENDING
+- Chapter 3: The Three Currencies — What Runs Through You — BLOCKED (2128 words, 1 revisions)
 - Chapter 4: The Hidden Machine — Your Operating System — PENDING
 - Chapter 5: Habits & Skills — Your Software — PENDING
 - Chapter 6: The People — Your Network — PENDING
