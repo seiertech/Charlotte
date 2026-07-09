@@ -11,7 +11,7 @@ Book: THE SYSTEM OF YOU
 - Chapter 6: The People — Your Network — DONE (1805 words)
 - Chapter 7: The Story — Your Identity — DONE (2191 words)
 - Chapter 8: The Boundary — What Comes In, What Shows Out — DONE (3040 words)
-- Chapter 9: The Ground — Genetics & Human Nature — PENDING
+- Chapter 9: The Ground — Genetics & Human Nature — DONE (2727 words)
 - Chapter 10: The Meaning — Belief, Then Faith — PENDING
 - Chapter 11: The Cross-Layer Truths — How the System Really Works — PENDING
 - Chapter 12: The Method Made Whole — Which Layer, Which Currency — PENDING
