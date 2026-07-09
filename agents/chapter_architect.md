@@ -20,8 +20,9 @@ Return a Markdown chapter plan containing:
 - **Reader state on entry**: what the reader knows and feels coming in
 - **Reader state on exit**: what they should know and feel leaving
 - **Section flow**: an ordered list of sections with a one-line purpose each
-- **Opening beat**: how the chapter hooks — **recognition before instruction** (the reader thinks "yes, that's me" before being told anything)
-- **Required practices/examples**: concrete, drawn from the research pack
+- **Opening beat**: a full **lived scene** (150+ words) — specific time, place, body sensations — that makes the reader recognise the feeling BEFORE the concept is named. Not a summary. A moment they've lived.
+- **Required scenes/examples**: at least 2–3 grounded scenarios per major concept, drawn from DIFFERENT life domains (work, home, parenting, relationships, health, faith, solitude, ageing). Name the person, their situation, what their body feels. These are the chapter's weight.
+- **Concept arrival point**: where in the chapter the concept name drops — AFTER recognition, never before it
 - **The "Notice this in you" practice**: every layer/currency/boundary/meaning chapter ends with one, built to the locked pattern below
 - **Do-not-reveal-yet**: concepts owned by later chapters that must stay out (name them explicitly, per the reveal order)
 - **Terms introduced here**: new vocabulary this chapter is allowed to define

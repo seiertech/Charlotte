@@ -1,17 +1,14 @@
-"""Charlotte conveyor — runs chapters one at a time with smart model routing.
+"""Charlotte lean conveyor — 4 calls per chapter, maximum speed.
 
-Model routing:
-  - 675B (mistral-large-3): Drafter only — the actual chapter prose
-  - 119B (mistral-small-4): Everything else (researcher, architect, all reviewers,
-    wardens, personas, editor, revision, transition)
+Pipeline: Researcher → Architect → Drafter(675B) → Editor(119B)
 
-This keeps 675B call count to exactly 1-2 per chapter, well under rate limits.
-Every chapter is committed to git immediately after completion.
+No reviewers, no wardens, no personas, no revision loop on the first draft.
+Those belong in a quality pass over the completed manuscript, not per-chapter gating.
 
 Usage:
     python3 orchestrator/conveyor.py            # all pending chapters
-    python3 orchestrator/conveyor.py 5 15       # chapters 5 to 15 inclusive
-    python3 orchestrator/conveyor.py 7 7        # chapter 7 only
+    python3 orchestrator/conveyor.py 2 15       # chapters 2 to 15
+    python3 orchestrator/conveyor.py 5 5        # chapter 5 only
 """
 
 from __future__ import annotations
@@ -25,160 +22,125 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-import orchestrator.run as R
+import yaml
 from orchestrator.book_state import BookState, ChapterRecord
 from orchestrator.ledger import Ledger
-from providers.model_client import ModelClient, client_from_config, OpenAICompatibleClient
+from providers.model_client import ModelClient, client_from_config
 
-# Only these agent names get routed to the big model
-BIG_MODEL_AGENTS = {"drafter"}
+# Retry settings for 429
+MAX_RETRIES = 5
+RETRY_BACKOFF = [30, 60, 90, 120, 180]
 
-# How long to pause between chapters (seconds) — gives rate limit time to breathe
-INTER_CHAPTER_PAUSE = 90
-
-# Retry settings for 429 / timeouts
-MAX_RETRIES = 4
-RETRY_BACKOFF = [60, 120, 180, 300]  # seconds to wait before each retry
+# Pause between chapters (seconds)
+INTER_CHAPTER_PAUSE = 30
 
 
-def make_clients(cfg: dict) -> tuple[ModelClient, ModelClient]:
-    """Return (big_client [675B], small_client [119B])."""
-    big = client_from_config(cfg)                          # uses cfg["provider"] = 675B
-    small_cfg = dict(cfg)
-    small_cfg["provider"] = cfg.get("reviewer_provider", cfg["provider"])
-    small = client_from_config(small_cfg)                  # uses reviewer_provider = 119B
-    return big, small
+def read(path: str) -> str:
+    p = ROOT / path
+    return p.read_text(encoding="utf-8") if p.exists() else ""
 
 
-def call_with_retry(client: ModelClient, messages: list, temperature: float) -> object:
-    """Call client.complete with automatic retry on 429 / timeout."""
-    last_exc = None
+def write(path: str, content: str) -> None:
+    p = ROOT / path
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text(content, encoding="utf-8")
+
+
+def load_config() -> dict:
+    return yaml.safe_load(read("config.yaml"))
+
+
+def call(client: ModelClient, system_prompt: str, user_prompt: str) -> str:
+    """Call with retry on 429/timeout."""
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": user_prompt},
+    ]
     for attempt in range(MAX_RETRIES + 1):
         try:
-            return client.complete(messages, temperature=temperature)
+            resp = client.complete(messages, temperature=0.15)
+            return resp.content
         except urllib.error.HTTPError as e:
-            if e.code == 429:
+            if e.code == 429 and attempt < MAX_RETRIES:
                 wait = RETRY_BACKOFF[min(attempt, len(RETRY_BACKOFF) - 1)]
-                print(f"  ⚠ 429 rate limit — waiting {wait}s before retry {attempt + 1}/{MAX_RETRIES}...")
+                print(f"    ⚠ 429 — waiting {wait}s (retry {attempt+1}/{MAX_RETRIES})")
                 time.sleep(wait)
-                last_exc = e
             else:
                 raise
         except Exception as e:
-            wait = RETRY_BACKOFF[min(attempt, len(RETRY_BACKOFF) - 1)]
-            print(f"  ⚠ {type(e).__name__} — waiting {wait}s before retry {attempt + 1}/{MAX_RETRIES}...")
-            time.sleep(wait)
-            last_exc = e
-    raise last_exc
-
-
-def patched_call_agent(big: ModelClient, small: ModelClient):
-    """Return a version of R.call_agent that routes by agent name."""
-    original = R.call_agent
-
-    def _call(client, ledger, agent_name, agent_prompt, task, context, output_path, temperature=0.4):
-        # Route: drafter → big model; everything else → small model
-        chosen = big if agent_name in BIG_MODEL_AGENTS else small
-
-        messages = [
-            {"role": "system", "content": agent_prompt},
-            {
-                "role": "user",
-                "content": (
-                    f"# Task\n\n{task}\n\n"
-                    f"# Repository Context\n\n{context}\n\n"
-                    f"# Required Output\n\nWrite the complete artefact for `{output_path}` in Markdown."
-                ),
-            },
-        ]
-        response = call_with_retry(chosen, messages, temperature)
-        R.write(output_path, response.content)
-        ledger.append(
-            "agent_output",
-            {
-                "agent": agent_name,
-                "output_path": output_path,
-                "provider": response.provider,
-                "model": response.model,
-            },
-        )
-        return response.content
-
-    return _call
+            if attempt < MAX_RETRIES:
+                wait = RETRY_BACKOFF[min(attempt, len(RETRY_BACKOFF) - 1)]
+                print(f"    ⚠ {type(e).__name__} — waiting {wait}s (retry {attempt+1}/{MAX_RETRIES})")
+                time.sleep(wait)
+            else:
+                raise
+    return ""
 
 
 def git_commit_chapter(n: int, title: str) -> None:
-    path = f"output/final_chapters/ch{n:02}.md"
-    subprocess.run(["git", "add", path, "output/status.md"], cwd=ROOT, check=True)
-    msg = f"Chapter {n:02}: {title[:60]}"
-    result = subprocess.run(
-        ["git", "commit", "-m", msg], cwd=ROOT, capture_output=True, text=True
-    )
+    subprocess.run(["git", "add", f"output/final_chapters/ch{n:02}.md", "output/status.md"],
+                   cwd=ROOT, check=True, capture_output=True)
+    result = subprocess.run(["git", "commit", "-m", f"Chapter {n:02}: {title[:60]}"],
+                           cwd=ROOT, capture_output=True, text=True)
     if result.returncode == 0:
-        print(f"  → committed: {msg}")
+        print(f"    → committed")
     else:
-        print(f"  → already up to date (nothing new to commit)")
+        print(f"    → already up to date")
 
 
-def run_one_chapter(cfg, big, small, ledger, foundation, outline, chapter, state):
-    """Run the full pipeline for one chapter with dual-model routing."""
-    n = int(chapter["number"])
-    title = str(chapter["title"])
-
-    print(f"\n{'='*60}")
-    print(f"  ch{n:02}: {title}")
-    print(f"  prose=675B  |  reviews=119B")
-    print(f"{'='*60}")
-
-    # Patch call_agent for the duration of this chapter
-    original = R.call_agent
-    R.call_agent = patched_call_agent(big, small)
-
-    try:
-        # Per-chapter research note (small model — short output)
-        research = R.call_agent(
-            small, ledger, "researcher", R.agent(cfg, "researcher"),
-            f"Create a focused research/concept pack for Chapter {n} only: '{title}'. "
-            f"Do not write chapter prose. Respect the reveal order. "
-            f"Provide concrete examples from varied life domains.",
-            R.build_base_context(cfg, foundation) + f"\n\n# Book Outline\n{outline}",
-            f"output/research_ch{n:02}.md",
-            temperature=0.1,
-        )
-
-        final = R.run_chapter(
-            cfg, big, ledger, foundation, outline, research, chapter, state
-        )
-    finally:
-        R.call_agent = original  # always restore
-
-    return final
+def extract_chapters(outline: str) -> list:
+    import re
+    chapters = []
+    seen = set()
+    for line in outline.splitlines():
+        clean = line.strip().lstrip("#*>-•\t ").strip()
+        match = re.match(r"^Chapter\s+(\d+)\s*[\).:\-–—]?\s*(.+)$", clean, re.I)
+        if match:
+            number = int(match.group(1))
+            if number not in seen:
+                seen.add(number)
+                title = match.group(2).strip().strip("*_# ").strip()
+                if title:
+                    chapters.append({"number": number, "title": title})
+    return chapters
 
 
 def main() -> None:
-    cfg = R.load_config()
+    cfg = load_config()
+
+    # Build clients
     cfg["provider"]["timeout_seconds"] = 600
-    cfg["workflow"]["max_revisions"] = 1
+    big_client = client_from_config(cfg)  # 675B for drafter
 
-    big, small = make_clients(cfg)
-    ledger = Ledger(ROOT)
+    small_cfg = dict(cfg)
+    small_cfg["provider"] = cfg.get("reviewer_provider", cfg["provider"])
+    small_client = client_from_config(small_cfg)  # 119B for researcher/architect/editor
+
+    # Load state
     state = BookState.load(ROOT / "output/book_state.json")
-
-    foundation = R.read(cfg["book"]["foundation_file"])
-    outline = R.read("output/book_outline.md")
+    ledger = Ledger(ROOT)
+    foundation = read(cfg["book"]["foundation_file"])
+    outline = read("output/book_outline.md")
     if not outline.strip():
-        raise SystemExit("output/book_outline.md is missing — run --outline-only first")
+        raise SystemExit("No outline found — run --outline-only first")
 
-    chapters = R.extract_chapters(outline)
+    chapters = extract_chapters(outline)
+    word_target = cfg.get("workflow", {}).get("chapter_word_target", 1400)
 
-    # Seed state with all chapter titles for transition agent
+    # Load agent prompts
+    researcher_prompt = read(cfg["agents"]["researcher"])
+    architect_prompt = read(cfg["agents"]["chapter_architect"])
+    drafter_prompt = read(cfg["agents"]["drafter"])
+    editor_prompt = read(cfg["agents"]["editor"])
+
+    # Seed state
     for c in chapters:
         n = int(c["number"])
         if not state.get(n):
             state.upsert_chapter(ChapterRecord(number=n, title=str(c["title"])))
     state.save(ROOT / "output/book_state.json")
 
-    # Parse range args
+    # Parse args
     if len(sys.argv) >= 3:
         start, end = int(sys.argv[1]), int(sys.argv[2])
     elif len(sys.argv) == 2:
@@ -187,44 +149,109 @@ def main() -> None:
         start, end = 0, 9999
 
     selected = [c for c in chapters if start <= int(c["number"]) <= end]
-    print(f"\nCharlotte Conveyor")
-    print(f"  Prose  (675B): {cfg['provider']['model']}")
-    print(f"  Review (119B): {cfg.get('reviewer_provider', cfg['provider'])['model']}")
-    print(f"  Chapters: {start}–{end}  ({len(selected)} to run)")
-    print(f"  Word target: {cfg['workflow']['chapter_word_target']}")
-    print(f"  Inter-chapter pause: {INTER_CHAPTER_PAUSE}s")
 
-    R.ensure_dirs()
+    print(f"\n{'='*50}")
+    print(f"  CHARLOTTE LEAN CONVEYOR")
+    print(f"  Pipeline: Researcher → Architect → Drafter(675B) → Editor")
+    print(f"  4 calls per chapter | {word_target} word target")
+    print(f"  Chapters: {start}–{end} ({len(selected)} to run)")
+    print(f"{'='*50}")
+
+    (ROOT / "output/final_chapters").mkdir(parents=True, exist_ok=True)
 
     for idx, chapter in enumerate(selected):
         n = int(chapter["number"])
         title = str(chapter["title"])
         final_path = ROOT / f"output/final_chapters/ch{n:02}.md"
 
-        # Skip if already complete
-        if final_path.exists() and final_path.stat().st_size > 500:
-            rec = state.get(n)
-            if rec and not rec.blocked:
-                print(f"\n  ch{n:02} — skipping (already complete, {final_path.stat().st_size // 1000}KB)")
-                continue
+        print(f"\n  ch{n:02}: {title}")
 
-        final = run_one_chapter(cfg, big, small, ledger, foundation, outline, chapter, state)
-        wc = R.word_count(final)
-        print(f"\n  ✓ ch{n:02} complete — {wc} words")
+        # Context for all calls
+        base_ctx = (
+            f"# Book: {cfg['book']['title']}\n\n"
+            f"# Foundation Material\n{foundation}\n\n"
+            f"# Book Outline\n{outline}\n\n"
+            f"# Previous chapters context\n{state.windowed_context(n, 3)}\n"
+        )
 
-        R.write_status(cfg, chapters, state)
+        # 1. RESEARCHER (119B)
+        print(f"    [1/4] researcher...", end=" ", flush=True)
+        research = call(small_client, researcher_prompt,
+            f"Create a focused research/concept pack for Chapter {n}: '{title}'. "
+            f"Provide concrete grounded examples from varied life domains. "
+            f"Name what must NOT be revealed yet. Do not write prose.\n\n{base_ctx}")
+        write(f"output/research_ch{n:02}.md", research)
+        print("done")
+
+        # 2. ARCHITECT (119B)
+        print(f"    [2/4] architect...", end=" ", flush=True)
+        plan = call(small_client, architect_prompt,
+            f"Plan Chapter {n}: '{title}'. Design the scene structure, opening beat, "
+            f"grounded examples (2-3 varied life domains), closing pull, and 'Notice this in you' practice. "
+            f"Target ~{word_target} words.\n\n{base_ctx}\n\n# Research Pack\n{research}")
+        write(f"output/chapter_plans/ch{n:02}.md", plan)
+        print("done")
+
+        # 3. DRAFTER (675B) — the money call
+        print(f"    [3/4] drafter (675B)...", end=" ", flush=True)
+        draft = call(big_client, drafter_prompt,
+            f"Write Chapter {n}: '{title}'. "
+            f"Build full scenes with named people, physical sensations, varied life domains. "
+            f"Target {word_target} words. Recognition before instruction. "
+            f"Do NOT restate the foundation — expand it into lived moments.\n\n"
+            f"{base_ctx}\n\n# Chapter Plan\n{plan}\n\n# Research Pack\n{research}")
+        print("done")
+
+        # 4. EDITOR (119B)
+        print(f"    [4/4] editor...", end=" ", flush=True)
+        final = call(small_client, editor_prompt,
+            f"Edit Chapter {n}: '{title}'. Smooth flow, fix rhythm, ensure transitions work. "
+            f"Do not add new concepts. Do not remove scenes or examples. Keep the weight.\n\n"
+            f"# Draft to edit\n{draft}\n\n# Chapter Plan\n{plan}")
+        write(f"output/final_chapters/ch{n:02}.md", final)
+        print("done")
+
+        # Word count
+        import re
+        wc = len(re.findall(r"\b\w+\b", final))
+        print(f"    ✓ {wc} words")
+
+        # Update state
+        rec = state.get(n) or ChapterRecord(number=n, title=title)
+        rec.summary = final[:800]
+        rec.word_count = wc
+        rec.final_path = f"output/final_chapters/ch{n:02}.md"
+        rec.blocked = False
+        state.upsert_chapter(rec)
+        state.save(ROOT / "output/book_state.json")
+
+        # Write status
+        lines = ["# Charlotte Status", "", f"Book: {cfg['book']['title']}", "", "## Chapters"]
+        for c in chapters:
+            cn = int(c["number"])
+            cp = ROOT / f"output/final_chapters/ch{cn:02}.md"
+            r = state.get(cn)
+            marker = "DONE" if cp.exists() else "PENDING"
+            extra = f" ({r.word_count} words)" if r and cp.exists() else ""
+            lines.append(f"- Chapter {cn}: {c['title']} — {marker}{extra}")
+        write("output/status.md", "\n".join(lines) + "\n")
+
+        # Commit
         git_commit_chapter(n, title)
 
-        # Pause between chapters — not after the last one
+        # Log
+        ledger.append("chapter_complete_lean", {"chapter": n, "title": title, "words": wc})
+
+        # Pause (not after last)
         if idx < len(selected) - 1:
-            remaining = len(selected) - idx - 1
-            print(f"  ⏸  pausing {INTER_CHAPTER_PAUSE}s before next chapter ({remaining} remaining)...")
+            print(f"    ⏸ {INTER_CHAPTER_PAUSE}s pause...")
             time.sleep(INTER_CHAPTER_PAUSE)
 
-    print(f"\n{'='*60}")
-    print("=== Conveyor complete ===")
+    print(f"\n{'='*50}")
+    print(f"  CONVEYOR COMPLETE")
     done = sorted(p.name for p in (ROOT / "output/final_chapters").glob("ch*.md"))
-    print(f"Chapters in output/final_chapters/ ({len(done)} total): {done}")
+    print(f"  {len(done)} chapters: {done}")
+    print(f"{'='*50}")
 
 
 if __name__ == "__main__":
