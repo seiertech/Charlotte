@@ -7,6 +7,15 @@ provider:
   type: "nim"
   protocol: "openai_compatible"
   base_url: "https://integrate.api.nvidia.com/v1"
+  model: "mistralai/mistral-large-3-675b-instruct-2512"
+  api_key_env: "NIM_API_KEY"
+  timeout_seconds: 600
+
+# Lighter model for reviewers/wardens (short PASS/BLOCK outputs only)
+reviewer_provider:
+  type: "nim"
+  protocol: "openai_compatible"
+  base_url: "https://integrate.api.nvidia.com/v1"
   model: "mistralai/mistral-small-4-119b-2603"
   api_key_env: "NIM_API_KEY"
   timeout_seconds: 180
@@ -20,9 +29,9 @@ runtime_defaults:
 
 workflow:
   max_revisions: 3
-  chapter_word_target: 3500
-  # word count tolerance as a fraction of target (0.4 -> accept 60%..140% of target)
-  word_count_tolerance: 0.4
+  chapter_word_target: 1400
+  # word count tolerance as a fraction of target (0.15 -> accept 85%..115% of target)
+  word_count_tolerance: 0.15
   # context windowing: how many prior chapter summaries to pass in full detail
   context_window_chapters: 3
   # resume: skip chapters that already have a final artefact
