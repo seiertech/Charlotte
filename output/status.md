@@ -17,4 +17,4 @@ Book: THE SYSTEM OF YOU
 - Chapter 12: The Method Made Whole — Which Layer, Which Currency — DONE (2093 words)
 - Chapter 13: The Toolkit — DONE (4134 words)
 - Chapter 14: Six Worked Problems — DONE (4088 words)
-- Chapter 15: Watching It Change — The Growth Map — PENDING
+- Chapter 15: Watching It Change — The Growth Map — DONE (2257 words)
