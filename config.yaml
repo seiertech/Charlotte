@@ -3,6 +3,15 @@ book:
   foundation_file: "foundation/Me_OS_Foundation.md"
   output_file: "output/full_first_draft.md"
 
+provider:
+  # mock works without secrets and validates the workflow.
+  # Change to nim when NIM details are available.
+  type: "mock"
+  base_url: ""
+  model: "mock"
+  api_key_env: "CHARLOTTE_API_KEY"
+  timeout_seconds: 180
+
 workflow:
   max_revisions: 3
   chapter_word_target: 3500
