@@ -5,9 +5,15 @@ __pycache__/
 .venv/
 venv/
 
-# Environment
+# Environment / secrets
 .env
 
-# Generated manuscript artefacts (keep the folder, not its contents)
+# Generated pipeline artefacts.
+# Ignore the noisy intermediate output (drafts, reviews, ledger, state, logs)
+# but KEEP the reader-facing manuscript so chapters land in git and are readable on GitHub.
 output/*
 !output/.gitkeep
+!output/book_outline.md
+!output/final_chapters/
+!output/full_first_draft.md
+!output/status.md
