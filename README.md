@@ -2,7 +2,7 @@
 
 Charlotte is an agent-agnostic Book Factory repository.
 
-It is designed to hold the book foundation, agent role definitions, handoff contracts, workflows, provider adapters, and generated manuscript outputs in a structure that any AI coding environment or agent runner can use.
+It holds the book foundation, agent role definitions, handoff contracts, workflows, provider adapters, and generated manuscript outputs in a structure that any AI coding environment or agent runner can use.
 
 Kiro can access and operate this repo, but Charlotte is not a Kiro-specific project.
 
@@ -30,9 +30,11 @@ Charlotte/
 ├── contracts/           # Input/output handoff contracts
 ├── workflows/           # Tool-agnostic workflow definitions
 ├── providers/           # Model execution adapters
-├── orchestrator/        # Optional local runner
+├── orchestrator/        # Local runner
 ├── foundation/          # Source truth for the book
 ├── output/              # Generated manuscript artefacts
+├── quality/             # Acceptance gates
+├── runbooks/            # Practical run instructions
 ├── adapters/            # Optional tool-specific instructions
 ├── config.yaml          # Neutral workflow and provider configuration
 ├── AGENTS.md            # Agent operating model
@@ -47,6 +49,7 @@ Foundation
 → Researcher
 → Chapter Planner
 → Drafter
+→ General Reviewer
 → Persona Reviewers
 → Continuity Warden
 → Safety Warden
@@ -58,7 +61,7 @@ Foundation
 
 ## Current execution status
 
-Charlotte now has a real neutral execution engine.
+Charlotte Alpha now has a neutral execution engine.
 
 The engine:
 
@@ -67,34 +70,49 @@ The engine:
 - Calls the configured provider
 - Writes each agent output into `output/`
 - Records execution events into `output/ledger.jsonl`
+- Writes `output/status.md`
 - Assembles `output/full_first_draft.md`
+- Stops if the foundation file still contains placeholder text
 
-## Provider modes
+## Current NIM configuration
 
-Default mode is safe local mock mode:
-
-```yaml
-provider:
-  type: "mock"
-```
-
-NIM mode is configured later by changing `config.yaml` to:
+Charlotte is configured for NVIDIA NIM:
 
 ```yaml
 provider:
   type: "nim"
-  base_url: "https://YOUR-NIM-ENDPOINT/v1"
-  model: "YOUR-NIM-MODEL"
-  api_key_env: "CHARLOTTE_API_KEY"
+  protocol: "openai_compatible"
+  base_url: "https://integrate.api.nvidia.com/v1"
+  model: "mistralai/mistral-small-4-119b-2603"
+  api_key_env: "NIM_API_KEY"
 ```
 
-Then export the key locally:
+Runtime defaults:
 
-```bash
-export CHARLOTTE_API_KEY="your_key_here"
+```yaml
+runtime_defaults:
+  max_tokens: 16384
+  temperature: 0.1
+  top_p: 1.0
+  reasoning_effort: "high"
+  tool_choice: "auto"
 ```
 
 Do not commit secrets.
+
+## Add the NIM key locally
+
+Linux/macOS/Git Bash:
+
+```bash
+export NIM_API_KEY="your_new_key_here"
+```
+
+Windows PowerShell:
+
+```powershell
+$env:NIM_API_KEY="your_new_key_here"
+```
 
 ## Important
 
@@ -134,6 +152,25 @@ This writes:
 output/full_first_draft.md
 ```
 
+## Recommended first run
+
+Run one chapter first:
+
+```bash
+python orchestrator/run.py --chapter 1
+```
+
+Then inspect:
+
+```text
+output/final_chapters/ch01.md
+output/reviews/ch01_combined.md
+output/status.md
+output/ledger.jsonl
+```
+
+If Chapter 1 is acceptable, run the full draft.
+
 ## Using with Kiro
 
 Open the GitHub repo in Kiro and point Kiro at:
@@ -143,6 +180,7 @@ AGENTS.md
 workflows/first-draft-workflow.md
 contracts/handoff-contract.md
 adapters/kiro.md
+runbooks/ALPHA_RUNBOOK.md
 config.yaml
 ```
 
