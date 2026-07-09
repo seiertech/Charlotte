@@ -7,7 +7,7 @@ Book: THE SYSTEM OF YOU
 - Chapter 2: The Body — Your Hardware — DONE (2069 words)
 - Chapter 3: The Three Currencies — What Runs Through You — DONE (1790 words)
 - Chapter 4: The Hidden Machine — Your Operating System — DONE (2122 words)
-- Chapter 5: Habits & Skills — Your Software — PENDING
+- Chapter 5: Habits & Skills — Your Software — DONE (2271 words)
 - Chapter 6: The People — Your Network — PENDING
 - Chapter 7: The Story — Your Identity — PENDING
 - Chapter 8: The Boundary — What Comes In, What Shows Out — PENDING
