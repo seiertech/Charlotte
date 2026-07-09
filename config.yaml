@@ -4,13 +4,19 @@ book:
   output_file: "output/full_first_draft.md"
 
 provider:
-  # mock works without secrets and validates the workflow.
-  # Change to nim when NIM details are available.
-  type: "mock"
-  base_url: ""
-  model: "mock"
-  api_key_env: "CHARLOTTE_API_KEY"
+  type: "nim"
+  protocol: "openai_compatible"
+  base_url: "https://integrate.api.nvidia.com/v1"
+  model: "mistralai/mistral-small-4-119b-2603"
+  api_key_env: "NIM_API_KEY"
   timeout_seconds: 180
+
+runtime_defaults:
+  max_tokens: 16384
+  temperature: 0.1
+  top_p: 1.0
+  reasoning_effort: "high"
+  tool_choice: "auto"
 
 workflow:
   max_revisions: 3
