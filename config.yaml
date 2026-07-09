@@ -1,7 +1,7 @@
 book:
   title: "THE SYSTEM OF YOU"
   foundation_file: "foundation/Me_OS_Foundation.md"
-  output_file: "output/full_first_draft.md"
+  output_file: "output/full_second_draft.md"
 
 provider:
   type: "nim"

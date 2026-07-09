@@ -16,4 +16,5 @@ output/*
 !output/book_outline.md
 !output/final_chapters/
 !output/full_first_draft.md
+!output/full_second_draft.md
 !output/status.md
