@@ -21,15 +21,18 @@ runtime_defaults:
 workflow:
   max_revisions: 3
   chapter_word_target: 3500
+  run_general_reviewer: true
   run_personas: true
   run_safety_warden: true
   run_continuity_warden: true
   run_voice_warden: true
 
 agents:
+  book_manager: "agents/book_manager.md"
   outliner: "agents/outliner.md"
   researcher: "agents/researcher.md"
   drafter: "agents/drafter.md"
+  reviewer: "agents/reviewer.md"
   editor: "agents/editor.md"
   warden_voice: "agents/warden_voice.md"
   warden_safety: "agents/warden_safety.md"
