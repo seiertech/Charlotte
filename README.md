@@ -1,23 +1,66 @@
 # Charlotte
 
-Charlotte is a Kiro-ready Book Factory for generating a complete first draft from supplied foundation material.
+Charlotte is an agent-agnostic Book Factory repository.
 
-## Current status
+It is designed to hold the book foundation, agent role definitions, handoff contracts, workflows, and generated manuscript outputs in a structure that any AI coding environment or agent runner can use.
 
-This repository has been seeded with:
+Kiro can access and operate this repo, but Charlotte is not a Kiro-specific project.
 
-- Kiro steering files
-- First-draft workflow spec
-- Agent prompts
-- Persona reviewers
-- A simple Python orchestrator
-- Config file
-- Output folder
-- Foundation placeholder
+## Principle
+
+The repository owns the process.
+The tool only executes it.
+
+This means Charlotte should be usable by:
+
+- Kiro
+- Codex
+- Claude Code
+- Cursor
+- GitHub Actions
+- n8n
+- A local Python runner
+- Any future agent system
+
+## Repository model
+
+```text
+Charlotte/
+├── agents/              # Role definitions and persona reviewers
+├── contracts/           # Input/output handoff contracts
+├── workflows/           # Tool-agnostic workflow definitions
+├── orchestrator/        # Optional local runner
+├── foundation/          # Source truth for the book
+├── output/              # Generated manuscript artefacts
+├── adapters/            # Optional tool-specific instructions
+├── config.yaml          # Neutral workflow configuration
+├── AGENTS.md            # Agent operating model
+└── README.md
+```
+
+## Core workflow
+
+```text
+Foundation
+→ Outliner
+→ Researcher
+→ Drafter
+→ Persona Reviewers
+→ Continuity Warden
+→ Safety Warden
+→ Voice Warden
+→ Editor
+→ Assembler
+→ First Draft
+```
 
 ## Important
 
-`foundation/Me_OS_Foundation.md` is currently a placeholder. Replace it with the full foundation text from the source draft package before running a real manuscript generation.
+`foundation/Me_OS_Foundation.md` is the source of truth for the book.
+
+Generated content must go into `output/`.
+
+Tool-specific files belong in `adapters/`, not in the core workflow.
 
 ## Setup
 
@@ -49,34 +92,15 @@ This writes:
 output/full_first_draft.md
 ```
 
-## Kiro usage
+## Using with Kiro
 
-Open this repository in Kiro and use:
-
-```text
-.kiro/steering/book-factory.md
-.kiro/specs/first-draft-workflow/requirements.md
-.kiro/specs/first-draft-workflow/tasks.md
-```
-
-Primary Kiro prompt:
+Open the GitHub repo in Kiro and point Kiro at:
 
 ```text
-Review this repository as the Charlotte Book Factory.
-
-Goal:
-Make the shortest path to generating a complete first draft at output/full_first_draft.md.
-
-Instructions:
-1. Inspect the repository.
-2. Confirm the agent workflow.
-3. Confirm orchestrator/run.py creates the required output folders.
-4. Replace the deterministic scaffold with real model calls only where needed.
-5. Preserve the agent handoff model.
-6. Do not overwrite foundation/Me_OS_Foundation.md.
-7. Keep generated manuscript content inside output/.
-8. Run one chapter test before full manuscript generation.
-
-Success condition:
-The repository can generate output/full_first_draft.md from the foundation file.
+AGENTS.md
+workflows/first-draft-workflow.md
+contracts/handoff-contract.md
+config.yaml
 ```
+
+Kiro should execute the neutral repo workflow. It should not become the owner of the architecture.
