@@ -84,8 +84,12 @@ class OpenAICompatibleClient(ModelClient):
         # NIM supports these on selected models; keep them configurable and harmless if ignored upstream.
         if self.defaults.get("reasoning_effort"):
             payload["reasoning_effort"] = self.defaults["reasoning_effort"]
-        if self.defaults.get("tool_choice"):
-            payload["tool_choice"] = self.defaults["tool_choice"]
+        # tool_choice is only valid when tools are also supplied; sending it alone is a 400 on many models.
+        tools = self.defaults.get("tools")
+        if tools:
+            payload["tools"] = tools
+            if self.defaults.get("tool_choice"):
+                payload["tool_choice"] = self.defaults["tool_choice"]
 
         data = json.dumps(payload).encode("utf-8")
         req = urllib.request.Request(

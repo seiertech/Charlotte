@@ -121,14 +121,17 @@ def extract_chapters(outline: str) -> List[Dict[str, object]]:
     chapters: List[Dict[str, object]] = []
     seen = set()
     for line in outline.splitlines():
-        match = re.match(r"^\s*(?:#+\s*)?(?:Chapter\s*)?(\d+)[\).:-]\s+(.+)$", line.strip(), flags=re.I)
+        # tolerate markdown: bold, headings, list/quote markers around "Chapter N: Title"
+        clean = line.strip().lstrip("#*>-•\t ").strip()
+        match = re.match(r"^Chapter\s+(\d+)\s*[\).:\-–—]?\s*(.+)$", clean, flags=re.I)
         if match:
             number = int(match.group(1))
             if number in seen:
                 continue
             seen.add(number)
-            title = match.group(2).strip().strip("*_# ")
-            chapters.append({"number": number, "title": title})
+            title = match.group(2).strip().strip("*_# ").strip()
+            if title:
+                chapters.append({"number": number, "title": title})
 
     if not chapters:
         fallback_titles = [
@@ -466,7 +469,7 @@ def main() -> None:
 
     research_pack = run_research(cfg, client, ledger, foundation, outline)
 
-    selected = [c for c in chapters if not args.chapter or int(c["number"]) == args.chapter]
+    selected = [c for c in chapters if args.chapter is None or int(c["number"]) == args.chapter]
     for chapter in selected:
         n = int(chapter["number"])
         if resume and state.is_complete(n) and (ROOT / f"output/final_chapters/ch{n:02}.md").exists():
@@ -475,7 +478,7 @@ def main() -> None:
             continue
         run_chapter(cfg, client, ledger, foundation, outline, research_pack, chapter, state)
 
-    if not args.chapter:
+    if args.chapter is None:
         manuscript = assemble(cfg, chapters)
         run_book_level_reviews(cfg, client, ledger, foundation, outline, manuscript, state)
         write_status(cfg, chapters, state)
