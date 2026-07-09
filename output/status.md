@@ -9,7 +9,7 @@ Book: THE SYSTEM OF YOU
 - Chapter 4: The Hidden Machine — Your Operating System — DONE (2122 words)
 - Chapter 5: Habits & Skills — Your Software — DONE (2271 words)
 - Chapter 6: The People — Your Network — DONE (1805 words)
-- Chapter 7: The Story — Your Identity — PENDING
+- Chapter 7: The Story — Your Identity — DONE (2191 words)
 - Chapter 8: The Boundary — What Comes In, What Shows Out — PENDING
 - Chapter 9: The Ground — Genetics & Human Nature — PENDING
 - Chapter 10: The Meaning — Belief, Then Faith — PENDING
