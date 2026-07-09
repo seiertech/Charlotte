@@ -13,7 +13,7 @@ Book: THE SYSTEM OF YOU
 - Chapter 8: The Boundary — What Comes In, What Shows Out — DONE (3040 words)
 - Chapter 9: The Ground — Genetics & Human Nature — DONE (2727 words)
 - Chapter 10: The Meaning — Belief, Then Faith — DONE (2107 words)
-- Chapter 11: The Cross-Layer Truths — How the System Really Works — PENDING
+- Chapter 11: The Cross-Layer Truths — How the System Really Works — DONE (3305 words)
 - Chapter 12: The Method Made Whole — Which Layer, Which Currency — PENDING
 - Chapter 13: The Toolkit — PENDING
 - Chapter 14: Six Worked Problems — PENDING
