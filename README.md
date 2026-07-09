@@ -2,7 +2,7 @@
 
 Charlotte is an agent-agnostic Book Factory repository.
 
-It is designed to hold the book foundation, agent role definitions, handoff contracts, workflows, and generated manuscript outputs in a structure that any AI coding environment or agent runner can use.
+It is designed to hold the book foundation, agent role definitions, handoff contracts, workflows, provider adapters, and generated manuscript outputs in a structure that any AI coding environment or agent runner can use.
 
 Kiro can access and operate this repo, but Charlotte is not a Kiro-specific project.
 
@@ -29,11 +29,12 @@ Charlotte/
 ├── agents/              # Role definitions and persona reviewers
 ├── contracts/           # Input/output handoff contracts
 ├── workflows/           # Tool-agnostic workflow definitions
+├── providers/           # Model execution adapters
 ├── orchestrator/        # Optional local runner
 ├── foundation/          # Source truth for the book
 ├── output/              # Generated manuscript artefacts
 ├── adapters/            # Optional tool-specific instructions
-├── config.yaml          # Neutral workflow configuration
+├── config.yaml          # Neutral workflow and provider configuration
 ├── AGENTS.md            # Agent operating model
 └── README.md
 ```
@@ -44,6 +45,7 @@ Charlotte/
 Foundation
 → Outliner
 → Researcher
+→ Chapter Planner
 → Drafter
 → Persona Reviewers
 → Continuity Warden
@@ -53,6 +55,46 @@ Foundation
 → Assembler
 → First Draft
 ```
+
+## Current execution status
+
+Charlotte now has a real neutral execution engine.
+
+The engine:
+
+- Loads `config.yaml`
+- Loads the agent role files
+- Calls the configured provider
+- Writes each agent output into `output/`
+- Records execution events into `output/ledger.jsonl`
+- Assembles `output/full_first_draft.md`
+
+## Provider modes
+
+Default mode is safe local mock mode:
+
+```yaml
+provider:
+  type: "mock"
+```
+
+NIM mode is configured later by changing `config.yaml` to:
+
+```yaml
+provider:
+  type: "nim"
+  base_url: "https://YOUR-NIM-ENDPOINT/v1"
+  model: "YOUR-NIM-MODEL"
+  api_key_env: "CHARLOTTE_API_KEY"
+```
+
+Then export the key locally:
+
+```bash
+export CHARLOTTE_API_KEY="your_key_here"
+```
+
+Do not commit secrets.
 
 ## Important
 
@@ -80,7 +122,7 @@ python orchestrator/run.py --outline-only
 python orchestrator/run.py --chapter 1
 ```
 
-## Run full first draft scaffold
+## Run full first draft
 
 ```bash
 python orchestrator/run.py
@@ -100,6 +142,7 @@ Open the GitHub repo in Kiro and point Kiro at:
 AGENTS.md
 workflows/first-draft-workflow.md
 contracts/handoff-contract.md
+adapters/kiro.md
 config.yaml
 ```
 
