@@ -59,6 +59,11 @@ def agent(cfg: dict, name: str) -> str:
     return content
 
 
+def is_placeholder_foundation(foundation: str) -> bool:
+    lowered = foundation.lower()
+    return "replace this placeholder" in lowered or "foundation file used by charlotte" in lowered
+
+
 def call_agent(
     client: ModelClient,
     ledger: Ledger,
@@ -103,7 +108,6 @@ def extract_chapters(outline: str) -> List[Dict[str, str]]:
             title = match.group(2).strip()
             chapters.append({"number": number, "title": title})
 
-    # Fallback if model returns prose without numbered chapters.
     if not chapters:
         fallback_titles = [
             "You Are a System",
@@ -125,12 +129,17 @@ def extract_chapters(outline: str) -> List[Dict[str, str]]:
     return chapters
 
 
+def contains_block(review_text: str) -> bool:
+    return bool(re.search(r"\bBLOCK\b", review_text, flags=re.I))
+
+
 def build_base_context(cfg: dict, foundation: str) -> str:
     return (
         f"# Book Title\n{cfg['book']['title']}\n\n"
         f"# Foundation Material\n{foundation}\n\n"
         f"# Handoff Contract\n{read('contracts/handoff-contract.md')}\n\n"
-        f"# Workflow\n{read('workflows/first-draft-workflow.md')}\n"
+        f"# Workflow\n{read('workflows/first-draft-workflow.md')}\n\n"
+        f"# Acceptance Gate\n{read('quality/CHAPTER_ACCEPTANCE_GATE.md')}\n"
     )
 
 
@@ -140,10 +149,10 @@ def run_outline(cfg: dict, client: ModelClient, ledger: Ledger, foundation: str)
         ledger=ledger,
         agent_name="outliner",
         agent_prompt=agent(cfg, "outliner"),
-        task="Create the complete book outline and chapter architecture from the foundation material.",
+        task="Create the complete book outline and chapter architecture from the foundation material. Number every chapter clearly.",
         context=build_base_context(cfg, foundation),
         output_path="output/book_outline.md",
-        temperature=0.35,
+        temperature=0.1,
     )
 
 
@@ -156,7 +165,7 @@ def run_research(cfg: dict, client: ModelClient, ledger: Ledger, foundation: str
         task="Create a practical research/concept pack for every planned chapter. Do not write chapter prose.",
         context=build_base_context(cfg, foundation) + f"\n\n# Book Outline\n{outline}",
         output_path="output/research_pack.md",
-        temperature=0.25,
+        temperature=0.1,
     )
 
 
@@ -189,7 +198,7 @@ def run_chapter(
         f"Plan Chapter {n}: {title}. Produce sections, flow, examples, practice/reflection, and do-not-include-yet notes.",
         base_context,
         f"output/chapter_plans/{prefix}.md",
-        temperature=0.3,
+        temperature=0.1,
     )
 
     draft = call_agent(
@@ -197,15 +206,29 @@ def run_chapter(
         ledger,
         "drafter",
         agent(cfg, "drafter"),
-        f"Write a complete first draft of Chapter {n}: {title} using the chapter plan and research pack.",
+        f"Write a complete first draft of Chapter {n}: {title} using the chapter plan and research pack. Aim for the configured chapter word target.",
         base_context + f"\n\n# Chapter Plan\n{chapter_plan}",
         f"output/drafts/{prefix}.md",
-        temperature=0.55,
+        temperature=0.1,
     )
 
     review_context = base_context + f"\n\n# Chapter Plan\n{chapter_plan}\n\n# Draft Chapter\n{draft}"
 
     review_parts: List[str] = []
+    if cfg.get("workflow", {}).get("run_general_reviewer", True):
+        review_parts.append(
+            call_agent(
+                client,
+                ledger,
+                "reviewer",
+                agent(cfg, "reviewer"),
+                f"Review Chapter {n}: {title}. Return PASS or BLOCK, a score, blocking issues, and recommended changes.",
+                review_context,
+                f"output/reviews/{prefix}_general.md",
+                temperature=0.1,
+            )
+        )
+
     if cfg.get("workflow", {}).get("run_personas", True):
         for persona_path in cfg.get("personas", []):
             persona_prompt = read(persona_path)
@@ -218,7 +241,7 @@ def run_chapter(
                 f"Review Chapter {n}: {title} from your persona. Return PASS or BLOCK with blocking issues only.",
                 review_context,
                 f"output/reviews/{prefix}_{persona_name}.md",
-                temperature=0.2,
+                temperature=0.1,
             )
             review_parts.append(f"# Persona: {persona_name}\n\n{review}")
 
@@ -232,7 +255,7 @@ def run_chapter(
                 f"Review continuity for Chapter {n}: {title}.",
                 review_context,
                 f"output/reviews/{prefix}_continuity.md",
-                temperature=0.2,
+                temperature=0.1,
             )
         )
 
@@ -246,7 +269,7 @@ def run_chapter(
                 f"Review safety for Chapter {n}: {title}.",
                 review_context,
                 f"output/reviews/{prefix}_safety.md",
-                temperature=0.2,
+                temperature=0.1,
             )
         )
 
@@ -260,24 +283,26 @@ def run_chapter(
                 f"Review voice for Chapter {n}: {title}.",
                 review_context,
                 f"output/reviews/{prefix}_voice.md",
-                temperature=0.2,
+                temperature=0.1,
             )
         )
 
     combined_review = "\n\n---\n\n".join(review_parts)
     write(f"output/reviews/{prefix}_combined.md", combined_review)
+    blocked = contains_block(combined_review)
+    ledger.append("chapter_review_complete", {"chapter": n, "title": title, "blocked": blocked})
 
     final = call_agent(
         client,
         ledger,
         "editor",
         agent(cfg, "editor"),
-        f"Edit Chapter {n}: {title}. Apply review notes and produce the final chapter.",
+        f"Edit Chapter {n}: {title}. Apply review notes and produce the final chapter. If review notes contain BLOCK, explicitly resolve the blockers before finalising.",
         review_context + f"\n\n# Combined Review Notes\n{combined_review}",
         f"output/final_chapters/{prefix}.md",
-        temperature=0.35,
+        temperature=0.1,
     )
-    ledger.append("chapter_complete", {"chapter": n, "title": title, "output_path": f"output/final_chapters/{prefix}.md"})
+    ledger.append("chapter_complete", {"chapter": n, "title": title, "blocked_before_edit": blocked, "output_path": f"output/final_chapters/{prefix}.md"})
     return final
 
 
@@ -288,6 +313,16 @@ def assemble(cfg: dict, chapters: List[Dict[str, str]]) -> None:
         path = f"output/final_chapters/ch{n:02}.md"
         parts.append(read(path))
     write(cfg["book"].get("output_file", "output/full_first_draft.md"), "\n\n---\n\n".join(parts))
+
+
+def write_status(cfg: dict, chapters: List[Dict[str, str]]) -> None:
+    lines = ["# Charlotte Status", "", f"Book: {cfg['book']['title']}", "", "## Chapters"]
+    for chapter in chapters:
+        n = int(chapter["number"])
+        path = ROOT / f"output/final_chapters/ch{n:02}.md"
+        marker = "DONE" if path.exists() else "PENDING"
+        lines.append(f"- Chapter {n}: {chapter['title']} — {marker}")
+    write("output/status.md", "\n".join(lines) + "\n")
 
 
 def main() -> None:
@@ -306,18 +341,23 @@ def main() -> None:
     foundation = read(foundation_path)
     if not foundation.strip():
         raise SystemExit(f"Missing foundation material: {foundation_path}")
+    if is_placeholder_foundation(foundation):
+        raise SystemExit(f"Foundation material appears to be placeholder text. Replace {foundation_path} before running Charlotte.")
 
     if args.assemble_only:
         outline = read("output/book_outline.md")
         chapters = extract_chapters(outline)
         assemble(cfg, chapters)
+        write_status(cfg, chapters)
         print(f"Assembled {cfg['book'].get('output_file', 'output/full_first_draft.md')}")
         return
 
+    ledger.append("run_start", {"book": cfg["book"]["title"], "provider": cfg.get("provider", {}).get("type")})
     outline = run_outline(cfg, client, ledger, foundation)
     chapters = extract_chapters(outline)
 
     if args.outline_only:
+        write_status(cfg, chapters)
         print("Wrote output/book_outline.md")
         return
 
@@ -331,8 +371,12 @@ def main() -> None:
 
     if not args.chapter:
         assemble(cfg, chapters)
+        write_status(cfg, chapters)
+        ledger.append("run_complete", {"output_file": cfg['book'].get('output_file', 'output/full_first_draft.md')})
         print(f"Wrote {cfg['book'].get('output_file', 'output/full_first_draft.md')}")
     else:
+        write_status(cfg, chapters)
+        ledger.append("chapter_run_complete", {"chapter": args.chapter})
         print(f"Wrote chapter {args.chapter}")
 
 
