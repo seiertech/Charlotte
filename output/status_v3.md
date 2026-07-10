@@ -4,7 +4,7 @@
 - Ch1: The Doorway — You Are a System — DONE (1266w)
 - Ch2: Body — DONE (1454w)
 - Ch3: Wiring — DONE (2285w)
-- Ch4: Habit — pending
+- Ch4: Habit — DONE (1638w)
 - Ch5: Room — pending
 - Ch6: Story — pending
 - Ch7: The Method Made Whole — pending
