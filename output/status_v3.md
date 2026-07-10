@@ -12,4 +12,4 @@
 - Ch9: Worked Situations — DONE (3722w)
 - Ch10: The Hard Cases — DONE (1759w)
 - Ch11: Belief, Then Faith — DONE (1796w)
-- Ch12: Watching It Change — The Growth Map — pending
+- Ch12: Watching It Change — The Growth Map — DONE (2326w)
