@@ -1,6 +1,6 @@
 # Charlotte Draft 3 — Status
 
-- Ch0: A Note Before We Start — pending
+- Ch0: A Note Before We Start — DONE (1949w)
 - Ch1: The Doorway — You Are a System — DONE (1266w)
 - Ch2: Body — DONE (1454w)
 - Ch3: Wiring — DONE (2285w)
