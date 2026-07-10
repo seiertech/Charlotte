@@ -8,7 +8,7 @@
 - Ch5: Room — DONE (1008w)
 - Ch6: Story — DONE (1289w)
 - Ch7: The Method Made Whole — DONE (2370w)
-- Ch8: The Toolkit — pending
+- Ch8: The Toolkit — DONE (4408w)
 - Ch9: Worked Situations — pending
 - Ch10: The Hard Cases — pending
 - Ch11: Belief, Then Faith — pending
