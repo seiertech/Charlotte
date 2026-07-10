@@ -6,7 +6,7 @@
 - Ch3: Wiring — DONE (2285w)
 - Ch4: Habit — DONE (1638w)
 - Ch5: Room — DONE (1008w)
-- Ch6: Story — pending
+- Ch6: Story — DONE (1289w)
 - Ch7: The Method Made Whole — pending
 - Ch8: The Toolkit — pending
 - Ch9: Worked Situations — pending
