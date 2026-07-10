@@ -3,7 +3,7 @@
 - Ch0: A Note Before We Start — pending
 - Ch1: The Doorway — You Are a System — DONE (1266w)
 - Ch2: Body — DONE (1454w)
-- Ch3: Wiring — pending
+- Ch3: Wiring — DONE (2285w)
 - Ch4: Habit — pending
 - Ch5: Room — pending
 - Ch6: Story — pending
