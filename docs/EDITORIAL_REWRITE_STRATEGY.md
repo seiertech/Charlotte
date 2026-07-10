@@ -45,14 +45,18 @@ These four require your ruling because they change the *locked* foundation. My r
 
 **My recommendation: YES (already half-done).** The Troubleshooting Reference is already an appendix. The Boundary currently has a full chapter (ch08) and the Growth Map is the finale (ch15) — we keep the Growth Map as narrative finale material but move its *tabular* parts to the appendix, and fold the Boundary's teachable content into the relevant layers while its table joins the reference.
 
-### Decision E — Reader-as-protagonist, NOT named characters *(supersedes the critique's named cast)*
-**Critique:** rebuild five *named* people (Priya/Jordan/Maya/Alex/+1), give each a different body, recur them through the book, let one fail.
+### Decision E — Differentiated third person for the taxonomy; "you" for the turn *(REVISED — replaces the earlier reader-only proposal)*
+**The real defect was never character-vs-reader — it was *undifferentiation* + *scenes-as-overture*.** Four identical bodies across four names; a reader-only rewrite doesn't cure that, it concentrates it into one identical body repeated. And the decisive structural fact:
 
-**My recommendation: KEEP the five-causes skeleton, REJECT the named-character delivery.** Named case-studies ("Priya at the meeting, coffee going cold") are a tired, skimmed, *distancing* genre trope — they pull the reader toward "that's Priya's problem," the opposite of recognition. The critique reached for them only to break up the relentless "you"; that's the wrong fix. **The book already has a reader-as-protagonist spine — the "Notice this in you" practices that accumulate into the reader's own Growth Map — and named characters compete with it.** So:
-- **The five-causes proof (Ch1)** is delivered as **unnamed, universal instances** the reader scans to locate themselves: same symptom (a 3pm snap), five causes, ending on *"Which one was you?"* — self-diagnosis, not biography.
-- **The through-line is the reader's own accumulating self-portrait**, not a recurring cast.
-- **Worked problems become reader-situations:** *"When you clash with someone at work,"* walked through with the tools — generic, universal, "you". (This also settles the earlier ch14 generic-vs-character question: **generic/reader-aligned.**)
-- **The lost payoff** (a recurring character who fails) is recovered by aiming the Hard Cases (Phase 6) and honest "this won't always work" beats **directly at the reader** — it lands harder as "you" than as "Jordan".
+> **The thesis is a taxonomy (one symptom, five causes). A taxonomy is a comparison. Comparison needs several subjects side by side — which second person cannot do.** *"You snapped because underslept"* and *"you snapped because a groove wore"* are the **same** person, so the causes compete instead of contrast. Second person shows a *mechanism*; it cannot show a *taxonomy*.
+
+So the ruling flips:
+- **Third person carries the taxonomy.** Five *distinct* people, five layers, one shared 3pm snap — each with a genuinely different body (Phase 3 sensory grammar). The proof **needs five bodies to exist**.
+- **Second person carries the turn.** After the five land: *"Which one was yours?"* — the earned moment of application, the one job only "you" can do.
+- **The real cut is the full-length scene, not the people.** One full scene in the whole book (the Doorway); everywhere else micro-scenes of 1–3 sentences dropped as *evidence mid-argument*: *"She snapped at 3pm. She'd slept five hours. Those are not two facts."* Named, **differentiated** people used as evidence are not a trope — the tiredness came from sameness and overture-length, not names.
+- **No conflict with the reader's own arc:** the reader is still protagonist *of their own self-portrait* (the "Notice this in you" practices → Growth Map). Third person **demonstrates**; the practices and the "you" turns **apply**. Different jobs.
+
+→ This supersedes the reader-only idea. It's the only structure that can actually *demonstrate* the central claim, and it fixes the earlier ch14 question by making worked problems **differentiated third-person evidence + a "you" turn**, not character overtures.
 
 ---
 
@@ -65,15 +69,15 @@ These four require your ruling because they change the *locked* foundation. My r
 ### Phase 1 — Revise the foundation to v2 (from Decisions A–D)
 Produce `foundation/Me_OS_Foundation_v2.md`: renamed spine, currencies demoted to a tool, Belief/Faith relocated to the finale, tables designated appendix, and a **revised reveal order** reflecting all of it. This is the new locked source of truth. Everything regenerates from here.
 
-### Phase 2 — The reader as protagonist (the structural core)
-Keep the critique's five-causes skeleton; drop the named characters (Decision E). **Same external symptom — you snap at 3pm — five different causes, one per layer**, delivered as unnamed universal instances the reader scans:
-- Body — snapped on five hours' sleep.
-- Wiring — snapped fully rested, because the reaction fired before the decision arrived.
-- Habit — snapped because it's the third time this week; a groove has worn.
-- Room — snapped because the room was tense before you entered it; you're running someone else's weather.
-- Story — snapped because the story demands it: *"I'm the one who holds it together, so I'm the one allowed to break."*
+### Phase 2 — The five-cause proof, differentiated (the structural core)
+Chapter 1: **one symptom, five causes, five distinct people** — the taxonomy made visible in third person, each with a genuinely different body (Phase 3):
+- **Body** — slept five hours; the fix is sleep, and no insight substitutes.
+- **Wiring** — fully rested, but the reaction fired before the decision arrived; watched it happen.
+- **Habit** — third time this week; a groove has worn; not choosing, just running the path.
+- **Room** — walked into a room already tense; running someone else's weather.
+- **Story** — the story demanded it: *"I'm the one who holds everything together, so I'm the one allowed to break."*
 
-This is Chapter 1's proof-of-concept, ending on **"Which one was you?"** — the reader's first act of self-diagnosis. The recurring "cast" is **the reader's own accumulating self-portrait** (the practices → Growth Map), not invented people. Each layer still gets its own sensory register (Phase 3) so the *causes* feel different even though there's no named character carrying them.
+Five causes, one snap — the proof, which **needs five bodies to exist** (you cannot compare one person against themselves). Then the pivot to the reader in second person: **"Which one was yours?"** — the earned turn into self-diagnosis. These five may recur as brief third-person *evidence* through the book (optional through-line; one may fail — the honesty that earns trust), while the reader's own arc runs in parallel through the practices → Growth Map.
 
 ### Phase 3 — Sensory grammar (the prose discipline that fixes the contradiction)
 Assign each layer its own physical register and **enforce it at the agent level**:
@@ -87,11 +91,11 @@ Assign each layer its own physical register and **enforce it at the agent level*
 
 **Ban outright:** *chest, clench, shoulders, lands like a stone, why can't I just—, the words swim.* One may be earned back per chapter only by writing something better first. Give each of the five people a **different body**: Priya's jaw/voice, Jordan's hands/eyes, Maya's stomach, Alex's room-temperature, the fifth's narration. **Nobody else gets a chest.**
 
-### Phase 4 — Scene rationing
-**One** full scene in the whole book — in the Doorway — the best 500 words in the manuscript. Everywhere else: **micro-scenes**, one to three sentences, dropped as evidence mid-argument, never as overture. Cut all nineteen scene-openings and the pasted duplicates.
+### Phase 4 — Scene rationing (the deepest change: overture → evidence)
+**One** full scene in the whole book — in the Doorway — the best 500 words in the manuscript. Everywhere else: **micro-scenes**, one to three sentences, dropped as evidence mid-argument, never as overture. Cut all nineteen scene-openings and the pasted duplicates. This is *the* structural change — the pronoun question is downstream of it: once scenes are evidence rather than overture, they need *someone they happened to*, which is exactly why third person stays (Decision E).
 
-### Phase 5 — Point of view (the cure for relentless "you" is *better* "you", not characters)
-Break the ~95% "you" — but **not** with named case studies. Three registers: precise, *rationed* **"you"** for diagnosis; spare, **unnamed "someone"** instances (patterns the mentor has *observed*) to vary rhythm and prove universality without manufacturing biographies; and **"I"** for the argument. The absence of "I" in a book about self-knowledge is the strange omission the critique nails — blocked by the missing author's note (Phase 0), which is why that comes first. Presumptuousness is cured by specificity and restraint, not by third-person actors.
+### Phase 5 — Point of view: a division of labour
+**Third person demonstrates. Second person applies. First person ("I") argues.** The cure for the relentless ~95% "you" is giving each pronoun the one job only it can do. Third person holds the taxonomy (comparison needs separate subjects). One or two sentences of "you" *after* a page of "she" — *"Which one was yours?"* — hits far harder than nineteen pages of "you". "I" (blocked on the author's note, Phase 0) carries the argument, so the reader meets the mind behind the system.
 
 ### Phase 6 — Write the missing 25,000–35,000 words (the real intellectual content)
 Target 55k–70k total. The new words are **not padding** — they're the three things currently absent:
@@ -119,7 +123,7 @@ The lean conveyor stays, but the agents are re-tuned to enforce the new rules:
 - **New foundation v2** becomes the context every agent reads.
 - **Chapter Architect** gets the five-cast continuity map + each chapter's assigned layer, sensory register, and "commonly mistaken for" slot.
 - **Drafter** gets: the per-layer sensory grammar, the banned-vocabulary list (hard fail), the POV rule (you/third/I by passage type), scene-rationing (micro-scenes only outside the Doorway), and the differentiated-body rule for the five people.
-- **New agent — Recognition/Continuity Warden:** enforces reader-alignment (no drift into named-character case studies), checks that the five *causes* stay distinct via their sensory registers, that banned vocabulary hasn't crept back, and that the POV registers (you / someone / I) are used correctly. This is the guardrail that stops the thesis-vs-body contradiction — and the tired character trope — from returning.
+- **New agent — Differentiation/Continuity Warden:** enforces that the five people stay genuinely distinct (different bodies via the sensory grammar, different causes), that scenes stay micro-evidence not overtures, that banned vocabulary hasn't returned, and that the POV division of labour holds (third demonstrates / second applies / "I" argues). This is the guardrail against the real defect — undifferentiation — reappearing.
 - **New agent — Mechanism/Attribution reviewer:** for the new mechanism sections — flags any unsupported claim and any phrasing that echoes a source too closely (originality guard).
 - **Voice Warden** updated to enforce the sensory-grammar bans and the POV alternation.
 
