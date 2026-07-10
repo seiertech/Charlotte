@@ -7,7 +7,7 @@
 - Ch4: Habit — DONE (1638w)
 - Ch5: Room — DONE (1008w)
 - Ch6: Story — DONE (1289w)
-- Ch7: The Method Made Whole — pending
+- Ch7: The Method Made Whole — DONE (2370w)
 - Ch8: The Toolkit — pending
 - Ch9: Worked Situations — pending
 - Ch10: The Hard Cases — pending
