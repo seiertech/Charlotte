@@ -45,6 +45,15 @@ These four require your ruling because they change the *locked* foundation. My r
 
 **My recommendation: YES (already half-done).** The Troubleshooting Reference is already an appendix. The Boundary currently has a full chapter (ch08) and the Growth Map is the finale (ch15) — we keep the Growth Map as narrative finale material but move its *tabular* parts to the appendix, and fold the Boundary's teachable content into the relevant layers while its table joins the reference.
 
+### Decision E — Reader-as-protagonist, NOT named characters *(supersedes the critique's named cast)*
+**Critique:** rebuild five *named* people (Priya/Jordan/Maya/Alex/+1), give each a different body, recur them through the book, let one fail.
+
+**My recommendation: KEEP the five-causes skeleton, REJECT the named-character delivery.** Named case-studies ("Priya at the meeting, coffee going cold") are a tired, skimmed, *distancing* genre trope — they pull the reader toward "that's Priya's problem," the opposite of recognition. The critique reached for them only to break up the relentless "you"; that's the wrong fix. **The book already has a reader-as-protagonist spine — the "Notice this in you" practices that accumulate into the reader's own Growth Map — and named characters compete with it.** So:
+- **The five-causes proof (Ch1)** is delivered as **unnamed, universal instances** the reader scans to locate themselves: same symptom (a 3pm snap), five causes, ending on *"Which one was you?"* — self-diagnosis, not biography.
+- **The through-line is the reader's own accumulating self-portrait**, not a recurring cast.
+- **Worked problems become reader-situations:** *"When you clash with someone at work,"* walked through with the tools — generic, universal, "you". (This also settles the earlier ch14 generic-vs-character question: **generic/reader-aligned.**)
+- **The lost payoff** (a recurring character who fails) is recovered by aiming the Hard Cases (Phase 6) and honest "this won't always work" beats **directly at the reader** — it lands harder as "you" than as "Jordan".
+
 ---
 
 ## 3. The rewrite plan (phased — mirrors the critique's order of operations)
@@ -56,8 +65,15 @@ These four require your ruling because they change the *locked* foundation. My r
 ### Phase 1 — Revise the foundation to v2 (from Decisions A–D)
 Produce `foundation/Me_OS_Foundation_v2.md`: renamed spine, currencies demoted to a tool, Belief/Faith relocated to the finale, tables designated appendix, and a **revised reveal order** reflecting all of it. This is the new locked source of truth. Everything regenerates from here.
 
-### Phase 2 — Build the cast (the structural core)
-Rebuild the five people: **same external symptom (they snap at someone at 3pm), five different causes, one per layer.** Priya = Body (five hours' sleep). Jordan = Wiring (reaction before decision). Maya = Habit (worn groove). Alex = Room (someone else's weather). Fifth person = Story ("I'm the one who holds it together, so I'm the one allowed to break"). This is Chapter 1's six-page proof-of-concept, and **all five recur in every chapter**, changing at different rates — **and one of them fails** (the honesty that earns trust).
+### Phase 2 — The reader as protagonist (the structural core)
+Keep the critique's five-causes skeleton; drop the named characters (Decision E). **Same external symptom — you snap at 3pm — five different causes, one per layer**, delivered as unnamed universal instances the reader scans:
+- Body — snapped on five hours' sleep.
+- Wiring — snapped fully rested, because the reaction fired before the decision arrived.
+- Habit — snapped because it's the third time this week; a groove has worn.
+- Room — snapped because the room was tense before you entered it; you're running someone else's weather.
+- Story — snapped because the story demands it: *"I'm the one who holds it together, so I'm the one allowed to break."*
+
+This is Chapter 1's proof-of-concept, ending on **"Which one was you?"** — the reader's first act of self-diagnosis. The recurring "cast" is **the reader's own accumulating self-portrait** (the practices → Growth Map), not invented people. Each layer still gets its own sensory register (Phase 3) so the *causes* feel different even though there's no named character carrying them.
 
 ### Phase 3 — Sensory grammar (the prose discipline that fixes the contradiction)
 Assign each layer its own physical register and **enforce it at the agent level**:
@@ -74,8 +90,8 @@ Assign each layer its own physical register and **enforce it at the agent level*
 ### Phase 4 — Scene rationing
 **One** full scene in the whole book — in the Doorway — the best 500 words in the manuscript. Everywhere else: **micro-scenes**, one to three sentences, dropped as evidence mid-argument, never as overture. Cut all nineteen scene-openings and the pasted duplicates.
 
-### Phase 5 — Point of view
-Break the ~95% "you." **"You"** for diagnostic passages; genuine **third person** for the five case studies; **"I"** for the argument. The absence of "I" in a book about self-knowledge is the strange omission the critique nails — and it's blocked by the missing author's note (Phase 0), which is why that comes first.
+### Phase 5 — Point of view (the cure for relentless "you" is *better* "you", not characters)
+Break the ~95% "you" — but **not** with named case studies. Three registers: precise, *rationed* **"you"** for diagnosis; spare, **unnamed "someone"** instances (patterns the mentor has *observed*) to vary rhythm and prove universality without manufacturing biographies; and **"I"** for the argument. The absence of "I" in a book about self-knowledge is the strange omission the critique nails — blocked by the missing author's note (Phase 0), which is why that comes first. Presumptuousness is cured by specificity and restraint, not by third-person actors.
 
 ### Phase 6 — Write the missing 25,000–35,000 words (the real intellectual content)
 Target 55k–70k total. The new words are **not padding** — they're the three things currently absent:
@@ -103,7 +119,7 @@ The lean conveyor stays, but the agents are re-tuned to enforce the new rules:
 - **New foundation v2** becomes the context every agent reads.
 - **Chapter Architect** gets the five-cast continuity map + each chapter's assigned layer, sensory register, and "commonly mistaken for" slot.
 - **Drafter** gets: the per-layer sensory grammar, the banned-vocabulary list (hard fail), the POV rule (you/third/I by passage type), scene-rationing (micro-scenes only outside the Doorway), and the differentiated-body rule for the five people.
-- **New agent — Continuity/Cast Warden:** checks that the five people stay distinct (different bodies, different causes) and that banned vocabulary hasn't crept back. This is the guardrail that stops the thesis-vs-body contradiction from returning.
+- **New agent — Recognition/Continuity Warden:** enforces reader-alignment (no drift into named-character case studies), checks that the five *causes* stay distinct via their sensory registers, that banned vocabulary hasn't crept back, and that the POV registers (you / someone / I) are used correctly. This is the guardrail that stops the thesis-vs-body contradiction — and the tired character trope — from returning.
 - **New agent — Mechanism/Attribution reviewer:** for the new mechanism sections — flags any unsupported claim and any phrasing that echoes a source too closely (originality guard).
 - **Voice Warden** updated to enforce the sensory-grammar bans and the POV alternation.
 
