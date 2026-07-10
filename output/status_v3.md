@@ -10,6 +10,6 @@
 - Ch7: The Method Made Whole — DONE (2370w)
 - Ch8: The Toolkit — DONE (4408w)
 - Ch9: Worked Situations — DONE (3722w)
-- Ch10: The Hard Cases — pending
+- Ch10: The Hard Cases — DONE (1759w)
 - Ch11: Belief, Then Faith — pending
 - Ch12: Watching It Change — The Growth Map — pending
