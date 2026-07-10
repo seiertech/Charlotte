@@ -14,6 +14,8 @@ venv/
 output/*
 !output/.gitkeep
 !output/book_outline.md
+!output/book_outline_v3.md
+!output/full_third_draft.md
 !output/final_chapters/
 !output/full_first_draft.md
 !output/full_second_draft.md
