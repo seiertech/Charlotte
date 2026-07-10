@@ -17,4 +17,6 @@ output/*
 !output/final_chapters/
 !output/full_first_draft.md
 !output/full_second_draft.md
+!output/full_second_draft.pdf
+!output/full_second_draft.docx
 !output/status.md
