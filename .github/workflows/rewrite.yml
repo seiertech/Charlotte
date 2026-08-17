@@ -1,0 +1,68 @@
+name: Editorial Rewrite Pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      chapter:
+        description: "Chapter number to process (leave empty for all chapters)"
+        required: false
+        type: string
+        default: ""
+      mode:
+        description: "Pipeline mode"
+        required: true
+        type: choice
+        options:
+          - full
+          - bibles-only
+          - assemble-only
+        default: "full"
+
+jobs:
+  rewrite:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run editorial rewrite pipeline
+        env:
+          NIM_API_KEY: ${{ secrets.NIM_API_KEY }}
+        run: |
+          ARGS=""
+
+          # Add mode flag
+          if [ "${{ inputs.mode }}" = "bibles-only" ]; then
+            ARGS="$ARGS --bibles-only"
+          elif [ "${{ inputs.mode }}" = "assemble-only" ]; then
+            ARGS="$ARGS --assemble-only"
+          fi
+
+          # Add chapter flag if provided
+          if [ -n "${{ inputs.chapter }}" ]; then
+            ARGS="$ARGS --chapter ${{ inputs.chapter }}"
+          fi
+
+          python orchestrator/rewrite_conveyor.py $ARGS
+
+      - name: Commit and push output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(rewrite): update output from editorial pipeline [mode=${{ inputs.mode }}, chapter=${{ inputs.chapter || 'all' }}]"
+            git push
+          fi
