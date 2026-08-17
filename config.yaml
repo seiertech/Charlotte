@@ -8,7 +8,7 @@ provider:
   type: "nim"
   protocol: "openai_compatible"
   base_url: "https://integrate.api.nvidia.com/v1"
-  model: "mistralai/mistral-medium-3.5-128b"
+  model: "mistralai/mistral-nemotron"
   api_key_env: "NIM_API_KEY"
   timeout_seconds: 600
 
@@ -17,7 +17,7 @@ reviewer_provider:
   type: "nim"
   protocol: "openai_compatible"
   base_url: "https://integrate.api.nvidia.com/v1"
-  model: "mistralai/mistral-medium-3.5-128b"
+  model: "mistralai/mistral-nemotron"
   api_key_env: "NIM_API_KEY"
   timeout_seconds: 180
 
