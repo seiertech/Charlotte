@@ -2,6 +2,7 @@ book:
   title: "THE SYSTEM OF YOU"
   foundation_file: "foundation/Me_OS_Foundation.md"
   output_file: "output/full_second_draft.md"
+  output_file_d4: "output/full_fourth_draft.md"
 
 provider:
   type: "nim"
@@ -78,3 +79,18 @@ personas:
   - "agents/personas/elder.md"
   - "agents/personas/literal.md"
   - "agents/personas/vulnerable.md"
+
+
+editorial_rewrite:
+  max_revisions: 3
+  word_reduction_target_min: 0.15
+  word_reduction_target_max: 0.25
+  run_artifact_scrubber: true
+  run_continuity_auditor: true
+  run_editorial_gate: true
+  resume: false
+  agents:
+    rewrite_agent: "agents/rewrite_agent.md"
+    artifact_scrubber: "agents/artifact_scrubber.md"
+    continuity_auditor: "agents/continuity_auditor.md"
+    evidence_agent: "agents/evidence_agent.md"

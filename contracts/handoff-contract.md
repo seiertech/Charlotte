@@ -58,3 +58,36 @@ is persisted to `output/book_state.json` so runs can resume without chat memory.
 
 Re-review artefacts from the revision loop are suffixed with the pass number,
 e.g. `output/reviews/chXX_general_r1.md`, so each attempt is auditable.
+
+
+## Rewrite Stage
+
+Stage outputs for the editorial rewrite pipeline (Draft 3 → Draft 4):
+
+| Stage | Producing Agent | Consuming Agent(s) | Output Path |
+|-------|----------------|--------------------|--------------------|
+| Model Bible | Bible Generator | Rewrite Agent, Continuity Auditor, Editorial Gate | `foundation/model_bible.md` |
+| Character Bible | Bible Generator | Rewrite Agent, Continuity Auditor, Editorial Gate | `foundation/character_bible.md` |
+| Chapter Rewrite | Rewrite Agent | Evidence Agent | `output/draft4/chXX_raw.md` |
+| Evidenced Chapter | Evidence Agent | Artifact Scrubber | `output/draft4/chXX_evidenced.md` |
+| Evidence Log | Evidence Agent | Editorial Gate, Author Action Log | `output/draft4/chXX_evidence_log.md` |
+| Scrubbed Chapter | Artifact Scrubber | Continuity Auditor | `output/draft4/chXX_scrubbed.md` |
+| Continuity Report | Continuity Auditor | Rewrite Agent (on BLOCK) | `output/reviews/chXX_continuity_d4.md` |
+| Editorial Report | Editorial Gate | Rewrite Agent (on BLOCK) | `output/reviews/chXX_editorial_d4.md` |
+| Final D4 Chapter | Pipeline | Assembler | `output/draft4/chXX.md` |
+| Assembled Draft 4 | Assembler | Book-level Editorial Gate | `output/full_fourth_draft.md` |
+| Author Action Log | Pipeline (post-assembly) | Author | `output/author_actions.md` |
+| Draft 4 State | Pipeline | Resume logic | `output/draft4_state.json` |
+| Draft 4 Status | Pipeline | Human review | `output/status_d4.md` |
+
+### Rewrite stage package fields
+
+```yaml
+book_id: charlotte
+stage: rewrite
+chapter_number: <int>
+input_files: [...]
+output_file: <path>
+status: PENDING | IN_PROGRESS | COMPLETE | FAILED | WAITING_HUMAN
+next_agent: <agent_name>
+```
