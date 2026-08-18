@@ -55,14 +55,14 @@ jobs:
 
           python orchestrator/rewrite_conveyor.py $ARGS
 
-      - name: Commit and push output
+      - name: Push output
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "charlotte-pipeline"
+          git config user.email "charlotte@pipeline.local"
           git add output/
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No uncommitted changes."
           else
-            git commit -m "chore(rewrite): update output from editorial pipeline [mode=${{ inputs.mode }}, chapter=${{ inputs.chapter || 'all' }}]"
-            git push
+            git commit -m "chore(rewrite): final output commit [mode=${{ inputs.mode }}, chapter=${{ inputs.chapter || 'all' }}]"
           fi
+          git push

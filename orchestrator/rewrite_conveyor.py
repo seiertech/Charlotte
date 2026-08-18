@@ -81,6 +81,20 @@ def write(path: str, content: str) -> None:
     p.write_text(content, encoding="utf-8")
 
 
+def commit_progress(chapter_number: int, title: str, status: str) -> None:
+    """Commit current output to git after each chapter, so progress isn't lost on crash."""
+    import subprocess
+    try:
+        subprocess.run(["git", "add", "output/"], cwd=str(ROOT), capture_output=True, timeout=30)
+        subprocess.run(
+            ["git", "commit", "-m", f"chore(draft4): ch{chapter_number:02} {title} — {status}"],
+            cwd=str(ROOT), capture_output=True, timeout=30,
+        )
+        print(f"    📝 Progress committed (ch{chapter_number:02} {status})")
+    except Exception:
+        pass  # Non-fatal — don't crash the pipeline over a git commit failure
+
+
 def load_config() -> dict:
     """Load config.yaml from project root."""
     return yaml.safe_load(read("config.yaml"))
@@ -545,6 +559,7 @@ def run_rewrite_chapter(
             state.save(STATE_PATH)
 
             print(f"    ✓ PASS — {d4_wc} words (D3: {d3_wc})")
+            commit_progress(n, title, "editorial_pass")
             ledger.append("rewrite_chapter_pass", {
                 "chapter": n, "title": title, "revisions": revision,
                 "d3_words": d3_wc, "d4_words": d4_wc,
@@ -563,6 +578,7 @@ def run_rewrite_chapter(
             state.save(STATE_PATH)
 
             print(f"    ✗ BLOCKED after {max_revisions} revisions by {blocking_agent}")
+            commit_progress(n, title, "blocked")
             ledger.append("rewrite_chapter_blocked", {
                 "chapter": n, "title": title, "revisions": max_revisions,
                 "blocking_agent": blocking_agent, "reason": block_reason[:500],
@@ -825,6 +841,11 @@ def main() -> None:
     cfg = load_config()
     ensure_dirs()
 
+    # Configure git for incremental commits (needed in CI)
+    import subprocess
+    subprocess.run(["git", "config", "user.name", "charlotte-pipeline"], cwd=str(ROOT), capture_output=True)
+    subprocess.run(["git", "config", "user.email", "charlotte@pipeline.local"], cwd=str(ROOT), capture_output=True)
+
     # Validate editorial_rewrite config section
     try:
         er_cfg = load_rewrite_config(str(ROOT / "config.yaml"))
@@ -960,6 +981,7 @@ def main() -> None:
             ledger.append("rewrite_chapter_author_gate", {
                 "chapter": n, "title": title, "reason": reason[:200],
             })
+            commit_progress(n, title, "waiting_human")
             continue
 
         # Run the full chapter pipeline
