@@ -4,6 +4,28 @@
 
 ---
 
+## 0. Author Voice Continuity
+
+The author's personal voice — as expressed in `foundation/author_note.md` — is the emotional anchor for the entire book. It is direct, conversational, slightly raw, unpolished-on-purpose, and speaks from lived experience. It carries the feeling of someone who has been through it and is talking to you straight.
+
+### Rules
+
+1. **The Introduction (Ch00) SHALL weave the author's note directly into the text.** The Rewrite Agent receives `foundation/author_note.md` and integrates its content into the "How it's helped me, and others" section, preserving the author's authentic phrasing and emotional tone. Light editing for flow is permitted; rewriting into the "calm mentor" voice is NOT.
+2. **The author's voice is the WARM layer beneath the mentor voice.** The book has two voices: (a) the calm mentor who explains the system, and (b) the author — direct, lived, slightly rough at the edges. The mentor is the teacher; the author is the person you trust because they've clearly been through it. Both run throughout.
+3. **At every [AUTHOR VOICE] insertion point**, the Rewrite Agent SHALL match the tone, register, and directness of `foundation/author_note.md` — NOT the polished mentor voice. These moments are where the reader meets the human behind the book.
+4. **The author's voice carries into chapter openings.** Each chapter's first paragraph SHALL echo the warmth and directness of the author's tone (not the raw style, but the emotional register — "I see you, I've been here too") before transitioning into the mentor's explanatory voice.
+5. **Key phrases from the author's note may recur as callbacks.** The Rewrite Agent MAY echo distinctive phrases from the author's note (e.g., "People come and go, but you are always with you") at emotionally resonant moments later in the book, creating a thread of personal connection.
+6. **The author's note is input to EVERY chapter rewrite** — not just Ch00. The Rewrite Agent reads it for tone calibration, even when the chapter doesn't contain an [AUTHOR VOICE] insertion point.
+
+### What this means in practice
+
+- Ch00 (Introduction): Author's note woven in directly — their real words, their real story
+- Ch01–Ch11: Each chapter opening has a beat of the author's directness before the mentor takes over
+- [AUTHOR VOICE] markers: These use the author's register, not the mentor's
+- The book FEELS like it was written by a specific person who cares, not by a system
+
+---
+
 ## 1. Character Consolidation Rules
 
 Draft 3 suffered from character proliferation: interchangeable one-off names appearing once and vanishing. Draft 4 consolidates to a **fixed cast of 4–5 recurring characters** defined in `foundation/character_bible.md`.

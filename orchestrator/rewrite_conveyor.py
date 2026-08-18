@@ -395,6 +395,7 @@ def run_rewrite_chapter(
     base_context = (
         f"# Book Title: {cfg['book']['title']}\n\n"
         f"# Foundation (Core Thesis)\n{foundation_summary}\n\n"
+        f"# Author Voice Reference (tone calibration)\n{read('foundation/author_note.md')}\n\n"
         f"# Model Bible\n{model_bible}\n\n"
         f"# Character Bible\n{character_bible}\n\n"
         f"# EDITORIAL_DIRECTIVES_D4\n{directives_d4}\n\n"
