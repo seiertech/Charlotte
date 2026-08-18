@@ -88,7 +88,7 @@ editorial_rewrite:
   run_artifact_scrubber: true
   run_continuity_auditor: true
   run_editorial_gate: true
-  resume: false
+  resume: true
   agents:
     rewrite_agent: "agents/rewrite_agent.md"
     artifact_scrubber: "agents/artifact_scrubber.md"

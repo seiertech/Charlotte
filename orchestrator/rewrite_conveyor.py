@@ -151,9 +151,9 @@ def call_agent(
             response_content = resp.content
             break
         except urllib.error.HTTPError as e:
-            if e.code == 429 and attempt < MAX_RETRIES:
+            if e.code in (429, 500, 502, 503, 504) and attempt < MAX_RETRIES:
                 wait = RETRY_BACKOFF[min(attempt, len(RETRY_BACKOFF) - 1)]
-                print(f"    ⚠ 429 — waiting {wait}s (retry {attempt + 1}/{MAX_RETRIES})")
+                print(f"    ⚠ HTTP {e.code} — waiting {wait}s (retry {attempt + 1}/{MAX_RETRIES})")
                 time.sleep(wait)
             else:
                 raise
