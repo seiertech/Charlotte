@@ -365,15 +365,27 @@ def run_rewrite_chapter(
     print(f"\n  ch{n:02}: {title}")
     print(f"    D3 source: {d3_path} ({d3_wc} words)")
 
-    # Build shared context for all agents in this chapter
+    # Trim Foundation to core thesis only (first 500 words) — the Model Bible
+    # and Character Bible already distill everything the agent needs.
+    # This keeps total context under ~12k words to avoid API timeouts.
+    foundation_words = foundation.split()
+    foundation_summary = " ".join(foundation_words[:500]) if len(foundation_words) > 500 else foundation
+    
+    # Trim preceding D4 chapter to last 300 words (for continuity/tone, not full content)
+    if prev_d4:
+        prev_words = prev_d4.split()
+        prev_summary = " ".join(prev_words[-300:]) if len(prev_words) > 300 else prev_d4
+    else:
+        prev_summary = "(First chapter — no preceding D4.)"
+
     base_context = (
         f"# Book Title: {cfg['book']['title']}\n\n"
-        f"# Foundation Material\n{foundation}\n\n"
+        f"# Foundation (Core Thesis)\n{foundation_summary}\n\n"
         f"# Model Bible\n{model_bible}\n\n"
         f"# Character Bible\n{character_bible}\n\n"
         f"# EDITORIAL_DIRECTIVES_D4\n{directives_d4}\n\n"
         f"# DRAFT3_DIRECTIVES\n{directives_d3}\n\n"
-        f"# Preceding Draft 4 Chapter\n{prev_d4 or '(First chapter — no preceding D4.)'}\n\n"
+        f"# Preceding Draft 4 Chapter (last 300 words for continuity)\n{prev_summary}\n\n"
         f"# Draft 3 Chapter to Rewrite\n{d3_content}\n"
     )
 
