@@ -111,14 +111,14 @@
     {
       "number": 9,
       "title": "Chapter 9: Worked Situations",
-      "status": "pending",
-      "revision_count": 0,
+      "status": "editorial_pass",
+      "revision_count": 1,
       "block_reason": "",
       "blocking_agent": "",
-      "d3_word_count": 0,
-      "d4_word_count": 0,
+      "d3_word_count": 3722,
+      "d4_word_count": 2919,
       "characters_used": [],
-      "output_path": ""
+      "output_path": "output/draft4/ch09.md"
     },
     {
       "number": 10,
