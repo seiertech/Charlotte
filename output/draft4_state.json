@@ -123,14 +123,14 @@
     {
       "number": 10,
       "title": "Chapter 10: The Hard Cases",
-      "status": "pending",
+      "status": "editorial_pass",
       "revision_count": 0,
       "block_reason": "",
       "blocking_agent": "",
-      "d3_word_count": 0,
-      "d4_word_count": 0,
+      "d3_word_count": 1759,
+      "d4_word_count": 41,
       "characters_used": [],
-      "output_path": ""
+      "output_path": "output/draft4/ch10.md"
     },
     {
       "number": 11,
