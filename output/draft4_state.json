@@ -27,14 +27,14 @@
     {
       "number": 2,
       "title": "Chapter 2: Body",
-      "status": "pending",
+      "status": "editorial_pass",
       "revision_count": 0,
       "block_reason": "",
       "blocking_agent": "",
-      "d3_word_count": 0,
-      "d4_word_count": 0,
+      "d3_word_count": 1454,
+      "d4_word_count": 3598,
       "characters_used": [],
-      "output_path": ""
+      "output_path": "output/draft4/ch02.md"
     },
     {
       "number": 3,
