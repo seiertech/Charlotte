@@ -39,14 +39,14 @@
     {
       "number": 3,
       "title": "Chapter 3: Wiring",
-      "status": "pending",
+      "status": "editorial_pass",
       "revision_count": 0,
       "block_reason": "",
       "blocking_agent": "",
-      "d3_word_count": 0,
-      "d4_word_count": 0,
+      "d3_word_count": 2285,
+      "d4_word_count": 4755,
       "characters_used": [],
-      "output_path": ""
+      "output_path": "output/draft4/ch03.md"
     },
     {
       "number": 4,
