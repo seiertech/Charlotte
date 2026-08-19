@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 0,
+      "title": "A Note Before We Start",
+      "status": "rewriting",
+      "revision_count": 1,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 1894,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    },
+    {
+      "number": 1,
+      "title": "Chapter 1",
+      "status": "editorial_pass",
+      "revision_count": 1,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 1266,
+      "d4_word_count": 2886,
+      "characters_used": [],
+      "output_path": "output/draft4/ch01.md"
+    },
+    {
+      "number": 2,
+      "title": "Chapter 2: Body",
+      "status": "pending",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 0,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    },
+    {
+      "number": 3,
+      "title": "Chapter 3: Wiring",
+      "status": "pending",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 0,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    },
+    {
+      "number": 4,
+      "title": "Chapter 4: Habit",
+      "status": "pending",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 0,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    },
+    {
+      "number": 5,
+      "title": "Chapter 5: Room",
+      "status": "pending",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 0,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    },
+    {
+      "number": 6,
+      "title": "Chapter 6: Story",
+      "status": "pending",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 0,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    },
+    {
+      "number": 7,
+      "title": "Chapter 7: The Method Made Whole",
+      "status": "pending",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 0,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    },
+    {
+      "number": 8,
+      "title": "**Chapter 8: The Toolkit**",
+      "status": "pending",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 0,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    },
+    {
+      "number": 9,
+      "title": "Chapter 9: Worked Situations",
+      "status": "pending",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 0,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    },
+    {
+      "number": 10,
+      "title": "Chapter 10: The Hard Cases",
+      "status": "pending",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 0,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    },
+    {
+      "number": 11,
+      "title": "Chapter 11: Belief, Then Faith",
+      "status": "pending",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 0,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    },
+    {
+      "number": 12,
+      "title": "**Chapter 12: Watching It Change — The Growth Map**",
+      "status": "pending",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
+      "d3_word_count": 0,
+      "d4_word_count": 0,
+      "characters_used": [],
+      "output_path": ""
+    }
+  ]
+}
