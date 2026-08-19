@@ -63,14 +63,14 @@
     {
       "number": 5,
       "title": "Chapter 5: Room",
-      "status": "pending",
-      "revision_count": 0,
+      "status": "editorial_pass",
+      "revision_count": 1,
       "block_reason": "",
       "blocking_agent": "",
-      "d3_word_count": 0,
-      "d4_word_count": 0,
+      "d3_word_count": 1008,
+      "d4_word_count": 2061,
       "characters_used": [],
-      "output_path": ""
+      "output_path": "output/draft4/ch05.md"
     },
     {
       "number": 6,
