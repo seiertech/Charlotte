@@ -87,14 +87,14 @@
     {
       "number": 7,
       "title": "Chapter 7: The Method Made Whole",
-      "status": "pending",
-      "revision_count": 0,
+      "status": "editorial_pass",
+      "revision_count": 3,
       "block_reason": "",
       "blocking_agent": "",
-      "d3_word_count": 0,
-      "d4_word_count": 0,
+      "d3_word_count": 2370,
+      "d4_word_count": 3792,
       "characters_used": [],
-      "output_path": ""
+      "output_path": "output/draft4/ch07.md"
     },
     {
       "number": 8,
