@@ -22,10 +22,14 @@ jobs:
   rewrite:
     runs-on: ubuntu-latest
     timeout-minutes: 180
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -34,6 +38,11 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config user.name "charlotte-pipeline"
+          git config user.email "charlotte@pipeline.local"
 
       - name: Run editorial rewrite pipeline
         env:
@@ -55,14 +64,11 @@ jobs:
 
           python orchestrator/rewrite_conveyor.py $ARGS
 
-      - name: Push output
+      - name: Final push
+        if: always()
         run: |
-          git config user.name "charlotte-pipeline"
-          git config user.email "charlotte@pipeline.local"
-          git add output/
-          if git diff --cached --quiet; then
-            echo "No uncommitted changes."
-          else
-            git commit -m "chore(rewrite): final output commit [mode=${{ inputs.mode }}, chapter=${{ inputs.chapter || 'all' }}]"
+          git add output/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(rewrite): final output [mode=${{ inputs.mode }}, chapter=${{ inputs.chapter || 'all' }}]"
           fi
-          git push
+          git push || true
