@@ -147,14 +147,14 @@
     {
       "number": 12,
       "title": "**Chapter 12: Watching It Change — The Growth Map**",
-      "status": "pending",
+      "status": "editorial_pass",
       "revision_count": 0,
       "block_reason": "",
       "blocking_agent": "",
-      "d3_word_count": 0,
-      "d4_word_count": 0,
+      "d3_word_count": 2326,
+      "d4_word_count": 2603,
       "characters_used": [],
-      "output_path": ""
+      "output_path": "output/draft4/ch12.md"
     }
   ]
 }
