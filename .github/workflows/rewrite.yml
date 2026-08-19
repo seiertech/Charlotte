@@ -3,25 +3,87 @@ name: Editorial Rewrite Pipeline
 on:
   workflow_dispatch:
     inputs:
-      chapter:
-        description: "Chapter number to process (leave empty for all chapters)"
+      start_chapter:
+        description: "Start from chapter number (default: 0)"
         required: false
         type: string
-        default: ""
-      mode:
-        description: "Pipeline mode"
-        required: true
-        type: choice
-        options:
-          - full
-          - bibles-only
-          - assemble-only
-        default: "full"
+        default: "0"
+      end_chapter:
+        description: "End at chapter number (default: 12)"
+        required: false
+        type: string
+        default: "12"
 
 jobs:
-  rewrite:
+  rewrite-chapter:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        chapter: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+
+    steps:
+      - name: Check if chapter in range
+        id: check
+        run: |
+          if [ ${{ matrix.chapter }} -ge ${{ inputs.start_chapter || 0 }} ] && [ ${{ matrix.chapter }} -le ${{ inputs.end_chapter || 12 }} ]; then
+            echo "run=true" >> $GITHUB_OUTPUT
+          else
+            echo "run=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Checkout repository
+        if: steps.check.outputs.run == 'true'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pull latest
+        if: steps.check.outputs.run == 'true'
+        run: git pull origin main
+
+      - name: Set up Python 3.11
+        if: steps.check.outputs.run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        if: steps.check.outputs.run == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Configure git
+        if: steps.check.outputs.run == 'true'
+        run: |
+          git config user.name "charlotte-pipeline"
+          git config user.email "charlotte@pipeline.local"
+
+      - name: Rewrite chapter ${{ matrix.chapter }}
+        if: steps.check.outputs.run == 'true'
+        env:
+          NIM_API_KEY: ${{ secrets.NIM_API_KEY }}
+        run: python orchestrator/rewrite_conveyor.py --chapter ${{ matrix.chapter }}
+
+      - name: Commit and push chapter ${{ matrix.chapter }}
+        if: always() && steps.check.outputs.run == 'true'
+        run: |
+          git add output/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(draft4): ch${{ matrix.chapter }} complete"
+            git pull --rebase origin main || true
+            git push origin main
+          fi
+
+  assemble:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    needs: rewrite-chapter
+    if: always()
     permissions:
       contents: write
 
@@ -30,6 +92,10 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pull latest
+        run: git pull origin main
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -44,31 +110,15 @@ jobs:
           git config user.name "charlotte-pipeline"
           git config user.email "charlotte@pipeline.local"
 
-      - name: Run editorial rewrite pipeline
+      - name: Assemble draft
         env:
           NIM_API_KEY: ${{ secrets.NIM_API_KEY }}
-        run: |
-          ARGS=""
+        run: python orchestrator/rewrite_conveyor.py --assemble-only
 
-          # Add mode flag
-          if [ "${{ inputs.mode }}" = "bibles-only" ]; then
-            ARGS="$ARGS --bibles-only"
-          elif [ "${{ inputs.mode }}" = "assemble-only" ]; then
-            ARGS="$ARGS --assemble-only"
-          fi
-
-          # Add chapter flag if provided
-          if [ -n "${{ inputs.chapter }}" ]; then
-            ARGS="$ARGS --chapter ${{ inputs.chapter }}"
-          fi
-
-          python orchestrator/rewrite_conveyor.py $ARGS
-
-      - name: Final push
-        if: always()
+      - name: Push assembled draft
         run: |
           git add output/ || true
           if ! git diff --cached --quiet; then
-            git commit -m "chore(rewrite): final output [mode=${{ inputs.mode }}, chapter=${{ inputs.chapter || 'all' }}]"
+            git commit -m "chore(draft4): assembled full manuscript"
+            git push origin main
           fi
-          git push || true
