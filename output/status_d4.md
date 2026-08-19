@@ -2,6 +2,6 @@
 
 ## Summary
 - Total chapters: 13
-- editorial_pass: 5
+- editorial_pass: 6
 - rewriting: 1
-- pending: 7
+- pending: 6
