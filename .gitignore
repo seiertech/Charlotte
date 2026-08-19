@@ -25,5 +25,11 @@ output/*
 !output/full_second_draft.docx
 !output/draft3/
 output/draft3/_*
+!output/draft4/
+!output/full_fourth_draft.md
+!output/author_actions.md
+!output/status_d4.md
+!output/draft4_state.json
+!output/reviews/
 !output/status.md
 !output/status_v3.md
