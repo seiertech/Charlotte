@@ -75,14 +75,14 @@
     {
       "number": 6,
       "title": "Chapter 6: Story",
-      "status": "pending",
+      "status": "editorial_pass",
       "revision_count": 0,
       "block_reason": "",
       "blocking_agent": "",
-      "d3_word_count": 0,
-      "d4_word_count": 0,
+      "d3_word_count": 1289,
+      "d4_word_count": 2673,
       "characters_used": [],
-      "output_path": ""
+      "output_path": "output/draft4/ch06.md"
     },
     {
       "number": 7,
