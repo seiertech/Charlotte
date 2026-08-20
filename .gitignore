@@ -26,6 +26,10 @@ output/*
 !output/draft3/
 output/draft3/_*
 !output/draft4/
+output/draft4/*_raw.md
+output/draft4/*_evidenced.md
+output/draft4/*_scrubbed.md
+output/draft4/*_evidence_log.md
 !output/full_fourth_draft.md
 !output/author_actions.md
 !output/status_d4.md
