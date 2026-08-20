@@ -2063,7 +2063,12 @@ Marcus sits at their desk at 9:12 p.m. on a Thursday, staring at the to‑do l
 
 **What it feels like when it's working:** the thought loosens its grip. It stops being *the truth* and becomes *a thought*—one you can disagree with.  
 
-**Its edge:** this works on distorted everyday thoughts. It does *not* work by force on the deepest beliefs (*"I am fundamentally not enough"*)—those are older and
+**Its edge:** this works on distorted everyday thoughts. It does *not* work by force on the deepest beliefs (*"I am fundamentally not enough"*)—those are older and need the gentler, slower work of meeting the part beneath them (Tool 9), often with a good therapist. Don't bludgeon a deep wound with logic.
+
+---
+
+That's the toolkit. Twelve tools, each one plain enough to reach for on a bad day. You don't need all of them. You need the *right* one — and now you know how to find it: which layer, which currency, then the tool that fits. The next chapter shows you what happens when the layer won't move at all.
+
 
 ---
 
