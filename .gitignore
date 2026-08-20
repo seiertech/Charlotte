@@ -31,6 +31,7 @@ output/draft4/*_evidenced.md
 output/draft4/*_scrubbed.md
 output/draft4/*_evidence_log.md
 !output/full_fourth_draft.md
+!output/full_fourth_draft.docx
 !output/author_actions.md
 !output/status_d4.md
 !output/draft4_state.json
