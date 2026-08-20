@@ -135,14 +135,14 @@
     {
       "number": 11,
       "title": "Chapter 11: Belief, Then Faith",
-      "status": "blocked",
-      "revision_count": 3,
-      "block_reason": "9+13+11+8+30+28+15+19+28+37+14+32+14 = let's add:\n\n9+13=22\n+11=33\n+8=41\n+30=71\n+28=99\n+15=114\n+19=133\n+28=161\n+37=198\n+14=212\n+32=244\n+14=258\n\nSo opening ~258 words.\n\nNow next section: \"### The map and the compass\" heading not counted? Usually headings count as words? Probably yes as tokens. We'll include.\n\n\"The map and the compass\" as three words? Actually \"The\" \"map\" \"and\" \"the\" \"compass\" =5. But we have markdown \"### The map and the compass\". The heading line includes the hashes? Usually not ",
-      "blocking_agent": "editorial_gate",
+      "status": "editorial_pass",
+      "revision_count": 0,
+      "block_reason": "",
+      "blocking_agent": "",
       "d3_word_count": 1796,
-      "d4_word_count": 0,
+      "d4_word_count": 4735,
       "characters_used": [],
-      "output_path": ""
+      "output_path": "output/draft4/ch11.md"
     },
     {
       "number": 12,
