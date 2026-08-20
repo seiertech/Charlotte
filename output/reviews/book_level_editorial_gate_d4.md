@@ -1,4 +1,3 @@
 BLOCK
-- Total word count 30663 is below the required minimum of 33,000 words (required range: 33,000–37,000).
-- Found disallowed production artifact: `[AUTHOR VOICE]` marker present in the manuscript (e.g., after the sentence “The dish slips from his fingers, clatters into the sink, and the sound makes him flinch again, as if the universe itself has raised its voice.”). `[NOTE TO AUTHOR]` markers are permitted, but `[AUTHOR VOICE]` is not allowed and must be removed.
-- Character frequency distribution passes: each of the five Bible characters appears in exactly 5 of the 13 chapters (≈20% each), well under the 40% limit.
+- Word count 45475 is outside the allowed range of 33,000–37,000 words.
+- Production artifact found: `[AUTHOR VOICE]` (line approximately after the Introduction blockquote; snippet: "[AUTHOR VOICE]"). This marker is not an allowed `[NOTE TO AUTHOR]` exception and should be removed.
