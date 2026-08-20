@@ -3,14 +3,14 @@
     {
       "number": 0,
       "title": "A Note Before We Start",
-      "status": "rewriting",
-      "revision_count": 1,
+      "status": "editorial_pass",
+      "revision_count": 0,
       "block_reason": "",
       "blocking_agent": "",
       "d3_word_count": 1894,
-      "d4_word_count": 0,
+      "d4_word_count": 10077,
       "characters_used": [],
-      "output_path": ""
+      "output_path": "output/draft4/ch00.md"
     },
     {
       "number": 1,
