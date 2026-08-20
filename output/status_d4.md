@@ -3,7 +3,7 @@
 ## Summary
 - Total chapters: 13
 - editorial_pass: 11
-- pending: 1
+- rewriting: 1
 - blocked: 1
 
 ## Blocked Chapters
