@@ -284,9 +284,49 @@ def clean_chapter(chapter_id, raw_text):
 # ---------------------------------------------------------------------------
 from docx import Document
 from docx.shared import Pt, Inches, RGBColor
-from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_LINE_SPACING
+from docx.enum.table import WD_TABLE_ALIGNMENT
+from docx.oxml.ns import qn
 
 AUTHOR_RED = RGBColor(0xC0, 0x00, 0x00)
+
+# Body typography
+BODY_FONT = "Georgia"
+BODY_SIZE = Pt(11)
+
+
+def configure_document_styles(document):
+    """Set readable book typography on the base styles so we never rely on
+    empty paragraphs for spacing."""
+    normal = document.styles["Normal"]
+    normal.font.name = BODY_FONT
+    normal.font.size = BODY_SIZE
+    # make sure east-asian / complex fallbacks also use the font
+    rpr = normal.element.get_or_add_rPr()
+    rfonts = rpr.get_or_add_rFonts()
+    rfonts.set(qn("w:ascii"), BODY_FONT)
+    rfonts.set(qn("w:hAnsi"), BODY_FONT)
+
+    pf = normal.paragraph_format
+    pf.space_before = Pt(0)
+    pf.space_after = Pt(10)               # spacing BETWEEN paragraphs (no blank lines)
+    pf.line_spacing_rule = WD_LINE_SPACING.MULTIPLE
+    pf.line_spacing = 1.25
+
+    # Headings: give them clear space above, modest below
+    for name, before, after in (
+        ("Heading 1", 0, 18),
+        ("Heading 2", 18, 8),
+        ("Heading 3", 14, 6),
+        ("Heading 4", 12, 4),
+    ):
+        try:
+            st = document.styles[name]
+        except KeyError:
+            continue
+        st.paragraph_format.space_before = Pt(before)
+        st.paragraph_format.space_after = Pt(after)
+        st.paragraph_format.keep_with_next = True
 
 # Regex for inline spans: **bold**, *italic*, _italic_
 INLINE_RE = re.compile(r"(\*\*.+?\*\*|\*[^*]+?\*|_[^_]+?_)")
@@ -342,38 +382,92 @@ def _list_number_match(line):
     return None
 
 
+def _flush_table(document, rows):
+    """Render buffered markdown table rows as a real Word table."""
+    if not rows:
+        return
+    ncols = max(len(r) for r in rows)
+    table = document.add_table(rows=0, cols=ncols)
+    try:
+        table.style = "Light Grid Accent 1"
+    except KeyError:
+        try:
+            table.style = "Table Grid"
+        except KeyError:
+            pass
+    table.alignment = WD_TABLE_ALIGNMENT.CENTER
+    for r_i, row in enumerate(rows):
+        cells = table.add_row().cells
+        for c_i in range(ncols):
+            text = row[c_i] if c_i < len(row) else ""
+            cell = cells[c_i]
+            cell.text = ""  # clear default empty paragraph text
+            para = cell.paragraphs[0]
+            add_inline_runs(para, text, base_bold=(r_i == 0))
+
+
+def _split_table_row(stripped):
+    """Split a markdown table row into cell strings (drop outer pipes)."""
+    inner = stripped.strip()
+    if inner.startswith("|"):
+        inner = inner[1:]
+    if inner.endswith("|"):
+        inner = inner[:-1]
+    return [c.strip() for c in inner.split("|")]
+
+
+def _is_table_separator(stripped):
+    body = stripped.strip("|").replace("|", "").replace(":", "").strip()
+    return "-" in stripped and set(body) <= {"-", " "}
+
+
 def render_markdown_to_docx(document, md_text, first_chapter):
-    """Render one chapter's cleaned markdown into the docx document."""
+    """Render one chapter's cleaned markdown into the docx document.
+
+    Spacing between paragraphs comes from the paragraph style's space_after
+    (see configure_document_styles) -- we do NOT emit empty paragraphs for
+    blank markdown lines, which was the cause of the large gaps.
+    """
     lines = md_text.split("\n")
     first_h1_done = False
+    table_buf = []   # buffered markdown table rows awaiting flush
+
+    def flush():
+        _flush_table(document, table_buf)
+        table_buf.clear()
 
     for line in lines:
         stripped = line.strip()
 
-        # Skip standalone horizontal rules
+        # ----- markdown table accumulation --------------------------------
+        if stripped.startswith("|"):
+            if _is_table_separator(stripped):
+                continue  # skip |---|---| separator rows
+            table_buf.append(_split_table_row(stripped))
+            continue
+        elif table_buf:
+            flush()
+
+        # Standalone horizontal rule -> just ignore (no gap needed)
         if stripped == "---" or (set(stripped) == {"-"} and len(stripped) >= 3):
             continue
 
-        # Blank line -> paragraph separator (empty paragraph)
+        # Blank line -> IGNORE. Spacing is handled by paragraph style.
         if stripped == "":
-            document.add_paragraph("")
             continue
 
         # Headings
         if stripped.startswith("####"):
-            text = stripped[4:].strip()
             p = document.add_paragraph(style="Heading 4")
-            add_inline_runs(p, text)
+            add_inline_runs(p, stripped[4:].strip())
             continue
         if stripped.startswith("###"):
-            text = stripped[3:].strip()
             p = document.add_paragraph(style="Heading 3")
-            add_inline_runs(p, text)
+            add_inline_runs(p, stripped[3:].strip())
             continue
         if stripped.startswith("##"):
-            text = stripped[2:].strip()
             p = document.add_paragraph(style="Heading 2")
-            add_inline_runs(p, text)
+            add_inline_runs(p, stripped[2:].strip())
             continue
         if stripped.startswith("#"):
             text = stripped[1:].strip()
@@ -393,17 +487,19 @@ def render_markdown_to_docx(document, md_text, first_chapter):
 
         # Blockquote
         if stripped.startswith(">"):
-            text = stripped[1:].strip()
+            qtext = stripped[1:].strip()
+            if qtext == "":
+                continue  # empty ">" continuation line -> no phantom paragraph
             p = document.add_paragraph()
             p.paragraph_format.left_indent = Inches(0.5)
-            add_inline_runs(p, text, base_italic=True)
+            p.paragraph_format.right_indent = Inches(0.5)
+            add_inline_runs(p, qtext, base_italic=True)
             continue
 
         # Bullet list
         if stripped.startswith("- ") or stripped.startswith("* "):
-            text = stripped[2:].strip()
             p = document.add_paragraph(style="List Bullet")
-            add_inline_runs(p, text)
+            add_inline_runs(p, stripped[2:].strip())
             continue
 
         # Numbered list
@@ -413,32 +509,29 @@ def render_markdown_to_docx(document, md_text, first_chapter):
             add_inline_runs(p, num_text)
             continue
 
-        # Table rows (markdown tables) -> keep as plain paragraphs so content
-        # is not lost; render the row text without leading/trailing pipes.
-        if stripped.startswith("|"):
-            # skip separator rows like |---|---|
-            cells_only = stripped.strip("|")
-            if set(cells_only.replace("|", "").replace(":", "").strip()) <= {"-", " "} \
-                    and "-" in cells_only:
-                continue
-            row_text = " | ".join(c.strip() for c in stripped.strip("|").split("|"))
-            p = document.add_paragraph()
-            add_inline_runs(p, row_text)
-            continue
-
-        # Whole-line bold (e.g. **SOMETHING**) -> normal paragraph, bold
+        # Whole-line bold (e.g. **SOMETHING**) -> normal paragraph, centered
         if stripped.startswith("**") and stripped.endswith("**") and \
                 stripped.count("**") == 2:
             p = document.add_paragraph()
-            add_inline_runs(p, stripped)  # add_inline_runs handles the ** span
+            add_inline_runs(p, stripped)
             continue
 
-        # Default: normal paragraph with inline formatting
+        # Default: normal body paragraph, justified
         p = document.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
         add_inline_runs(p, stripped)
+
+    # flush any trailing table
+    if table_buf:
+        _flush_table(document, table_buf)
+        table_buf.clear()
 
 
 def build_title_page(document):
+    # push the title down the page a little
+    spacer = document.add_paragraph()
+    spacer.paragraph_format.space_before = Pt(120)
+
     title = document.add_paragraph(style="Title")
     trun = title.add_run(BOOK_TITLE)
     title.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -451,6 +544,7 @@ def build_title_page(document):
     srun = sub.add_run(BOOK_SUBTITLE)
     srun.italic = True
     sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    sub.paragraph_format.space_before = Pt(12)
 
 
 # ---------------------------------------------------------------------------
@@ -485,7 +579,9 @@ def main():
 
     # ---- PART 2a: build the DOCX ------------------------------------------
     document = Document()
+    configure_document_styles(document)
     build_title_page(document)
+    document.add_page_break()
 
     for i, (chapter_id, heading, text) in enumerate(cleaned_chapters):
         first_chapter = (i == 0)
