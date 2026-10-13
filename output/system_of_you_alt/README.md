@@ -34,7 +34,7 @@ Source: `output/full_fifth_draft.md` on main at commit `b3732b4` (13 October 202
 | Each layer chapter is built around one character's real moment | Stories carry the ideas; the draft read like a specification. |
 | Caveats are said once, clearly, then trusted | The draft repeated "hard cases / counterexamples / model limitations" in every chapter, which kept cancelling the warmth. |
 | A same-day win in chapter one | Readers who get relief early trust the rest of the book. |
-| Shorter, denser, about 50,000 words | The common criticism of hits is padding. Word of mouth favours books that don't waste the reader's time. |
+| Lean and dense: about 28,000 words, roughly 150 printed pages | The common criticism of hits is padding. Word of mouth favours books that don't waste the reader's time, and short, shareable self-help books have broken out on exactly that basis. |
 | Chapter endings worth sharing | Quotable lines do much of a self-help book's marketing for free. |
 | Character continuity fixed | The draft had a widowed Marcus discussing dishes with a partner, Callum as a former marathon runner, and Grace as an artist posting online. All five now match the character bible. |
 | Dedication moved to the end | At the author's request; it now reads as the book's final words. |
@@ -46,6 +46,8 @@ Source: `output/full_fifth_draft.md` on main at commit `b3732b4` (13 October 202
 3. **Crisis guidance:** wording that works in any country ("your local emergency number", "a doctor", "someone near you") instead of named services.
 4. **Spelling:** British English, matching the original.
 5. **Notes:** a smaller set, limited to claims the text actually makes, with contested research flagged plainly.
+6. **Length:** kept deliberately lean rather than padded to a standard trade length. If a publisher wants more, the natural places to expand are deeper character stories in Chapters 2–6 and a short "common questions" section per layer, not more caveats.
+7. **Character resolutions:** where the original left arcs open, the alt edition resolves them so the Growth Map chapter pays off: Maren moves to day shifts, Callum and his partner take a flat together, Grace fills in the leadership course form, Marcus reopens the line to his daughter, and Elena applies for, and gets, the headship.
 
 ## Chapter plan
 
