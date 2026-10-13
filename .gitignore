@@ -25,6 +25,7 @@ output/*
 !output/full_second_draft.docx
 !output/draft3/
 output/draft3/_*
+!output/system_of_you_alt/
 !output/draft4/
 output/draft4/*_raw.md
 output/draft4/*_evidenced.md
