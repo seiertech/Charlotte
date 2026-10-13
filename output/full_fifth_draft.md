@@ -80,7 +80,6 @@ I’m not promising you a new life in thirty days. Anyone who promises that is s
 
 ## How it’s helped me, and others
 
-[AUTHOR VOICE]
 You are a system – we all go about our daily lives consciously and unconsciously wanting one thing – to be happy and seen as in tact and in control. We compare and measure ourselves against friends, family members, acquaintances, colleagues and unknown famous people on social media. The message is always, perfect, content, happy and all under control. Yet, we don't know that these people also struggle with the same issues, or have dealt with some of these issues with the help of professionals or maybe just became hopeless and gave up on themselves and live in general.
 
 Not all of us have the means to see a professional practitioner when something feels off or a trigger is activated. Why seek help when the world expects us to improve on our own? We often feel hopeless and lost, searching externally for answers, when the real solution lies within ourselves. Years you have struggled with personal issues, maybe at home or at work, or with relationships. You've read books, you chatted to your friend, you confided in a colleague and yet as soon as you think you have the answer it feels like you are back to square one. You feel you don't measure up to other people's standards, you cannot find happiness, you were not supposed to be in a relationship or a parent.
@@ -492,8 +491,6 @@ His jaw snaps shut before he can think. The words come out sharper than he meant
 He feels the heat rise in his cheeks, the pulse in his throat, the way his body has already decided this is an attack, already braced for fight. He wants to soften, to say *wait, let me see*, but the mouth won’t obey the thought. The room feels too small, the air too thin. He swallows hard, tastes the metallic tang of adrenaline, and realizes he’s already halfway to an apology he doesn’t want to give—not because he’s wrong, but because his wiring has already run the program: *loud = threat; threat = defend; defend = apologize later.*  
 
 The dish slips from his fingers, clatters into the sink, and the sound makes him flinch again, as if the universe itself has raised its voice.  
-[AUTHOR VOICE]  
-[NOTE TO AUTHOR: VOICE_MOMENT — A personal experience of reacting before thinking — your own wiring catching you. 50–100 words.]  
 
 That tight jaw before you’ve even decided to speak. That stomach drop before you’ve named the feeling. That voice that comes out too loud before you’ve chosen the words. That’s not your body acting up. That’s your **Wiring**—the automatic operating system running beneath awareness — reactions, threat responses, and deep-set patterns that fire before conscious thought arrives.  
 
@@ -1242,11 +1239,6 @@ You don't need to memorize them. You only need to remember the one that fits the
 
 ---
 
-[AUTHOR VOICE]  
-[NOTE TO AUTHOR: VOICE_MOMENT — How you discovered you'd been working on the wrong layer — the personal origin of the sequencing insight. 100–150 words.]  
-
----
-
 ### Tools for Charge  
 *(When you're over‑firing or shut down)*  
 
@@ -1464,7 +1456,111 @@ Marcus sits at their desk at 9:12 p.m. on a Thursday, staring at the to‑do l
 
 **What it feels like when it's working:** the thought loosens its grip. It stops being *the truth* and becomes *a thought*—one you can disagree with.  
 
-**Its edge:** this works on distorted everyday thoughts. It does *not* work by force on the deepest beliefs (*"I am fundamentally not enough"*)—those are older and need the gentler, slower work of meeting the part beneath them (Tool 9), often with a good therapist. Don't bludgeon a deep wound with logic.
+**Its edge:** this works on distorted everyday thoughts. It does *not* work by force on the deepest beliefs (*"I am fundamentally not enough"*)—those are older and need the gentler, slower work of meeting the part beneath them (Tool 9), often with a good therapist. Don't bludgeon a deep wound with logic.  
+
+**Mechanism note:** Checking the thought recruits the slower, evaluative Story layer to appraise a claim that Wiring produced automatically. By testing it against evidence, you convert an automatic prediction into a reviewable statement, which weakens its grip.  
+
+**Failure mode:** Applying it to a Body signal dressed as a thought—*"I can't cope"* when the real issue is two nights of no sleep. The logic doesn't land because the claim is a Fuel reading, not a distortion.  
+
+---
+
+#### Tool 8 — Guilt or Shame?  
+**What it's for:** the heavy, sinking state after you've done something you regret—where the feeling has quietly slid from *"I did a bad thing"* to *"I am a bad person."*  
+
+**When to reach for it:** when regret stops being about the act and starts being about *you*—when the voice moves from *that was wrong* to *I'm worthless.*  
+
+**How to do it:**  
+1. Write the feeling in one line, exactly as it sounds in your head.  
+2. Sort it. Guilt says *"I did something bad."* Shame says *"I am bad."* Guilt is about an action; shame is about a self.  
+3. If it's guilt, ask the useful question: *what would I do differently, and what's the repair?* Then do the repair.  
+4. If it's shame, don't argue with it—re‑file it. *A good person can do a bad thing. The thing was wrong; I am not.* Return it to guilt, where there's something you can actually act on.  
+
+**What it feels like when it's working:** the sinking lifts a notch. You still regret the act—but you're no longer dissolving into it. The problem becomes a thing you can mend instead of a verdict on who you are.  
+
+**Its edge:** guilt is workable; shame is older and heavier. If the shame won't re‑file—if it keeps collapsing *the act* back into *the self*—that's a deep Story wound, and it's worth meeting gently (Tool 9), often with a good therapist.  
+
+**Mechanism note:** Guilt and shame live in the Story layer but point in opposite directions—one at behaviour, one at identity. Separating them restores a boundary between what you did and who you are, which is the boundary shame erases.  
+
+**Failure mode:** Trying to re‑file shame while the Body is depleted; a tired system defaults to the global, self‑condemning read, and the sort won't hold until the Body is steadier.  
+
+---
+
+#### Tool 9 — Meet the Part  
+**What it's for:** the deep, old belief that logic can't shift—*"I'm not safe,"* *"I'm not enough,"* the sentence that was true for a younger you and never got updated.  
+
+**When to reach for it:** when a reaction is far bigger than the moment deserves, and checking the thought (Tool 7) just bounces off. That size is the tell: something old is in the room.  
+
+**How to do it:**  
+1. Instead of fighting the belief, get curious about it. Picture the part of you that holds it—usually a younger version, scared, trying to help.  
+2. Ask it, gently: *what are you protecting me from?* Then wait. Don't answer for it.  
+3. Listen for the fear underneath—*making a mistake that harms someone, being left, being seen as a fraud.* Let the part be right that it was once needed.  
+4. Thank it. Tell it the truth: *that was real then. I'm safer now, and I can take it from here.* You're not evicting the part; you're letting it rest.  
+
+**What it feels like when it's working:** not a bang, a softening. The old sentence loosens because it finally felt heard instead of argued with. Something in you unclenches that logic could never reach.  
+
+**Its edge:** this is the gentle, slow work, and it has a floor. Beliefs welded to trauma need bottom‑up care and a skilled person beside you. If meeting the part opens something far bigger and older than the moment—the walled‑off room—stop, go gently, and reach for help (Tool 12).  
+
+**Mechanism note:** Deep beliefs sit in the Story layer as predictions laid down early, often by Wiring under threat. They don't update by argument; they update by being met with safety. Curiosity signals safety, which is the only condition under which an old prediction will revise.  
+
+**Failure mode:** Using Meet the Part as a bypass—excavating old pain while skipping a depleted Body or an unsafe Room. The part cannot rest in a system that still isn't safe or fed.  
+
+---
+
+#### Tool 10 — Act from the Value  
+**What it's for:** the flat, stalled state where the feeling you were waiting for—motivation, certainty, readiness—simply never arrives.  
+
+**When to reach for it:** when you know what matters but can't *feel* your way into it, and you've been waiting for the mood to move you. It isn't coming. Move anyway.  
+
+**How to do it:**  
+1. Drop the question *"what do I feel like doing?"* It has no answer right now.  
+2. Ask instead: *what do I actually care about here?* Name the value in plain words—*presence, honesty, being someone my kid can rely on.*  
+3. Choose the smallest action that points at the value, and take it without waiting to feel ready. The feeling, if it comes, comes *after* the action—not before.  
+
+**What it feels like when it's working:** a faint, steadying pull—not motivation, something quieter. You've stopped waiting to be moved and started moving, and the day gets a direction it didn't have.  
+
+**Its edge:** values can carry you across a feeling‑gap; they can't carry a system that's truly empty. If you can't locate any value you care about—if everything has gone grey and stays grey—that flatness is worth taking to someone, not pushing through alone.  
+
+**Mechanism note:** Values live in the Story layer and don't depend on Wiring's moment‑to‑moment charge. Acting from a value bypasses the feeling‑gate that normally decides behaviour, which is why it works when motivation is absent.  
+
+**Failure mode:** Mistaking burnout for a motivation problem and using values to flog an exhausted Body. The honest move there is the Full Stop (Tool 6) and the Honest Refill (Tool 5) first.  
+
+---
+
+#### Tool 11 — The Small Reconnect  
+**What it's for:** the quiet erosion of a tie that mattered—the friend, the sibling, the person who drifted while you weren't looking—and the loneliness that settles in the gap.  
+
+**When to reach for it:** when you notice someone's been on your mind, or absent from it too long, and the Room around you has gone quiet in a way that costs you.  
+
+**How to do it:**  
+1. Pick one person. Not the hardest relationship—one real, reachable person.  
+2. Send one small, real message. Not a grand gesture, not an apology essay—something plain: *"You crossed my mind today—how are you really?"*  
+3. Keep the bar low. One message. No agenda, no fixing, no needing it returned a certain way. The point is the reach, not the result.  
+
+**What it feels like when it's working:** a small warmth, a line reopened. The Room feels one degree less empty—and often, so does theirs.  
+
+**Its edge:** reconnection is a tool for drift, not for danger. A relationship that's harmful isn't a thing to reopen; some ties are healthier left closed, and knowing the difference is its own kind of care.  
+
+**Mechanism note:** The Room layer runs partly on co‑regulation—other nervous systems help steady yours. A single real contact restores a thread of that regulation, which is why a small reconnect can lift the whole system more than its size suggests.  
+
+**Failure mode:** Reaching outward to avoid a Story that needs facing (*"I'm too much for people"*); the reconnect soothes the moment but the belief refills the loneliness unless it's met directly.  
+
+---
+
+#### Tool 12 — Reach for a Person  
+**What it's for:** the weight that's bigger than everyday—older, heavier, or frightening. The walled‑off room. The days a book was never meant to hold.  
+
+**When to reach for it:** when the other tools keep bouncing off, when a feeling opens something far bigger than the moment, or when any part of you is thinking about not being here. That last one has no edge and no waiting—reach now.  
+
+**How to do it:**  
+1. Say the hardest sentence out loud to one person who can hold it—*"I'm not okay, and I need help."* The saying is the tool.  
+2. Choose the right person for the weight: a trusted friend for the ordinary‑but‑heavy; a doctor or therapist for the patterns that won't move; an emergency line for the moments that can't wait.  
+3. Let it be imperfect. You don't need the right words. You only need to not carry it alone.  
+
+**What it feels like when it's working:** the aloneness breaks first—before anything's solved. The weight is still there, but it's shared, and shared weight is a different weight.  
+
+**Its edge:** this tool has no edge, and that's the point. It is the floor under every other tool in this book. It is not the last resort; it is the first and best move when the load is more than everyday. Reaching for a person was always the truest tool in here.  
+
+**Mechanism note:** No single layer carries extraordinary weight alone. Another steady nervous system, or a trained one, lends regulation your own system can't generate in the moment—which is why reaching out changes the state before it changes the situation.  
 
 ---
 
@@ -1609,9 +1705,6 @@ I see you, I’ve been here too—that quiet moment when you know exactly what�
 ### Trust versus faith  
 
 Before we name the constraint, let’s clarify the word *faith* as it appears in this book. For many, “faith” carries religious or metaphysical weight—belief in something unseen, often tied to doctrine. Here, I use it differently: **trust** is confidence grounded in evidence you already have; **faith** is the capacity to act when that evidence runs out, to hold a direction forward even when the data isn’t in yet. It is not a leap into the irrational; it is the willingness to keep the system oriented toward what matters while you work with what you *can* change. The term was chosen deliberately because no weaker word captures this function of persisting in the face of an unmovable bottom layer.  
-
-[AUTHOR VOICE]  
-[NOTE TO AUTHOR: VOICE_MOMENT — A personal moment of recognizing the difference between trusting what you’ve proven and having faith to keep going when proof is absent. Think of a time you kept a habit or a relationship alive not because you saw immediate results, but because you believed in the longer arc. 100–200 words.]  
 
 ---  
 
@@ -1932,9 +2025,6 @@ Even with the mechanism understood, some readers find the compass stubbornly stu
 
 ### The quiet call  
 
-[AUTHOR VOICE]  
-[NOTE TO AUTHOR: VOICE_MOMENT — The author's own growth map — what changed in you from applying this. The book's emotional close. 150–300 words.]  
-
 Maren sets the mug down. The apartment is quiet. The calendar on the wall stares back at her—full of things that can’t be missed.  
 
 She presses her palms into the counter again, the cool biting into her skin. Behind her eyes, the blur signals her Body layer is still low, but she notices a faint tug—a direction, however weak, from her value of *“I still choose presence over perfection.”* She understands the system. She knows the layers. And now she knows why understanding alone isn’t enough.  
@@ -1942,8 +2032,6 @@ She presses her palms into the counter again, the cool biting into her skin. Beh
 The map can be corrected. But the compass? That’s the thing you have to choose to trust again.  
 
 She exhales, long and slow, and turns toward the bedroom. Not because she feels it. Not because the flatness is gone. But because the quiet pull of what still matters is there—even if it’s weak. And that’s enough to take the next step.  
-
-*(Next: Chapter 12 — Watching It Change + The Growth Map)*
 
 ---
 
@@ -2265,9 +2353,160 @@ And when the next three-o'clock afternoon comes, and the pebble lands, and the o
 
 The point is that you can answer it now.
 
-[AUTHOR VOICE]
-[NOTE TO AUTHOR: PERSONAL_STORY — Close the book in your own voice. A short, true final word: what you most want the reader to carry out the door with them, and — if you're willing — where you are now with your own system, on your own ongoing journey. This is the last thing they hear from you. 150-300 words.]
-
 ---
 
 *You are a system. You always were. Now you know how to work it — one quiet noticing at a time, all at your own pace.*
+
+---
+
+# A Toolkit for You
+
+You don't need the whole book in a hard moment. You need one right move.
+
+This is the drawer you open when the system is stuttering — the 3 p.m. afternoon, the sleepless 2 a.m., the message that landed harder than it should have. Everything here is already in the book; this is just the part you can reach for fast, without reading a chapter first. It is deliberately generous. You will never use all of it. You only ever need the one thing that fits the next small moment.
+
+One promise carries through every page of it, the same one the book has made all along: **this is a kit for everyday weight.** When the weight is bigger than everyday — when it's older, heavier, or frightening — the bravest tool is not on this list. It's the phone. Reaching for a real person was always the truest tool in here, and it still is.
+
+So keep this close. Dog-ear it. Come back to it on the grey days. It will wait.
+
+---
+
+## How to use this toolkit
+
+The whole book comes down to two questions you learned to ask: **which layer, and which currency?** Everything in this toolkit hangs off those two questions. You don't diagnose first and feel later — you take one breath, then you locate, then you reach.
+
+So the order is always the same:
+
+1. **Steady first.** One long exhale before anything else. You cannot read your own system while it's firing. (This is Tool 1 — *The Long Exhale* — and it comes first for a reason: it buys you the half-second of distance that makes the next step possible.)
+2. **Locate.** Ask the two questions. *Which layer is this really coming from — Body, Wiring, Habit, Room, or Story? And which currency has run short — Charge, Pressure, Fuel, or Mind?*
+3. **Reach for the fitting tool.** Not the cleverest tool. The one that lands where the problem actually lives.
+
+If you can't tell which layer it is, don't force it. Start at the bottom. Check the Body first — sleep, food, rest. More bad afternoons start there than anywhere else, and a depleted Body makes every layer above it misfire. When in doubt, go down, not up.
+
+---
+
+## Part One — The Layer Map
+
+A fast way to recognise where you are. Each layer has a *tell* (how it feels from the inside), the *currency* that tends to run short there, and the *first move* — the honest place to start.
+
+### Body — *the layer everything else stands on*
+- **The tell:** running on fumes, foggy, wired-tired, everything-is-effort. A blur behind the eyes before you even know you're tired.
+- **Currency:** Fuel, mostly — sleep, food, rest. Sometimes Charge.
+- **First move:** Don't negotiate with a depleted Body. Give the real thing — sleep, food, rest — not the substitute. *(The Honest Refill; The Full Stop.)*
+- **The edge:** Exhaustion that sleep won't touch, week after week, is not ordinary depletion. That's the burnout pattern, and sometimes it's a doctor, not a tool.
+
+### Wiring — *the fast, automatic layer that fires before you decide*
+- **The tell:** reaction arriving before decision — the gear-slip, the snap, the flood. You were *in* it before you chose it.
+- **Currency:** Charge (over-firing or shut down); sometimes Pressure.
+- **First move:** Lengthen the exhale, then name what's happening. *(The Long Exhale → Name It to Tame It.)*
+- **The edge:** If the flash is really an old, walled-off thing arriving far bigger than the moment, logic won't touch it. Go gently, and that's often work for a good therapist.
+
+### Habit — *the groove that runs itself on autopilot*
+- **The tell:** the routine ran without you — the scroll, the snack, the same loop at the same hour. You looked up and it had already happened.
+- **Currency:** Mind (attention and bandwidth); Fuel underneath.
+- **First move:** Interrupt the cue and shrink the next step until it's almost too small to refuse. *(Empty the Head to clear bandwidth first, if the head is full.)*
+- **The edge:** A habit that won't shift despite honest effort may be resting on a depleted Body or an old Story. Check the layer beneath before you blame your discipline.
+
+### Room — *the weather of the space and people around you*
+- **The tell:** a change in the weather of the room changed you — a temperature drop, a pulled-back quiet, a tension you absorbed and started carrying as if it were yours.
+- **Currency:** Pressure, mostly.
+- **First move:** Change the environment, not yourself. Leave the room, open a window, end the call, step outside. Then discharge what you absorbed. *(The Discharge.)*
+- **The edge:** Some rooms aren't weather — they're structural (an untenable workload, a coercive relationship). No internal tool fixes an external cage; that's a thing to challenge or leave, often with help.
+
+### Story — *the oldest layer, the sentences you take as fact*
+- **The tell:** an uninvited sentence arriving behind the eyes — *I'm not enough. I always ruin this. They think I'm an idiot.* It feels like truth. It's a thought.
+- **Currency:** Mind.
+- **First move:** Separate the thought from the fact. Check it against the evidence. Then find the value underneath the pain. *(Check the Thought.)*
+- **The edge:** Everyday distorted thoughts loosen when you check them. The deepest beliefs — *I am fundamentally not enough* — do not yield to logic. Don't bludgeon a deep wound with argument; meet it gently, usually alongside a professional.
+
+---
+
+## Part Two — The Everyday Kit
+
+These are the moves you can use blind — no diagnosis needed, safe in almost any bad moment. If you remember nothing else from this book, remember these. They are the floor under everything else in the toolkit.
+
+1. **Step back and take a breath.** One long exhale, out longer than in. Before words, before decisions, before anything. It's the one signal your body reads as *the danger has passed.*
+2. **Name it.** Put the feeling in the plainest words you can — *this is fear, this is exhaustion, this is shame.* Naming moves it from the wordless part of you to the thinking part, and the thinking part can hold it.
+3. **Discharge it.** If it's stuck in the body — jaw, neck, stomach — move hard for ten minutes, or shake it out, or put it into words on a page. The point is *out*, not *held*.
+4. **Empty the head.** When it's too much at once, get it all onto a page. Most of it is smaller outside your head than in. Circle the one thing that matters now.
+5. **Refuel honestly.** Ask which is lowest — sleep, food, or rest — and give the real thing, not the substitute. Tired needs sleep, not caffeine.
+6. **Change the room.** If the weather around you turned, move. Different space, different light, different people, or just outside for five minutes.
+7. **Shrink the step.** When you can't start, make the next step so small it's almost silly. Two minutes. One sentence. One dish. Motion beats willpower.
+8. **Check the thought.** When a harsh sentence is running as fact, write it down and ask: what's the evidence for, and against? What would I tell a friend who said this?
+9. **Find the value underneath.** When you can't feel your way forward, ask what you *care about* here. Values pull you when feelings can't. Act from the value, not the mood.
+10. **Reach for a person.** When the weight is more than everyday, this is the first and best tool, not the last resort. Say the hard sentence out loud to someone who can hold it.
+
+---
+
+## Part Three — The Situation Index
+
+This is the long shelf — a wide spread of real, ordinary situations, each traced back to its likely layer and currency, each pointed at the move that fits, each honest about its edge. Reach for the one that matches your afternoon.
+
+A note on reading it: the *likely* layer is a starting guess, not a verdict. Many situations live in two layers at once — a snap is often Body *and* Wiring; a stuck habit is often Habit *and* Story. When two are named, work the lower one first. And where you see **reach for a person**, treat it as the real instruction, not a footnote.
+
+### At work
+
+- **I'm dreading a conversation I can't avoid.** *Layer:* Wiring (Charge). *Move:* Long exhale, name the fear plainly, then rehearse only the smallest first sentence. *Edge:* If the dread is really about an old story (*I'll be humiliated*), check the thought too.
+- **A meeting left me rattled and I can't settle.** *Layer:* Wiring + Room (Charge, Pressure). *Move:* Discharge — walk it off hard for ten minutes — then change the room before you do anything else. *Edge:* If every meeting does this, something upstream is generating it; trace the pattern.
+- **My new manager and I see my job completely differently.** *Layer:* Room (Pressure) + Story. *Move:* Separate the room's weather from your worth — their expectation is not a verdict on you. Empty the head onto a page, then raise the mismatch directly. *Edge:* A genuinely untenable role is structural, not a feeling to fix.
+- **I can't start the task that matters most.** *Layer:* Habit + Body. *Move:* Check fuel first (are you actually depleted?), then shrink the step to two minutes. *Edge:* Chronic can't-start may rest on a Story (*if it's not perfect it's worthless*).
+- **I'm working flat out and still feel I'm failing.** *Layer:* Story (Mind) + Body (Fuel). *Move:* Check the thought against the evidence; honest refill; consider the Full Stop. *Edge:* *My worth is my output* is a deep story — gentle, slow work.
+- **I keep putting off one dreaded email.** *Layer:* Habit + Wiring. *Move:* Name the feeling it triggers, then write one sentence of it only. *Edge:* Avoidance that spreads to everything may be more than habit.
+- **I overcommitted and now I'm drowning.** *Layer:* Body (Fuel) + Room (Pressure). *Move:* The Full Stop — stop adding, take one real thing off the pile, protect the basics. *Edge:* If you *can't* take anything off, that itself is the finding.
+
+### At home and in relationships
+
+- **I snapped at someone I love.** *Layer:* Wiring, usually standing on a depleted Body. *Move:* Long exhale, name what fired, then repair — a plain, un-defended *I'm sorry, that was me running low, not you.* *Edge:* If it keeps happening, trace the Body/Story underneath, don't just keep apologising.
+- **I lost my temper and the guilt is eating me.** *Layer:* Wiring → Story. *Move:* Repair first (the act, not the feeling), then check the thought — *the damage is done and I can't come back* is rarely true. *Edge:* Shame that won't lift is worth saying out loud to someone.
+- **A friend disappointed me and I feel foolish for trusting them.** *Layer:* Story (Mind). *Move:* Separate the event from the sentence — *I never really knew them* is a story; check it fairly. Find the value underneath (you value closeness — that's not a flaw). *Edge:* Repeated betrayals are information, not self-blame.
+- **My partner and I keep having the same fight.** *Layer:* Room + Story, both sides. *Move:* Change the room (don't fight while depleted or late at night), discharge first, then name your own layer before theirs. *Edge:* Patterns that never move may need a third person in the room — a counsellor.
+- **The house feels tense and I've absorbed it.** *Layer:* Room (Pressure). *Move:* Recognise it isn't yours, change your environment, discharge. *Edge:* A chronically threatening home is structural — safety first.
+- **I feel lonely even around people.** *Layer:* Story (Mind) + Wiring. *Move:* Name it without judging it, find the value it points to (connection), take one small real step toward a person. *Edge:* Persistent, flattening loneliness deserves company and sometimes support.
+- **I keep comparing myself to everyone and losing.** *Layer:* Story. *Move:* Name the comparison trap — you're measuring your inside against their outside. Check the thought. Come back to your own system. *Edge:* If it's relentless, it's an old story worth gentle work.
+
+### As a parent / carer
+
+- **The noise and demands tipped me over.** *Layer:* Body (Fuel) + Wiring (Charge). *Move:* Long exhale, name *this is exhaustion*, refuel the moment you can. *Edge:* Running empty daily is the burnout pattern — ask for respite, it's not weakness.
+- **I feel guilty for needing a break.** *Layer:* Story (Mind). *Move:* Check the thought — *good parents don't need rest* is a lie the body will eventually collect on. Find the value (your child needs you steady, not drained). *Edge:* Guilt that blocks all rest is deep-story work.
+- **I can't take anything off my plate — people depend on me.** *Layer:* Room constraint + Story. *Move:* The Full Stop where you can; name the one thing that could be shared. *Edge:* If there's genuinely no slack, that's a Room constraint needing outside help, not more willpower.
+
+### Body and health
+
+- **I can't sleep — my mind won't stop.** *Layer:* Wiring (Charge) on Body (Fuel). *Move:* Long exhale, empty the head onto a page beside the bed (it's safe there, not in your skull), no screens. *Edge:* Chronic insomnia is a Body-layer thing worth a doctor.
+- **I'm exhausted but sleep doesn't fix it.** *Layer:* Body — possibly beyond ordinary depletion. *Move:* Honest refill and the Full Stop first. *Edge:* Exhaustion sleep won't touch, week after week, is a signal to seek medical help.
+- **I feel numb, flat, nothing.** *Layer:* Body + Wiring (shut-down Charge). *Move:* Gentle activation — a short walk, light, water, one small input — not force. *Edge:* Persistent flatness is worth taking to someone; numbness is a signal, not a character trait.
+- **I'm wired, buzzing, can't settle.** *Layer:* Wiring (over-charge). *Move:* The Long Exhale, six rounds, out longer than in. *Edge:* Panic that comes from nowhere or often belongs with a doctor.
+- **I'm in pain and everything else is harder because of it.** *Layer:* Body, constraining everything above. *Move:* Lower the load on the layers above (Full Stop, honest refill), be patient with Wiring and Story while the Body is loud. *Edge:* Pain is care-for, not push-through.
+- **I keep reaching for the thing that numbs me (scroll, snack, drink).** *Layer:* Habit + Wiring. *Move:* Interrupt the cue, discharge the feeling it's medicating, shrink the replacement step. *Edge:* If it's got a real grip, that's worth real support, early.
+
+### Mind and mood
+
+- **A harsh thought is running as if it were fact.** *Layer:* Story (Mind). *Move:* Check the thought — evidence for and against, the friend test, a truer *sometimes/this time* version. *Edge:* Deepest beliefs don't yield to logic alone.
+- **I feel like a fraud / not enough.** *Layer:* Story. *Move:* Name the old sentence, check it, find the value underneath. *Edge:* *Fundamentally not enough* is an old wound — gentle, slow, often shared work.
+- **Everything feels pointless and I can't feel my way forward.** *Layer:* Story + Body. *Move:* Don't wait for the feeling — act from a value, one small step. Check the Body underneath. *Edge:* If pointlessness is heavy or lasting, reach for a person today, not someday.
+- **My head is a swamp — too much at once.** *Layer:* Habit (bandwidth) + Pressure. *Move:* Empty the head, circle the one thing, let the page hold the rest. *Edge:* Sometimes the honest finding is you're carrying too much — the fix is fewer things, not better sorting.
+- **The old feeling that nothing ever changes is back.** *Layer:* Story. *Move:* Read back your own notes — the receipts, in your own handwriting — and let them argue with the feeling. *Edge:* The feeling is a liar; but if it won't lift, say it out loud to someone.
+
+### When everything is too much at once
+
+- **I don't even know which layer this is.** *Move:* Steady first — one long exhale — then start at the bottom. Check the Body before anything else. When in doubt, go down, not up.
+- **I've tried the tools and nothing is moving.** *Move:* That may be a hard case — a lowest layer that won't budge yet (immutable, currently constrained, externally imposed, or changeable-but-costly). The work shifts from *fixing* to *adapting*, and often to getting help. *Edge:* Not moving is information, not failure.
+- **It's bigger than a bad afternoon.** *Move:* Put the toolkit down. Reach for a person — a friend, a doctor, a line that answers at any hour. This was always the first and best tool, not the last.
+
+---
+
+## Part Four — The One Rule
+
+If every other page of this toolkit fell away, this is the one to keep.
+
+**Everyday weight → use the kit. Bigger than everyday → reach for a person.**
+
+That's the line that runs under all of it. Every tool here knows its own limit, and a tool that doesn't know its limit is the dangerous kind. The long exhale takes the top off a hard moment; it doesn't cure what caused it. The thought-check loosens a distorted sentence; it doesn't rewrite an old wound. The refill restores an ordinary day; it doesn't fix exhaustion that sleep won't touch. Each one is for ordinary weight — and each one, honestly used, points past itself when the weight is more.
+
+So reach for a person when it's more than a book can hold. Not because you failed the system. Because *that is the system working* — the same system that lets you notice, and love, and begin again.
+
+You are a system. You always were. Now you have the kit to work it — one quiet noticing at a time, all at your own pace. And on the days the kit isn't enough, you know the bravest thing you can do is pick up the phone.
+
+Go gently.
+
+---
