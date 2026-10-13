@@ -389,27 +389,9 @@ In these situations, the body layer is not the *cause* of the symptom; it is the
 
 ---
 
-## When the body isn’t the problem
+Of course, not every problem that *looks* like Body actually lives there. You might sleep well, eat properly, and move every day, and still get sudden surges of terror from a misfiring threat response—a full tank, but Wiring stuck on high alert. Before you pour more effort into rest and food, run the two quiet questions: which layer is this really in, and what is it costing me? The body check is step one, not the whole answer, and asking first saves you from fixing the wrong thing.
 
-Not every problem starts in the body. Knowing when the body is *not* the limiting factor saves you from pouring effort in the wrong place.
-
-- **Wiring‑driven panic.** You might sleep well, eat regularly, and move every day, and still get sudden surges of terror from a misfiring threat response. The fuel tank is full; it’s the wiring layer that’s stuck on high alert.
-- **Habit‑locked avoidance.** You can have plenty of energy and still put off what matters, because the cue‑routine‑reward loop is misaligned—not because you’re running low.
-- **Room‑induced drain.** A steady body can be worn down by a chronically critical environment, leaving you depleted no matter how good your personal habits are.
-
-These cases illustrate why the two‑question diagnostic (“Which layer? What’s it costing me?”) is essential: the body check is step one, not the whole answer.
-
----
-
-## What this can’t do
-
-The Body layer model is a tool for everyday self‑regulation, not a clinical diagnostic system. It does not:
-
-- Replace medical advice for suspected pathology.
-- Account for genetic or developmental variations that alter baseline energy needs.
-- Explain rare neurological conditions that produce body‑like symptoms without lifestyle correlates.
-
-When symptoms persist despite solid body‑care practices, the framework points toward higher‑layer investigation or professional evaluation—not as a failure of the model, but as a signal to look deeper.
+A fair word on what this is and isn’t: the Body layer is a way to understand your everyday energy, not a medical diagnosis. If something persists after you’ve genuinely tended to sleep, food, and movement—or if it feels serious—the honest move isn’t another lifestyle tweak but a conversation with a professional who can look deeper. Reaching for help there isn’t a failure of the method; it’s the method working as intended.
 
 ---
 
@@ -646,29 +628,9 @@ Another hard case appears when the habit is tied to a **Story** identity that se
 
 ---  
 
-### When this isn't the real problem
+And not every repeated behaviour actually belongs to the Habit layer. A flinch at a loud noise isn’t a habit at all—it’s Wiring, there before you ever practised it—just as trying a new recipe once never had the repetition to wear itself into a groove. So before you set about retraining a loop, run the two quiet questions: which layer is this really in, and what is it costing me? That keeps you from sanding at a routine when the thing in front of you was never automatic to begin with.
 
-Not every repeated behaviour belongs to the Habit layer.  
-
-*Innate reflexes* (blinking, startle) are Wiring, not Habit, because they require no repetition to exist.  
-
-*One‑off actions* (trying a new recipe once) are not habits because they lack the repetition needed to automate.  
-
-*Effortful skills* that still require concentration (playing a complex piano piece) sit at the edge of Habit and conscious control; they are not fully automatic until thousands of repetitions have smoothed them.  
-
----  
-
-### What this can't do
-
-The Habit layer explains automatic routines but does not cover:  
-
-*Creative insight* — moments of novel connection that arise from diffuse, non‑automatic thinking.  
-
-*Emotional processing* — feeling and integrating emotions, which involves Wiring and Story, not rote repetition.  
-
-*Strategic planning* — setting long‑term goals, which relies on Story (purpose) and conscious Habit (planning routines).  
-
-The model is a diagnostic tool, not a complete map of human behaviour.  
+A fair word on what this layer can and can’t explain: it’s a way to understand the routines that run on their own, not a complete map of human behaviour. It won’t account for creative insight, the slow work of feeling and integrating emotions, or long‑term planning—those draw on other layers. If a struggle sits in that deeper territory, or keeps resisting after honest habit work, the kind move is to treat the habit as only one piece and, where something feels heavy or stuck, to bring a skilled person alongside you.  
 
 ---  
 
@@ -712,6 +674,10 @@ Pick one habit you do without thinking today—something neutral or helpful. Don
 > **Adjust** — If it felt forced, what layer beneath might be struggling? Tired Body? Overcharged Wiring? Unclear cue? Weak reward?  
 >   
 > *One line for the picture of yourself: “The habit I watched today that runs itself is ______, and it feels ______ when it’s automatic.”*
+
+---
+
+But habits don’t run in a vacuum. Watch closely and you’ll notice the same routine holds easily in one setting and falls apart in another—steady at home, impossible at your mother’s; effortless alone, gone the moment certain people walk in. That’s not the habit failing. That’s the next layer making itself felt: the room you’re in, and the people in it. That’s where we go next.
 
 ---
 
@@ -796,7 +762,9 @@ The belief “Nobody likes me” can arise from a genuinely excluding Room (you 
 
 ---
 
-When the network is steady, the story you tell about yourself starts to shift—not because you have rewritten your inner monologue, but because the Room layer is no longer feeding the wiring layer with cues of threat. The system can then settle into a rhythm where Charge flows, Pressure releases, and Fuel lasts longer. That shift is not a matter of willpower; it is the result of changing the field that surrounds you, one small, steadying connection at a time.
+When the network around you steadies, something quieter steadies with it: the story you tell about yourself. Not because you’ve rewritten your inner monologue by force, but because the Room is no longer feeding you cues of threat. Charge flows, Pressure releases, Fuel lasts longer—one small, steadying connection at a time.
+
+But that inner story has a life of its own, too. It can outlast the room that first wrote it, running the same old sentence long after the people who taught it have gone. That top layer—the narrator behind your eyes—is where we go last, and where we go next.
 
 ---
 
@@ -879,31 +847,9 @@ These cases illustrate the diagnostic sequence: you must stabilise lower layers 
 
 ---
 
-### When this isn't the real problem
+Still, not everything that surfaces as a story actually lives in the Story layer. Sometimes you find yourself scrolling for hours each night and reach for a narrative—*“I’m undisciplined”*—when the real driver is just a strong Habit groove, cue to routine to reward, that would loosen far faster if you changed the cue than if you rewrote your self‑image. Other times the constraint is outside you entirely, a structural barrier no amount of inner editing will move. So before you set to work on the narrative, run the two quiet questions: which layer is this really in, and what is it costing me? If the cost is mostly Fuel or Charge, the Story may be a symptom rather than the source.
 
-The model works best when the issue truly lives in the narrative layer. There are situations where focusing on Story misses the real constraint.
-
-* **Acute Body crisis:** If you’re suffering from untreated hypoglycemia, panic attacks, or an infection, the Body layer is the source of distress. No Story revision will raise blood sugar or calm a cytokine storm; medical intervention is needed first.  
-
-* **Externally imposed constraint:** You face a structural barrier—such as a discriminatory hiring policy or a lack of childcare—that limits your options regardless of your internal narrative. The Story layer may adapt (“I’m persistent”), but the constraint remains until the external system changes. Here, the appropriate response is advocacy or exit, not internal story work.  
-
-* **Habit‑driven loop:** You find yourself scrolling social media for hours each night, not because of a story about worthlessness, but because the habit groove is strong (cue → routine → reward). Trying to rewrite a story of *“I’m undisciplined”* while the habit loop remains untouched leads to frustration. Disrupting the habit (changing the cue, altering the reward) is the more direct lever.  
-
-These counterexamples remind us to use the two‑question diagnostic: first locate the layer, then identify the currency cost. If the cost is primarily Physical exhaustion (Fuel depletion) or autonomic dysregulation (Charge imbalance), the Story layer may be a symptom, not the cause.  
-
----
-
-### What this can't do
-
-The Story layer is a powerful tool for understanding self‑narrative, but it has boundaries.
-
-* **Collective trauma:** Narratives shaped by historical oppression, war, or systemic racism are not merely individual stories; they are embedded in cultural memory and institutional practices. While personal Story work can help an individual navigate internalised messages, it does not dismantle the external structures that produce those narratives.  
-
-* **Neurodivergent experience:** For some neurodivergent people, what feels like a rigid Story may actually be a difference in sensory processing or cognitive style (a Wiring variation). Labeling it purely as a narrative risk pathologizes a valid way of being.  
-
-* **Acute psychosis or delirium:** In states where reality testing is severely impaired, the notion of a “story you tell yourself” loses meaning. Clinical support is required before any layered model can be applied.  
-
-Recognising these limits keeps the model honest: it is a diagnostic and intervention framework for everyday self‑understanding, not a universal theory of mind.  
+A fair word on where this layer’s reach ends: it’s a way to understand the stories you tell about yourself in everyday life, not a universal theory of mind. There are places it simply shouldn’t be stretched—narratives woven from collective trauma and systemic injustice that live in structures far larger than one person, differences in a neurodivergent mind that are a way of being rather than a story to fix, and states where reality itself is hard to hold. In those places the honest, caring move is to seek skilled professional or clinical support first, and let the model wait its turn.  
 
 ---
 
@@ -1441,263 +1387,119 @@ That's the toolkit. Twelve tools, each one plain enough to reach for on a bad da
 
 ---
 
-# Chapter 9: The Hard Cases
+# Chapter 9: When the Layer Won't Move
 
-I see you staring at the same stubborn pattern that won’t shift, no matter how many tools you try or how hard you push. That tightness in your chest, the thought that loops, the fatigue that lingers after a full night’s sleep—you’ve worked on it, you’ve re‑framed it, you’ve even sought help, and yet it stays. It’s not that you’re failing; it’s that the real work lives in a layer you haven’t touched yet, or the constraint you’re up against isn’t the kind that yields to adaptation alone.  
+I see you, I've been here too—that quiet moment when you know exactly what's wrong, you know what to do, and yet the lowest part of your system refuses to budge. You've worked on it, you've re-framed it, you've even sought help, and still it stays. It's not laziness, and it's not lack of will. It's the body, the wiring, the habit, the room, or the story holding a line that won't move.
 
-The model you’ve been learning is a diagnostic map, not a guarantee that every piece will slide into place. Sometimes the lowest layer is truly fixed, sometimes the barrier is outside your control, and sometimes the system is signaling danger that demands exit, not adjustment. In those moments the book’s job isn’t to give you a false promise of “just adapt.” It’s to name the reality of the constraint clearly so you can decide what fits your life.  
-
----  
-
-### What makes a case “hard”  
-
-A hard case appears when you have correctly identified the layer and currency, applied the right tool, and yet the symptom persists or returns. The pattern is the same: the surface problem is loud, the underlying cause is quiet, and the first attempt often stumbles—not because you did something wrong, but because the system is showing you where the real work lives.  
-
-When the cause lives in a lower layer, higher‑layer tools can’t hold change because the foundation is unstable. When the cause is a constraint, the question shifts from “how do I fix this?” to “how do I work with—or around—this limit?”  
-
----  
-
-### The five kinds of constraint  
-
-Not all limits are alike. The book’s advice to “adapt around the constraint” applies only to the first two kinds. For the other three, the honest response may be to challenge the system, to wait, or to get out.  
-
-| # | Category | Definition | Example (generic) | Appropriate response |
-|---|----------|------------|-------------------|----------------------|
-| 1 | **Immutable constraint** | A condition that will not change regardless of action | A genetic condition that affects energy metabolism, a permanent loss of a limb, an irreversible historical loss | Adapt and integrate. The system works around it; tools focus on optimizing what remains possible. |
-| 2 | **Currently constrained** | A condition that is fixed *now* but may change with time or treatment | Acute grief after a recent death, a broken bone in the healing phase, a chronic illness in a flare‑up | Patience and management now; reassess as the condition evolves. Use tools to stabilize higher layers while the lower layer heals. |
-| 3 | **Externally imposed constraint** | A barrier created by systems, structures, or other people—not by your own wiring | Discriminatory hiring practices, a law that prevents you from accessing care, caregiving obligations thrust upon you by circumstance | Challenge the system, seek structural change, or access support. Adaptation alone is not honest; the barrier lives outside you. |
-| 4 | **Changeable‑but‑costly constraint** | A situation that *could* change but at significant personal cost | A relationship that could end, a career shift that would require relocation, a move that would separate you from support | Honest cost‑benefit assessment. The book names the cost; it does not decide for you. |
-| 5 | **Unsafe situation** | A situation where you are at risk of harm | Physical abuse, active coercion, financial exploitation that threatens safety | **Exit, boundary, or safety plan.** Adaptation is never appropriate. Seek professional help, create a safety plan, or remove yourself from danger. |
-
----  
-
-### Why the lower layers hold up the higher ones  
-
-The Body layer is the physical platform. When it’s short on sleep, nutrients, or steady hormones, every signal above it—Wiring’s threat detection, Habit’s routines, Room’s relational cues, Story’s narratives—runs on shaky ground. You can’t reliably calm a racing heart (Wiring) while your blood sugar is crashing (Body), and you can’t sustain a new habit while your muscles are wrung out (Body).  
-
-Wiring is the automatic operating system. When it’s stuck in a threat loop, it floods the body with stress hormones, grabs your attention, and overrides what you’d deliberately choose. A habit you’ve practiced for years will still get interrupted if a flash of fear fires before you can act. A neutral face in the Room will get read as a threat. And a self‑narrative in the Story will come back to you filtered through danger.  
-
-Habit is the set of automatic routines. If your default is to skip meals or check email every five minutes, those patterns burn Fuel and build Pressure, leaving little room for anything new—no matter how much you intend otherwise.  
-
-Room is the relational field. A toxic workplace can keep your Wiring on high alert, drain your Fuel through constant vigilance, and press your Story toward a story of inadequacy. Even with a rested Body and a calm Wiring, a hostile Room will pull you back into dysregulation.  
-
-Story is the narrative identity. When the story says “I am not enough,” it can push you to overwork (Habit), ignore what your body is telling you (Body), or stay in draining relationships (Room)—because the narrative keeps predicting failure if you stop.  
-
-Because each layer leans on the one beneath it, the sequence—Body → Wiring → Habit → Room → Story—is the order to work in: steady the lowest layer that’s shaky before you expect any change higher up to hold.  
-
----  
-
-### Where people go wrong  
-
-When a problem won’t quit, it’s tempting to pin it on the wrong layer. These are the mix‑ups that waste effort and deepen the frustration:  
-
-* **Body mistaken for Wiring** – A pounding heart after coffee gets read as anxiety, when it’s just caffeine working on your cardiovascular system. The fix: test whether the sensation shows up with no trigger at all (Body) or only after something happens (Wiring).  
-* **Wiring mistaken for Story** – A flash of shame that lands before thought gets labeled “a belief I keep telling myself,” when it’s really a body memory firing on its own. The fix: ask whether the feeling arrived before any words formed (Wiring) or as a sentence you can actually hear (Story).  
-* **Habit mistaken for Room** – Snacking every time you sit down feels like a social cue, but it follows you everywhere—which makes it a Habit loop. The fix: notice whether the behavior changes when the people or the setting change (Room) or stays the same no matter what (Habit).  
-* **Room mistaken for Story** – Feeling left out at work becomes “I’m unlikeable,” when the exclusion may just be one team’s norms. The fix: see whether the feeling eases in a different group (Room) or follows you everywhere (Story).  
-* **Story mistaken for Body** – A heaviness in the chest that shows up when you think about failing gets read as fatigue, when it’s the weight of a narrative. The fix: check whether the sensation lifts when you set the story down (Story) or stays put no matter what you think (Body).  
-
-Each mix‑up points your tool at the wrong layer—which is exactly why the symptom seems to shrug it off.  
-
----  
-
-### When the lowest layer is truly fixed  
-
-Sometimes the layer you’ve landed on really is fixed, and no amount of tool‑work higher up will move the symptom. These are the hard cases, and the model names them honestly:  
-
-* **An immutable Body constraint** – A congenital condition that caps your aerobic capacity will always leave you low on Fuel during exertion. Tools can smooth your pacing, nutrition, and recovery, but the underlying limit stays.  
-* **A currently constrained Wiring** – After a traumatic event, the threat system can stay switched on for weeks or months. Grounding, careful dosing of stimulation, and professional trauma work can help it recalibrate, but the wiring won’t turn off on command.  
-* **A Habit locked by the environment** – If you live in a food desert, the habit of reaching for fresh produce is blocked by plain lack of access. Changing the habit means changing the Room—joining a community garden, pushing for better supply.  
-* **A Story shaped by irreversible loss** – The narrative “I am a parent” after a child’s death can’t be rewritten to erase the loss. Instead, the story learns to hold the loss while keeping your other threads of identity alive.  
-* **A Room bound by law** – If a visa restricts your right to work, no amount of relational skill changes that legal fact. The move is to navigate the system or seek a change in status.  
-
-In all of these, the guidance shifts from “fix the layer” to “work with the constraint.” The tools still matter—they steady the higher layers, let off unnecessary Pressure, and protect your Fuel—but they don’t erase a limit that is immutable, or fixed for now.  
-
----  
-
-### When it’s not what it looks like  
-
-The five‑layer map is a tool, not a law. There are edges where the layers overlap, or where a symptom straddles two of them at once:  
-
-* **Psychotropic medication** – A drug that shifts neurotransmitter levels acts directly on Wiring, yet its side‑effects—weight gain, sedation—show up in the Body. The map helps you notice whether a change in mood is the medication’s main effect (Wiring) or a bodily side‑effect (Body).  
-* **Chronic pain** – Persistent tissue damage (Body) can rewire the threat circuits (Wiring) so that pain lingers even after the healing is done. The sequence still holds, but you may need to work both layers at once: tend the tissue (Body) while retraining the alarm (Wiring).  
-* **Caregiving as both Room and Story** – Looking after an aging parent is a relational demand (Room) that can get woven right into who you are—“I am the dutiful daughter” (Story). The map lets you see whether the exhaustion is the logistical load (Room), the narrative pressure (Story), or both.  
-* **Financial strain** – A low income limits what nutritious food you can buy (Body) and runs a constant low worry (Wiring). The map asks you to trace the symptom back to its source: is the tightness in your chest from hunger (Body) or from the fear of the bills (Wiring)?  
-
-None of these break the model. They just show where you may need to hold two layers in mind at once, running the questions more than once.  
-
----  
-
-### What this can’t do  
-
-The five layers and three currencies are a practical map for understanding yourself day to day. They are not:  
-
-* A substitute for medical diagnosis, psychiatric evaluation, or legal advice.  
-* A promise that every problem can be solved on your own.  
-* A complete account of human psychology or sociology.  
-* A way to predict big, tangled outcomes like market crashes or how a disease spreads.  
-
-When you’re facing real danger, a severe mental health crisis, or a clear legal violation, the map’s job is small and honest: help you notice what you’re feeling and where it lives, then point you toward the professional help, safety planning, or advocacy you actually need.  
-
----  
-
-### Notice this in you  
-
-**Notice**  
-Think of a recurring frustration that has resisted your usual efforts. Where in your body do you first feel it—a tight jaw, a hollow stomach, a heaviness in the limbs?  
-
-**Trace**  
-Run the two‑question check: *Which layer is this?* (Body, Wiring, Habit, Room, Story) and *Which currency is it costing you?* (Charge, Fuel, Pressure).  
-
-**Try**  
-Pick the tool that matches the layer and currency. If you are unsure, start with the lowest layer you suspect and work upward.  
-
-**Watch**  
-Expect the first attempt to stumble or only partially relieve the symptom. That stumble is the system showing you where the real work lives.  
-
-**Adjust**  
-If the tool didn’t hold, ask: did I reach for the wrong layer? Did I skip a deeper layer that is still unstable? Try again, a little lower, a little gentler, a little more honest.  
-
-*One line for the picture of yourself:*  
-*“The situation I most want to work on is _______, and the layer it lives on is _______.”*  
-
----  
-
-### The next right thing  
-
-Sometimes the bravest move the system makes is to say: *I need help.* When a constraint is unsafe, externally imposed, or currently beyond your capacity to change, the right action may be to seek a professional, advocate for structural change, or create a safety plan. The model does not ask you to fix everything alone; it asks you to work with what you have, honor what you cannot change, and protect what matters most.
+That honest recognition is where we begin. Because the model you've been learning is a map, not a promise that every piece slides into place. Sometimes the lowest layer is truly fixed. Sometimes the barrier is outside you. And sometimes the system is signalling danger that demands exit, not adjustment. In those moments the book's job isn't to hand you a cheerful "just adapt." It's to name the constraint clearly, so you can decide what actually fits your life.
 
 ---
 
-# Chapter 10: When the Layer Won't Move
+### What makes a case "hard"
 
-I see you, I’ve been here too—that quiet moment when you know exactly what’s wrong, you know what to do, and yet the lowest part of your system refuses to budge. It’s not laziness, it’s not lack of will; it’s the body, the wiring, the habit, the room, or the story holding a line that won’t move. That honest recognition is where we begin.  
+A hard case appears when you've correctly found the layer and the currency, reached for the right tool—and the symptom persists or returns anyway. The surface problem is loud, the underlying cause is quiet, and the first attempt stumbles. Not because you did something wrong, but because the system is showing you where the real work lives.
 
----  
-
-### Trust versus faith  
-
-Before we name the constraint, let’s clarify the word *faith* as it appears in this book. For many, “faith” carries religious or metaphysical weight—belief in something unseen, often tied to doctrine. Here, I use it differently: **trust** is confidence grounded in evidence you already have; **faith** is the capacity to act when that evidence runs out, to hold a direction forward even when the data isn’t in yet. It is not a leap into the irrational; it is the willingness to keep the system oriented toward what matters while you work with what you *can* change. The term was chosen deliberately because no weaker word captures this function of persisting in the face of an unmovable bottom layer.  
-
----  
-
-### Why the bottom layer sets the limit  
-
-The model’s layers stack like floors in a building: Body supports Wiring, Wiring supports Habit, Habit supports Room, Room supports Story. If the floor beneath you is uneven, everything above it will tilt, no matter how nicely you decorate the upper rooms. This is not metaphor; it is cause and effect. A depleted Body (poor sleep, chronic pain, hormonal dysregulation) leaves less energy for Wiring to regulate reactions, for Habit to sustain new routines, for Room to engage co‑regulation, and for Story to rewrite identity. The sequencing rule—Body → Wiring → Habit → Room → Story—exists because you cannot reliably fix a higher layer while the lower one is broken.  
-
-When the bottom layer is *fixed* in a way that cannot be altered by volition (a genetic mutation, a structural injury, a socioeconomic barrier), the system’s only honest move is to **adapt everything above it to respect that limit**. The fight is not to change the unchangeable; it is to stop spending precious Charge, Fuel, and Pressure on a battle the bottom layer will never lose.  
-
----  
-
-### Where people go wrong  
-
-Because the lower layers run quietly, out of sight, we often misread what they’re telling us.  
-
-- **Body mistaken for Wiring:** A heavy, leaden feeling (low Body Fuel) can feel like emotional numbness, leading you to try “mindset” fixes when the real need is nutrition or rest.  
-- **Body mistaken for Story:** Persistent fatigue might be narrated as “I’m lazy,” prompting self‑critique instead of a medical check or load adjustment.  
-- **Wiring mistaken for Body:** A racing heart from a threat response (high Wiring Charge) can be read as “I need more cardio,” when the intervention should be safety cues or breath work.  
-- **Habit mistaken for Room:** Skipping lunch because you’re “just not hungry” might actually be a workplace culture that discourages breaks; treating it as a personal habit fails to shift the environment.  
-
-Each mix‑up wastes energy, because the fix lands on the wrong layer. The diagnostic tests—checking how fast a signal arrives, whether a story is attached to it, and whether it changes with context—help you find the real source before you act.  
-
----  
-
-### When the lowest layer won’t move  
-
-Some constraints simply won’t shift on the timescale of personal effort:  
-
-- **Genetic or structural bodily limits** (e.g., a connective‑tissue disorder that limits joint stability, a neurodegenerative condition that reduces dopamine production).  
-- **Chronic illness in a stable phase** where symptom management is the ceiling of improvement.  
-- **Long‑term socioeconomic barriers** (e.g., persistent poverty, lack of access to healthcare, caregiving obligations that cannot be outsourced).  
-- **Legal or relational bonds that cannot be dissolved** (e.g., a marriage bound by shared custody of a child with severe needs, a visa status that ties you to a location).  
-
-These are not problems to “solve” with more willpower; they are **constraints to work within**. The system’s intelligence lies in recognizing the boundary and then re‑allocating resources above it to maintain function, meaning, and connection.  
-
----  
-
-### When it’s not what it looks like  
-
-The five‑layer model is a tool, not a universal law. It works best when the constraint sits fairly still and the layers are reasonably distinct. A few situations stretch it:  
-
-- **Fluctuating conditions** (e.g., relapsing‑remitting MS where good days mask underlying progression). In these cases, the apparent “movement” of the constraint can fool the sequencing rule, leading to cycles of over‑exertion and crash.  
-- **Acute trauma** where all layers are temporarily overwhelmed; the usual bottom‑up sequence may be inverted as Story (shock‑driven narrative) drives immediate Wiring and Body responses.  
-- **Highly skilled expertise** where Habit has become so automatic that conscious intervention feels alien; here, the model’s emphasis on conscious notice may feel irrelevant until a breakdown occurs.  
-
-In these edge cases, the tool remains useful if you treat it as a *starting point* for inquiry rather than a final verdict. You notice the mismatch, gather more data, and adjust your layer‑currency mapping accordingly.  
-
----  
-
-### What this can’t do  
-
-Being clear about the edges of this tool protects you from expecting the wrong things of it. It does **not**:  
-
-- **Alter immutable biology** (you cannot rewrite a gene that causes early‑onset Parkinson’s).  
-- **Replace structural change** (no amount of personal adaptation will eliminate systemic racism or a living‑wage gap).  
-- **Guarantee emotional equilibrium** (even a perfectly tuned system will experience grief, fear, or joy; the model helps you locate the cost, not erase the feeling).  
-- **Provide medical treatment** (it is a lens for self‑observation, not a substitute for professional care).  
-
-Recognizing these limits keeps the approach honest: you use the model to steward what you *can* influence while seeking appropriate external help for what you *cannot*.  
-
----  
-
-### Steadying the system above the constraint  
-
-Here are four ways Maren—whose signature blur behind the eyes signals low Body Fuel—has learned to work with a fixed bodily limit instead of fighting it.  
-
-1. **Long‑COVID‑like fatigue** – Maren notices her legs feel like wet sand after any exertion, her thoughts fog, and her Charge drops rapidly. Instead of pushing through, she uses **Tool 4: Empty the Head** before her shift, caps her workday at four hours, and says “no” to extra tasks. The system stops fighting the fog and begins to work *with* it, leaving her Fuel more stable for essential activities.  
-
-2. **Persistent joint pain** – Maren’s knees ache with a deep, pulsing weight that worsens when she climbs stairs. She applies **Tool 3: The Discharge** after each climb—gentle shaking of the limbs and a long exhale—to release the held Pressure. She installs a handrail and keeps a stool nearby, letting her Body move within its current range. The Pressure no longer builds to a breaking point, and her Habit of avoiding stairs shifts to a paced, supported pattern.  
-
-3. **Chronic low‑grade inflammation** – Maren experiences a constant, low‑level heaviness in her chest (a Body signal of inflammation) that makes her feel “on edge.” She pairs **Tool 2: Name It to Tame It** with a twice‑daily check‑in: “I notice the heaviness; it is my Body’s signal of inflammation.” Naming it reduces the Wiring‑driven story that the sensation means danger, allowing her to allocate Fuel to gentle movement rather than hypervigilance.  
-
-4. **Sleep‑fragmentation from shift work** – Maren’s Body never reaches deep rest because her shift schedule fights her circadian rhythm. She uses **Tool 11: The Small Reconnect** with her housemate — a quiet, honest ask to negotiate a dark room for her daytime sleep — and schedules a 20‑minute **Tool 1: The Long Exhale** before bed to lower Charge. Though the shift pattern (a Room constraint) remains, her Body gets more restorative rest, and her Wiring stabilizes enough to keep her Habit of showing up for work intact.  
-
-In each case, the adaptation is small, specific, and directed at the layer *above* the fixed Body constraint. The system’s overall Charge, Fuel, and Pressure become steadier because the bottom layer is no longer being assaulted by a futile “fix it” script.  
-
----  
-
-### Notice this in you  
-
-> **Notice**  
-> Where in your life do you keep trying to *“push through”* something that doesn’t budge—a limitation, a pain, a fatigue, a flare‑up?  
-> Name it plainly: *“This is the thing I keep fighting that won’t change.”*  
-
-> **Trace**  
-> How much energy, time, or goodwill does this fight cost you each week? Is it worth it? Or is it just the system running an old script (*“I should be able to handle this”*) on top of a physical reality?  
-
-> **Try**  
-> Pick *one* small adaptation this week that respects the constraint instead of fighting it:  
-> - If fatigue: drop one non‑essential task.  
-> - If pain: schedule a 10‑minute discharge break after the trigger.  
-> - If brain fog: use **Empty the Head** before the fog hits.  
-> Do it once. No grand overhaul—just one honest accommodation.  
-
-> **Watch**  
-> The day after, notice what shifts. Did the system feel steadier? Did the frustration drop? Or did the old script roar back (*“I’m failing”*)? That roar itself is data—it’s the story layer reacting to the accommodation.  
-
-> **Adjust**  
-> If the accommodation helped, keep it and add nothing. If the old script won, try a gentler adaptation—or pair the accommodation with **Name It to Tame It** to catch the script before it tightens your throat.  
-
-> *One line for the picture of yourself:*  
-> *“The unchangeable thing I’m learning to work with is ______.”*  
-
----  
-
-### The shift from fighting to adapting  
-
-The shift is quiet. The heating pad hums on the couch at home. Maren’s back still aches, but the house is calmer now, the dishes can wait, and her daughter has learned that after a night shift, Mum rests first. The system is steadier.  
-
-And somewhere in that quiet, a question forms: *What do I trust when the body won’t bend?*  
-
-That question isn’t a failure. It’s the next honest move. It’s the shift from *fighting the unfixable* to *adapting the system around it*. Not as defeat. As mastery.  
-
-Because the system wasn’t built to run on willpower alone. It was built to run on *honesty*. On *accommodation*. On the quiet, daily practice of working *with* what is, not against it.  
-
-And that practice starts with one small adaptation. Not tomorrow. Today.
+You already know the sequence—Body → Wiring → Habit → Room → Story—and the rule that each layer leans on the one beneath it. A hard case is simply what happens when the lowest shaky layer *won't steady*. Because everything above it depends on that foundation, the whole system stays stuck until the constraint is either eased or worked around. That's why no amount of effort higher up moves the symptom: you're building on ground that won't hold. The question changes, too—from "how do I fix this?" to "how do I work *with*, or *around*, this limit?"
 
 ---
 
-# Chapter 11: Belief, Then Faith
+### The five kinds of constraint
+
+Not all limits are alike, and this is the distinction that matters most. The advice to "adapt around the constraint" only applies honestly to the first two kinds. For the other three, adapting quietly would be the wrong answer—the honest move is to challenge, to wait, or to get out.
+
+| # | Kind of constraint | What it is | Example | The honest response |
+|---|----------|------------|---------|----------------------|
+| 1 | **Immutable** | Won't change, whatever you do | A genetic condition affecting energy metabolism, a permanent injury, an irreversible loss | Adapt and integrate. Work around it; aim the tools at what remains possible. |
+| 2 | **Constrained for now** | Fixed *today*, but may shift with time or treatment | Acute grief, a bone still healing, an illness in a flare | Patience and management now; reassess as it changes. Steady the higher layers while the lowest one heals. |
+| 3 | **Externally imposed** | A barrier built by systems or other people, not by your wiring | Discriminatory hiring, a law blocking access to care, caring duties thrust on you by circumstance | Challenge the system, seek structural change, get support. Adapting alone isn't honest—the barrier lives outside you. |
+| 4 | **Changeable but costly** | *Could* change, but at real personal cost | A relationship that could end, a career move requiring relocation | An honest cost-benefit look. The book names the cost; it doesn't decide for you. |
+| 5 | **Unsafe** | You are at risk of harm | Physical abuse, active coercion, financial exploitation that threatens safety | **Exit, boundary, or safety plan. Adaptation is never the answer here.** Seek professional help, make a safety plan, or remove yourself from danger. |
+
+Knowing which kind you're facing is the whole game. Spend months "adapting" to an externally imposed or unsafe constraint and you'll exhaust yourself in a battle that was never yours to win alone.
+
+---
+
+### Where people go wrong
+
+When a problem won't quit, it's tempting to pin it on the wrong layer. These are the mix-ups that waste effort and deepen the frustration:
+
+* **Body mistaken for Wiring** – A pounding heart after coffee gets read as anxiety, when it's just caffeine working on your cardiovascular system. Test it: does the sensation show up with no trigger at all (Body), or only after something happens (Wiring)?
+* **Body mistaken for Story** – Persistent fatigue gets narrated as "I'm lazy," prompting self-criticism instead of a medical check or a lighter load.
+* **Wiring mistaken for Story** – A flash of shame that lands *before* thought gets labelled "a belief I keep telling myself," when it's really a body memory firing on its own. Ask: did the feeling arrive before any words formed (Wiring), or as a sentence you can actually hear (Story)?
+* **Habit mistaken for Room** – Snacking every time you sit down feels like a social cue, but it follows you everywhere—which makes it a Habit loop. Notice whether the behaviour changes when the people or setting change (Room), or stays the same no matter what (Habit).
+* **Room mistaken for Story** – Feeling left out at work becomes "I'm unlikeable," when the exclusion may just be one team's norms. See whether the feeling eases in a different group (Room) or follows you everywhere (Story).
+
+Each mix-up points your tool at the wrong layer—which is exactly why the symptom shrugs it off.
+
+---
+
+### When it's not what it looks like
+
+The five-layer map is a tool, not a law. There are edges where layers overlap, or where a symptom sits in two at once:
+
+* **Medication** – A drug that shifts your brain chemistry acts on Wiring, yet its side-effects—weight gain, sedation, a flat mood—show up in the Body. The map helps you ask: is this change the medication's main effect, or a bodily side-effect to raise with the prescriber?
+* **Chronic pain** – Lasting tissue damage (Body) can keep the alarm (Wiring) switched on even after the healing is done, so you work both at once: tend the body while gently retraining the alarm.
+* **Caregiving** – Looking after an ageing parent is a relational demand (Room) that can weave itself into who you are—"I am the dutiful daughter" (Story). The map lets you see whether the exhaustion is the logistics, the narrative, or both.
+* **Money worry** – A low income limits the food you can buy (Body) *and* runs a constant background fear (Wiring). Trace it: is the tightness in your chest from hunger, or from the bills?
+
+None of these break the model. They just show where you hold two layers in mind at once, and run the two questions more than once.
+
+---
+
+### What this honestly can't do
+
+Being clear about the edges protects you from asking the wrong things of it. This map does **not** replace medical diagnosis, psychiatric evaluation, or legal advice. It won't alter immutable biology, and it won't substitute for structural change—no amount of personal adaptation eliminates systemic injustice or a living-wage gap. It won't guarantee you a calm inner life either; even a well-tuned system still feels grief, fear, and joy. The map helps you *locate* the cost, not erase the feeling.
+
+So when you're facing real danger, a severe mental-health crisis, or a clear legal wrong, the map's job is small and honest: help you notice what you feel and where it lives, then point you toward the professional help, safety planning, or advocacy you actually need.
+
+---
+
+### Steadying the system above the constraint
+
+When the lowest layer truly won't move, the work isn't to fix it. It's to steady everything above it so the system can still function, still mean something, still connect. Here are four ways Maren—whose blur behind the eyes signals low Body Fuel—has learned to work *with* a fixed bodily limit instead of fighting it.
+
+1. **Fatigue that won't lift.** Maren's legs feel like wet sand after any exertion, her thoughts fog, her Charge drops fast. Instead of pushing through, she uses **Tool 4: Empty the Head** before her shift, caps her working hours, and says "no" to extra tasks. The system stops fighting the fog and starts working with it—leaving more Fuel for what matters.
+
+2. **Joint pain.** Her knees ache with a deep, pulsing weight that worsens on the stairs. She uses **Tool 3: The Discharge** after each climb—a gentle shake-out and a long exhale—to release the held Pressure, and she sets up a handrail and a stool so her Body can move within its range. The Pressure stops building to a breaking point.
+
+3. **A constant low-grade heaviness.** It makes her feel permanently "on edge." She pairs it with **Tool 2: Name It to Tame It**—a quiet, twice-daily "I notice the heaviness; it's a Body signal, not danger"—which stops the Wiring from spinning the sensation into a threat, and frees her Fuel for gentle movement instead of hypervigilance.
+
+4. **Shift work fighting her sleep.** Her Body never reaches deep rest because her schedule fights her body clock. She uses **Tool 11: The Small Reconnect** with her housemate—a quiet, honest ask to protect a dark room for her daytime sleep—and a 20-minute **Tool 1: The Long Exhale** before bed. The shift pattern (a Room constraint) stays, but her Body gets more real rest, and the rest of the system holds.
+
+In every case the adaptation is small, specific, and aimed at the layer *above* the fixed one. The system steadies—not because the constraint lifted, but because it's no longer being hammered by a futile "fix it" script.
+
+---
+
+### Notice this in you
+
+> **Notice** — Where in your life do you keep trying to *"push through"* something that doesn't budge—a limitation, a pain, a fatigue, a flare-up? Name it plainly: *"This is the thing I keep fighting that won't change."*
+>
+> **Trace** — How much energy, time, or goodwill does the fight cost you each week? Is it worth it—or is it the system running an old script (*"I should be able to handle this"*) on top of a physical reality?
+>
+> **Try** — Pick *one* small adaptation this week that respects the constraint instead of fighting it: if fatigue, drop one non-essential task; if pain, take a ten-minute discharge break after the trigger; if fog, use **Empty the Head** before it hits. Do it once. No grand overhaul—one honest accommodation.
+>
+> **Watch** — The day after, notice what shifts. Did the system feel steadier? Did the frustration drop? Or did the old script roar back (*"I'm failing"*)? That roar is data too—it's the Story layer reacting to the accommodation.
+>
+> **Adjust** — If it helped, keep it and add nothing. If the old script won, try something gentler—or pair the accommodation with **Name It to Tame It** to catch the script before it tightens your throat.
+>
+> *One line for the picture of yourself:*
+> *"The unchangeable thing I'm learning to work with is ______."*
+
+---
+
+### The shift from fighting to adapting
+
+The shift is quiet. The heating pad hums on the couch at home. Maren's back still aches, but the house is calmer now, the dishes can wait, and her daughter has learned that after a night shift, Mum rests first. The system is steadier.
+
+And somewhere in that quiet, a question forms: *What do I trust when the body won't bend?*
+
+That question isn't a failure. It's the next honest move—the shift from *fighting the unfixable* to *adapting the system around it*. Not as defeat. As a kind of mastery. Because the system was never built to run on willpower alone. It was built to run on honesty, on accommodation, on the quiet daily practice of working *with* what is, not against it.
+
+But that question—*what do I trust when the proof runs out?*—doesn't have a tool for an answer. It asks for something else, something we haven't named yet. That's where we go next.
+
+---
+
+# Chapter 10: Belief, Then Faith
 
 The kitchen clock reads 9:47 p.m. on a Thursday. The fridge hums low, its light casting a pale rectangle on the counter. Maren rinses the last bowl and sets it in the drainer. The tap water runs cool over her fingers. She doesn’t remember the last time she felt hungry—not the real kind that pulls you toward food, the kind that used to come after a long day of work before she had a child who needed her at all hours. Now the hunger is a quiet thing, always there, never urgent.  
 
@@ -1894,7 +1696,7 @@ She exhales, long and slow, and turns toward the bedroom. Not because she feels 
 
 ---
 
-# Chapter 12: Watching It Change — The Growth Map
+# Chapter 11: Watching It Change — The Growth Map
 
 Thursday, 8:17 p.m.  
 The kitchen lamp pools warm light over the scattered pages. Elena’s fingers trace the edges of the notes she’s kept since Chapter 2—the first “One line for the picture of yourself” scribbled on the back of a grocery receipt:  
@@ -2004,9 +1806,7 @@ Those aren’t wins. They’re *ripples*—the moment a fix at one layer made so
 
 ## Why the lower layers come first  
 
-Before we look at the worked examples, it helps to see why the map’s ripples always flow upward. The Body layer is the physical platform you run on—when it lacks sleep, food, or movement, every signal above it grows noisy or weak. Wiring runs on that platform; when the body is depleted, threat responses fire more easily and recovery slows. Habit depends on both: a tired body and a jangling wiring make it harder to insert a new routine or sustain an old one. Room reflects the state of the lower layers—if you’re running on empty, you withdraw or snap at others. Story sits on top; it can only shift when the foundations are stable enough to let a new narrative take hold.  
-
-Thus, when you fix a lower‑layer problem, you often see improvements in the layers above—not because you worked on them directly, but because the constraint has eased. The map makes those ripples visible.  
+Before we look at the worked examples, one thing to notice about the map: its ripples always flow *upward*. That’s the sequence you’ve known since the method—steady a lower layer and the layers above it ease, not because you worked on them directly, but because the constraint beneath them has lifted. The map is simply where those ripples become visible: fix the Body, and watch the Wiring, the Habit, the Room, the Story settle in turn.  
 
 ---  
 
@@ -2138,7 +1938,7 @@ Sometimes the map shows a line that repeats, month after month, despite honest e
 
 ---
 
-# Chapter 13: A Note Before You Go
+# Chapter 12: A Note Before You Go
 
 We started in a kitchen at three in the afternoon.
 
