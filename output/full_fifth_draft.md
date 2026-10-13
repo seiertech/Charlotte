@@ -329,7 +329,7 @@ The pan clatters into the sink. Maren’s child’s voice rises, high and bright
 
 ---
 
-This is the **Body** layer—the hardware you run on. Not the container for the “interesting parts” of you, but the first and deepest part. Everything you’ll ever think, feel, or decide runs on this device *(research suggests that cognitive processes are grounded in bodily states)*. When the hardware is low, the ceiling on everything above it drops *(studies show that physiological depletion impairs higher‑order functioning)*.
+This is the **Body** layer—the hardware you run on. Not the container for the “interesting parts” of you, but the first and deepest part. Everything you’ll ever think, feel, or decide runs on this device. When the hardware is low, the ceiling on everything above it drops.
 
 - It’s the literal body: sleep, food, movement, pain, temperature.
 - It’s the platform for every higher layer.
@@ -339,47 +339,45 @@ This isn’t about “self-care” as a luxury. It’s about the physics of runn
 
 ---
 
-## The Mechanism: Why the Body Constraints Everything Above It
+## Why the body comes first
 
-The body isn’t optional. It’s the foundation. When it’s depleted, the layers above it can’t compensate—not for long *(research indicates that fatigue limits the capacity for compensatory cognitive strategies)*.
+The body isn’t optional. It’s the foundation. When it’s depleted, the layers above it can’t compensate—not for long.
 
-**Energy is finite.** The body’s fuel tank runs low. No amount of willpower or positive thinking tops it up *(evidence suggests that willpower does not replenish physiological energy reserves)*. Forming a new habit needs energy to initiate; holding a hard conversation needs a steady body to sustain attention; experiencing joy needs a body that isn’t already running too hot *(research indicates that habit formation, sustained attention, and positive affect are influenced by physiological state)*. In my model, this is a simple conservation principle: output cannot exceed input over time without depletion.
+**Energy is finite.** The body’s fuel tank runs low. No amount of willpower or positive thinking tops it up. Forming a new habit needs energy to initiate; holding a hard conversation needs a steady body to sustain attention; experiencing joy needs a body that isn’t already running too hot. In my model, this is a simple conservation principle: output cannot exceed input over time without depletion.
 
-**Attention is physical.** A tired brain doesn’t think clearly; it fogs and reacts before it registers. The “I should know better” feeling often traces back to the body’s limits showing, not a character flaw *(studies suggest that self‑critical thoughts can arise from fatigue rather than disposition)*. Research on sleep deprivation shows slowed prefrontal cortex activity, which governs impulse control and complex reasoning (qualifier: what the research suggests, broadly).
+**Attention is physical.** A tired brain doesn’t think clearly; it fogs and reacts before it registers. The “I should know better” feeling often traces back to the body’s limits showing, not a character flaw. When you’re short on sleep, the part of the brain that governs impulse control and complex reasoning slows down.
 
-**Emotional range narrows.** Depletion turns irritation into anger, calm into numbness *(evidence shows that fatigue lowers the threshold for emotional reactivity)*. The story layer (who you believe yourself to be) starts to feel shaky because the hardware beneath it is unsteady *(research suggests that physiological instability can undermine confidence in self‑narratives)*. When the body is low on fuel, the wiring layer’s threat response can fire more easily, leaving less bandwidth for nuanced emotional regulation *(studies indicate that low glucose or fatigue can heighten threat reactivity and reduce regulatory capacity)*.
+**Emotional range narrows.** Depletion turns irritation into anger, calm into numbness. The story layer (who you believe yourself to be) starts to feel shaky because the hardware beneath it is unsteady. When the body is low on fuel, the wiring layer’s threat response can fire more easily, leaving less bandwidth for nuanced emotional regulation.
 
-**The sequencing rule begins here.** You cannot reliably fix anything higher up while this layer is broken *(clinical observations suggest that addressing physiological basics improves outcomes for psychological interventions)*. The book’s whole promise depends on this: find where the problem actually lives, and start there. If you try to rewire a story while running on empty, the effort collapses because the platform cannot support the change *(evidence indicates that cognitive‑behavioral efforts are less effective when physiological resources are depleted)*.
+**The sequencing rule begins here.** You cannot reliably fix anything higher up while this layer is broken. The book’s whole promise depends on this: find where the problem actually lives, and start there. If you try to rewire a story while running on empty, the effort collapses because the platform cannot support the change.
 
 The body isn’t the only layer, but it’s the first one to check—and often the one that’s been overlooked.
 
 ---
 
-## Commonly Mistaken For
+## What it gets mistaken for
 
 Bodily depletion is often misread as something else entirely. Here’s what it gets confused with—and why it matters.
 
-- **Laziness or lack of discipline.** “I should just push through.” But the body isn’t weak‑willed; it’s running on empty. Pushing through creates compounding debt, as each borrowed hour must be repaid with interest in fatigue *(research on sleep debt shows cumulative adverse effects)*.
-- **Depression.** “I’m just sad all the time.” But the flatness, the low drive, the fog—these are often the body’s signals, not a permanent state of being. If the lethargy lifts after adequate sleep and nutrition, the source was likely bodily, not mood *(studies show that improving sleep and nutrition can alleviate depressive‑like symptoms when they are secondary to lifestyle factors)*.
-- **Anxiety.** “I’m constantly on edge.” But the jitter, the can’t‑settle feeling—this is often the body stuck in overdrive, not a psychological flaw. Excess caffeine or missed meals can mimic threat‑response activation *(evidence indicates that caffeine intake and hypoglycemia can produce anxiety‑like symptoms)*.
-- **Being a bad person.** “I’m failing at everything.” But the snapped response, the missed email, the short temper—these are the body’s limits showing, not a verdict on character *(research suggests that irritability and impulsivity can stem from physiological depletion)*.
-- **Just needing to try harder.** “If I cared enough, I’d fix this.” But the body has physical limits that override mental effort. Trying harder without refueling just digs the hole deeper *(studies indicate that physiological limits constrain volitional effort)*.
+- **Laziness or lack of discipline.** “I should just push through.” But the body isn’t weak‑willed; it’s running on empty. Pushing through creates compounding debt, as each borrowed hour must be repaid with interest in fatigue.
+- **Depression.** “I’m just sad all the time.” But the flatness, the low drive, the fog—these are often the body’s signals, not a permanent state of being. If the lethargy lifts after adequate sleep and nutrition, the source was likely bodily, not mood.
+- **Anxiety.** “I’m constantly on edge.” But the jitter, the can’t‑settle feeling—this is often the body stuck in overdrive, not a psychological flaw. Too much caffeine or a missed meal can mimic the same threat response.
+- **Being a bad person.** “I’m failing at everything.” But the snapped response, the missed email, the short temper—these are the body’s limits showing, not a verdict on character.
+- **Just needing to try harder.** “If I cared enough, I’d fix this.” But the body has physical limits that override mental effort. Trying harder without refueling just digs the hole deeper.
 
 The mistake is always the same: treating a *physical signal* as a *moral one*. The body doesn’t lie. It just runs low.
 
 ---
 
-## Third Person Demonstrates: Micro‑Scenes of Body Signals
+## What low fuel looks like
 
-*Note: These are brief evidence mid‑argument, not overtures (max 1–3 sentences each).*
+A parent stares at a spreadsheet, the numbers swimming despite fresh coffee; the blur behind the eyes deepens as the morning wears on.
 
-A parent stares at a spreadsheet, the numbers swimming despite fresh coffee; the blur behind the eyes deepens as the morning wears on. (Unnamed figure: body‑fuel low from skipped breakfast.)
+A nurse finishes a double shift, her hands trembling slightly as she signs out; the weight in her legs tells her the tank is empty, even though her mind races with worry for the next patient.
 
-A nurse finishes a double shift, her hands trembling slightly as she signs out; the weight in her legs tells her the tank is empty, even though her mind races with worry for the next patient. (Maren: blur behind eyes, physical weight in limbs.)
+A student rereads the same paragraph three times, the words refusing to stick; a tight pressure builds behind the eyes, not from stress but from dehydration after a night of poor fluid intake.
 
-A student rereads the same paragraph three times, the words refusing to stick; a tight pressure builds behind the eyes, not from stress but from dehydration after a night of poor fluid intake. (Marcus: temperature shift in room as he enters, signaling his own low‑fluid state.)
-
-These micro‑scenes show how the same underlying state—low body fuel—can appear as mental fog, physical heaviness, or pressure, depending on the moment.
+The same underlying state—low body fuel—can show up as mental fog, physical heaviness, or pressure, depending on the moment.
 
 ---
 
@@ -393,7 +391,7 @@ The body’s depletion shows up in three currencies—what it feels like, and wh
 
 ---
 
-## Second Person Applies: Which One Was Yours?
+## Which one was yours?
 
 Which of those sensations felt familiar? The blur at the edge of vision? The limbs like lead? The irritability that flares too fast?
 
@@ -401,7 +399,7 @@ The body’s signals aren’t random. They’re data. The first step isn’t fix
 
 ---
 
-## First Person Argues: The Author’s Reasoning
+## Why I started here
 
 I used to think my irritability was a character flaw. That if I just cared more, I’d be steadier. Then I started tracking my body’s signals—the heaviness in my limbs, the way my vision blurred at the edges, the snap in my voice that came before I’d even thought.
 
@@ -430,41 +428,41 @@ This is you asking *which layer, what’s it costing me*—for real, about your 
 
 ---
 
-## Failure Modes: When the Body Layer Is Misdiagnosed
+## Where people go wrong
 
-Misreading body signals as higher‑layer problems leads to ineffective interventions. Common failure modes include:
+Misreading body signals as higher‑layer problems leads you to fix the wrong thing. Here are the most common wrong turns:
 
-- **Treating fatigue as a motivation problem.** Applying willpower‑based strategies (e.g., “just do it”) while the body is low on fuel yields diminishing returns and can deepen exhaustion *(research suggests that willpower‑based interventions are less effective when physiological needs are unmet)*.
-- **Labeling bodily agitation as wiring‑only anxiety.** Missing the role of blood‑sugar spikes or caffeine intake means the autonomic nervous system keeps getting retriggered by the very substance meant to help *(evidence indicates that blood‑sugar fluctuations and caffeine can perpetuate autonomic arousal)*.
-- **Assuming emotional flatness is a story issue.** Attempting to rewrite identity narratives while the body is depleted often fails because the platform lacks the energy to sustain new self‑talk *(studies show that self‑affirmation efforts are less effective under fatigue)*.
+- **Treating fatigue as a motivation problem.** Leaning on willpower—“just do it”—while the body is low on fuel gives you less and less, and can deepen the exhaustion.
+- **Labeling bodily agitation as wiring‑only anxiety.** Miss the role of blood‑sugar swings or caffeine, and your nervous system keeps getting retriggered by the very thing you reached for to help.
+- **Assuming emotional flatness is a story issue.** Trying to rewrite who you are while the body is depleted usually fails, because the platform doesn’t have the energy to sustain new self‑talk.
 
 ---
 
-## Hard Cases: When Body‑Level Fixes Don’t Move the Needle
+## When body‑care isn’t enough
 
-Sometimes, even after addressing sleep, food, and movement, the sense of depletion persists. These are hard cases where the body layer appears intact but the system still feels low.
+Sometimes, even after you’ve tended to sleep, food, and movement, the depletion stays. The body layer looks intact, but the system still feels low.
 
-- **Undiagnosed medical conditions.** Anemia, thyroid dysfunction, or chronic fatigue syndrome can produce body‑like symptoms despite adequate rest and nutrition. In such cases, the appropriate response is medical evaluation, not further lifestyle tweaks *(medical literature indicates these conditions can cause fatigue independent of lifestyle)*.
-- **Persistent pain syndromes.** Ongoing nociceptive input drains energy continuously, making the body feel depleted even when fuel stores are full. Management requires targeting the pain source, not just adding more rest *(research on chronic pain shows continuous energy drain)*.
-- **Medication side effects.** Certain prescriptions (e.g., antihistamines, beta‑blockers) cause fatigue or cognitive fog as a direct effect. The fix may involve consulting a prescriber about alternatives or dosage *(drug labeling and clinical studies list fatigue as a side effect of these medications)*.
+- **Undiagnosed medical conditions.** Anemia, thyroid trouble, or chronic fatigue syndrome can produce body‑like symptoms no matter how well you rest and eat. Here the right move is a medical evaluation, not more lifestyle tweaks.
+- **Persistent pain.** Ongoing pain drains energy continuously, so the body feels depleted even when the fuel stores are full. The answer is to treat the source of the pain, not just add more rest.
+- **Medication side effects.** Some prescriptions—antihistamines, beta‑blockers—cause fatigue or fog directly. The fix may be a conversation with your prescriber about alternatives or dosage.
 
 In these situations, the body layer is not the *cause* of the symptom; it is the *messenger*. The book’s sequencing rule still holds: start at the body, but be prepared to follow the trail upward if the body itself is not the root.
 
 ---
 
-## Counterexamples: When High Body Energy Coexists with Struggle
+## When the body isn’t the problem
 
-Not every problem stems from the body. Recognizing when the body is *not* the limiting factor prevents misdirected effort.
+Not every problem starts in the body. Knowing when the body is *not* the limiting factor saves you from pouring effort in the wrong place.
 
-- **Wiring‑driven panic attacks.** A person may sleep well, eat regularly, and move daily, yet experience sudden surges of terror due to a misfiring threat response. Here, the body’s fuel tank is full, but the wiring layer is stuck on high alert *(research on panic attacks shows they can occur despite good physiological baseline)*.
-- **Habit‑locked avoidance.** Someone with ample energy may still procrastinate on important tasks because the cue‑routine‑reward loop is misaligned, not because they lack physical vigor *(studies indicate that procrastination is driven by habit loops rather than energy levels)*.
-- **Room‑induced relational drain.** A supportive body state can be overwhelmed by a chronically critical environment, leaving the person feeling depleted despite good personal habits *(evidence shows that chronic interpersonal stress can deplete physiological resources)*.
+- **Wiring‑driven panic.** You might sleep well, eat regularly, and move every day, and still get sudden surges of terror from a misfiring threat response. The fuel tank is full; it’s the wiring layer that’s stuck on high alert.
+- **Habit‑locked avoidance.** You can have plenty of energy and still put off what matters, because the cue‑routine‑reward loop is misaligned—not because you’re running low.
+- **Room‑induced drain.** A steady body can be worn down by a chronically critical environment, leaving you depleted no matter how good your personal habits are.
 
 These cases illustrate why the two‑question diagnostic (“Which layer? What’s it costing me?”) is essential: the body check is step one, not the whole answer.
 
 ---
 
-## Model Limitations: What This Framework Does Not Claim
+## What this can’t do
 
 The Body layer model is a tool for everyday self‑regulation, not a clinical diagnostic system. It does not:
 
@@ -657,9 +655,9 @@ I see you moving through your morning without really noticing how you do it—th
 
 ---  
 
-### What the Habit layer is  
+### What this layer is
 
-The Habit layer consists of **the programs installed by repetition — automatic routines, skills, and everyday patterns that run without conscious effort because they were practised into permanence** (Model Bible). It sits atop the Wiring layer, which rests on the Body layer. When the lower layers are steady, habits free your attention for what needs deciding. When they are depleted, the same automaticity can feel like a trap.  
+The Habit layer is made of **the programs installed by repetition — automatic routines, skills, and everyday patterns that run without conscious effort because they were practised into permanence**. It sits atop the Wiring layer, which rests on the Body layer. When the lower layers are steady, habits free your attention for what needs deciding. When they are depleted, the same automaticity can feel like a trap.  
 
 Grace’s physical signature appears here: **a groove in her routine — the autopilot quality of her hands reaching for keys, phone, bag in the same order every morning, her body moving through the day like a track already worn into the floor.**  
 
@@ -673,7 +671,7 @@ When the Body is well‑rested and nourished, and the Wiring is calm, the habit 
 
 ---  
 
-### Mechanism explanations  
+### How it works
 
 **Attention bottleneck**  
 Your conscious mind can hold only a handful of items at once *^48^*. A well‑installed habit offloads routine behaviours, preserving attention for novel decisions. When the Body is depleted (poor sleep, low nutrition) or the Wiring is overcharged (chronic stress), the habit’s automaticity weakens. The cue still fires, but the routine feels effortful because the system lacks the reserve to support it.  
@@ -686,7 +684,7 @@ Habits are not selective; they will automate any behaviour that feels rewarding,
 
 ---  
 
-### Failure modes: commonly mistaken for  
+### What it gets mistaken for
 
 The Habit layer is most often confused with **Wiring** and **Room**.  
 
@@ -701,7 +699,7 @@ Sometimes an identity narrative (“I’m a checker”) wraps around a habit. Us
 
 ---  
 
-### Hard cases  
+### When it won't shift
 
 Even when Body and Wiring are steady, some habits resist change. These are often **coping mechanisms** that were installed to manage overwhelming Wiring signals (e.g., chronic anxiety) *^50^*. The habit feels protective; removing it threatens to expose the underlying distress. In such cases, the solution is not to attack the habit directly but to first resource the Wiring layer (trauma‑informed grounding, therapy) so the habit loses its perceived necessity.  
 
@@ -709,7 +707,7 @@ Another hard case appears when the habit is tied to a **Story** identity that se
 
 ---  
 
-### Counterexamples  
+### When this isn't the real problem
 
 Not every repeated behaviour belongs to the Habit layer.  
 
@@ -721,7 +719,7 @@ Not every repeated behaviour belongs to the Habit layer.
 
 ---  
 
-### Model limitations  
+### What this can't do
 
 The Habit layer explains automatic routines but does not cover:  
 
@@ -735,7 +733,7 @@ The model is a diagnostic tool, not a complete map of human behaviour.
 
 ---  
 
-### Worked examples (Grace)  
+### Seeing it play out
 
 **Work: The email loop**  
 Grace, regional sales manager for a building‑supplies company, feels her phone vibrate at 8:15 a.m.—a message from a client about a delayed delivery. Her thumb unlocks the screen before she finishes the thought *I should see this*. By 8:45 she has cleared her inbox twice, the morning’s route plan buried under quick replies. Her jaw feels tight, her breath shallow.  
@@ -788,7 +786,7 @@ That same hollowness appears in other bodies, in other rooms.
 
 At the architecture studio, Callum leans over a drafting table at 3:10 p.m., his pen hovering above a line he’s redrawn three times. His partner across the table says, “That angle won’t work,” without looking up. Callum feels a gear‑slip in his voice—words spill out before he can shape them: “I know, I’m trying.” The sentence hangs, sharp and unfinished, and the temperature in the studio seems to rise, not from the heater but from the tightness in his throat. He feels the hollowness not as emptiness but as a charge that won’t discharge, a pressure that won’t flow. When his partner finally glances up and nods, the relief is brief; the pattern repeats, and the hollowness returns, heavier each time.
 
-A few desks away, an unnamed colleague slides a coffee cup toward Callum without speaking. The gesture is small, the silence between them thick but not hostile. Callum notices the weight of the cup, the warmth seeping into his fingers, and for a heartbeat the hollowness eases—not because the coffee fuels him, but because the steady, wordless presence offers a tiny counter‑regulation to the charge building in his wiring (as suggested by studies on co‑regulation).
+A few desks away, an unnamed colleague slides a coffee cup toward Callum without speaking. The gesture is small, the silence between them thick but not hostile. Callum notices the weight of the cup, the warmth seeping into his fingers, and for a heartbeat the hollowness eases—not because the coffee fuels him, but because the steady, wordless presence offers a tiny counter‑regulation to the charge building in his wiring.
 
 ---
 
@@ -800,21 +798,21 @@ The diagnostic test for Room is simple: *“Does this change when the people aro
 
 ---
 
-## Mechanism: how Room constrains the layers above it
+## How it works
 
-Room shapes the higher layers because your nervous system is constantly calibrating to the people around you—a process known as co‑regulation. When a connection is steadying, research suggests it sends parasympathetic signals that lower your Charge, release your Pressure, and allow your Fuel to replenish. When a connection is draining or threatening, studies indicate it keeps your sympathetic system activated, raising Charge, increasing Pressure, and draining Fuel faster than your body can restore it.
+Room shapes the higher layers because your nervous system is constantly calibrating to the people around you—a process known as co‑regulation. When a connection is steadying, it sends parasympathetic signals that lower your Charge, release your Pressure, and allow your Fuel to replenish. When a connection is draining or threatening, it keeps your sympathetic system activated, raising Charge, increasing Pressure, and draining Fuel faster than your body can restore it.
 
 These effects ripple upward:
 
-* **Wiring:** A steady room dampens threat‑response firing, as research suggests; a volatile room keeps the gear‑slip of reaction‑before‑decision live, making emotional reactions arrive faster and stronger.
-* **Habit:** In a supportive room, routines feel easier to start and sustain; in a hostile room, even well‑practised habits can feel effortful because the wiring layer is already primed for threat (as the literature shows).
-* **Story:** A room that affirms your identity lets the narrative you tell yourself stay flexible; a room that contradicts or ignores you can force the Story layer into rigid defensive loops (“I must be unlovable because no one sees me”), according to research on social context and self‑narrative.
+* **Wiring:** A steady room dampens threat‑response firing; a volatile room keeps the gear‑slip of reaction‑before‑decision live, making emotional reactions arrive faster and stronger.
+* **Habit:** In a supportive room, routines feel easier to start and sustain; in a hostile room, even well‑practised habits can feel effortful because the wiring layer is already primed for threat.
+* **Story:** A room that affirms your identity lets the narrative you tell yourself stay flexible; a room that contradicts or ignores you can force the Story layer into rigid defensive loops (“I must be unlovable because no one sees me”).
 
-Room does not *create* the patterns in Wiring, Habit, or Story; it *modulates* their expression (as the model posits). That is why fixing a Story belief (“I’m not enough”) often fails if the Room keeps feeding the wiring layer with cues of rejection (research on environmental cueing of threat responses).
+Room does not *create* the patterns in Wiring, Habit, or Story; it *modulates* their expression. That is why fixing a Story belief (“I’m not enough”) often fails if the Room keeps feeding the wiring layer with cues of rejection.
 
 ---
 
-## Failure modes: commonly mistaken for
+## What it gets mistaken for
 
 People often reduce Room to simple social advice, missing its systemic nature. Here are the most frequent misdiagnoses and why they miss the mark.
 
@@ -825,14 +823,14 @@ People often reduce Room to simple social advice, missing its systemic nature. H
   Loneliness is a signal that the relational field is currently quiet or misaligned, not a verdict on your worth. Shame turns the signal into a Story belief (“I’m unlovable”), which then fuels wiring‑level threat responses. Naming the signal as a Room condition (“my current network isn’t providing co‑regulation”) frees you to address the field directly instead of layering self‑judgment on top of it.
 
 - **“This is just about having more friends.”**  
-  Room cares about the *quality* and *fit* of connections, not their number. One person who offers reliable co‑regulation can shift your Charge, Fuel, and Pressure more effectively than a crowd of mismatched contacts (studies on dyadic regulation suggest). Conversely, many superficial ties can leave the field noisy and draining, keeping your system in a low‑grade threat state.
+  Room cares about the *quality* and *fit* of connections, not their number. One person who offers reliable co‑regulation can shift your Charge, Fuel, and Pressure more effectively than a crowd of mismatched contacts. Conversely, many superficial ties can leave the field noisy and draining, keeping your system in a low‑grade threat state.
 
 - **“I don’t need people; I’m an introvert.”**  
   Introversion describes a preference for lower‑stimulation environments, not a lack of need for co‑regulation. Even introverts require steadying signals from their surroundings—whether that is a quiet partner, a predictable workspace, or a digital feed that doesn’t bombard with threat cues. The issue is never “people versus no people”; it is whether your default pattern leaves you steadier or more tense after interaction.
 
 ---
 
-## Boundary confusion: Room vs. Body and Room vs. Story
+## Telling Room apart from Body and Story
 
 Room is most often confused with **Body** and **Story**. Knowing the differences keeps you from treating a relational problem as a physical one or vice‑versa.
 
@@ -859,7 +857,7 @@ The belief “Nobody likes me” can arise from a genuinely excluding Room (you 
 
 ---
 
-When the network is steady, the story you tell about yourself starts to shift—not because you have rewritten your inner monologue, but because the Room layer is no longer feeding the wiring layer with cues of threat (as indicated by research on social safety and threat processing). The system can then settle into a rhythm where Charge flows, Pressure releases, and Fuel lasts longer (consistent with models of autonomic regulation). That shift is not a matter of willpower; it is the result of changing the field that surrounds you, one small, steadying connection at a time.
+When the network is steady, the story you tell about yourself starts to shift—not because you have rewritten your inner monologue, but because the Room layer is no longer feeding the wiring layer with cues of threat. The system can then settle into a rhythm where Charge flows, Pressure releases, and Fuel lasts longer. That shift is not a matter of willpower; it is the result of changing the field that surrounds you, one small, steadying connection at a time.
 
 ---
 
@@ -891,86 +889,86 @@ This layer sits at the top of your system, but it doesn’t just live in your th
 
 ---
 
-### How the story constrains the system
+### How it works
 
 The Story layer limits what your system can become. It’s not just a layer—it’s a governor on the whole stack.
 
 **1. It filters every input.**  
-What you notice and what you ignore are shaped by the story you’re wearing. If your story says *“I’m unworthy of love,”* you’ll notice every small rejection and dismiss every act of kindness. Evidence that contradicts the story gets filtered out, so the story never updates. The world you experience is the world your story lets you see. (Research on confirmation bias suggests this filtering operates automatically, outside awareness.)
+What you notice and what you ignore are shaped by the story you’re wearing. If your story says *“I’m unworthy of love,”* you’ll notice every small rejection and dismiss every act of kindness. Evidence that contradicts the story gets filtered out, so the story never updates. The world you experience is the world your story lets you see.
 
 **2. It sets the range of possible outputs.**  
-If your story says *“I’m not enough,”* your system will only produce actions that confirm it. You’ll stay quiet in meetings. You’ll avoid risks. You’ll settle for less. The story doesn’t just describe your life—it limits it. This downward constraint appears in behavioural studies where self‑efficacy beliefs predict initiative‑taking.
+If your story says *“I’m not enough,”* your system will only produce actions that confirm it. You’ll stay quiet in meetings. You’ll avoid risks. You’ll settle for less. The story doesn’t just describe your life—it limits it.
 
 **3. It guards itself.**  
-Any challenge to the story triggers a threat response. If someone says *“You’re doing great,”* but your story says *“I’m failing,”* your system will dismiss the compliment, argue, or withdraw. The story protects itself, even when it’s costing you. Neurologically, this mirrors the way the amygdala flags identity‑threatening information as salient.
+Any challenge to the story triggers a threat response. If someone says *“You’re doing great,”* but your story says *“I’m failing,”* your system will dismiss the compliment, argue, or withdraw. The story protects itself, even when it’s costing you.
 
 **4. It couples downward.**  
-A changed story ripples through the whole system. If you update *“I’m unlovable”* to *“I am worthy of connection,”* your body relaxes (lower muscle tension, deeper breath), your habits become more open (you initiate conversations), and your relationships deepen (you accept invitations). The opposite is also true: a rigid story tightens everything beneath it, keeping the system in a chronic low‑grade state of defense. *(as observed in cognitive‑behavioural therapy and social‑psychology research on self‑concept change)*  
+A changed story ripples through the whole system. If you update *“I’m unlovable”* to *“I am worthy of connection,”* your body relaxes (lower muscle tension, deeper breath), your habits become more open (you initiate conversations), and your relationships deepen (you accept invitations). The opposite is also true: a rigid story tightens everything beneath it, keeping the system in a chronic low‑grade state of defense.  
 
 **5. It costs you in pressure.**  
-The currency of the Story layer is pressure—held, unflowing, heavy. A story that says *“I must be perfect”* keeps you braced, breath shallow, muscles tense. The system runs at a deficit, draining fuel and charge. You can feel this as a constant weight behind the sternum, a sense that you’re bracing for a blow that never comes. *(as described in theories of chronic psychosomatic stress)*  
+The currency of the Story layer is pressure—held, unflowing, heavy. A story that says *“I must be perfect”* keeps you braced, breath shallow, muscles tense. The system runs at a deficit, draining fuel and charge. You can feel this as a constant weight behind the sternum, a sense that you’re bracing for a blow that never comes.  
 
 ---
 
-### Commonly mistaken for
+### What it gets mistaken for
 
 **Positive thinking.**  
-Positive thinking slaps a happy coat on a heavy story. Story work gathers real evidence and rewrites the coat. One is a veneer. The other is a rebuild. Telling yourself *“I am enough”* when your inner narrative screams *“I am not”* creates dissonance; the story remains unchanged beneath the affirmation. *(as cognitive dissonance theory predicts)*  
+Positive thinking slaps a happy coat on a heavy story. Story work gathers real evidence and rewrites the coat. One is a veneer. The other is a rebuild. Telling yourself *“I am enough”* when your inner narrative screams *“I am not”* creates dissonance; the story remains unchanged beneath the affirmation.  
 
 **Identity itself.**  
 The story is a *part* of you, not *all* of you. You are the system that tells the story. Mistaking the story for your entire identity makes change feel like erasing yourself. You can revise a narrative without losing the core of who you are—just as editing a manuscript doesn’t destroy the author.  
 
 **A quick fix.**  
-Story change is slow. It’s like rewriting a book you’ve read every day for decades. A single affirming sentence or a good day isn’t enough. The story updates through repetition, evidence, and time. Neuroplasticity studies show that altering deep‑seated beliefs requires consistent, varied input over weeks or months.  
+Story change is slow. It’s like rewriting a book you’ve read every day for decades. A single affirming sentence or a good day isn’t enough. The story updates through repetition, evidence, and time.  
 
 **Morality.**  
 A story is a *map*, not a *judge*. Calling a story “good” or “bad” shames the mapmaker instead of updating the map. The question isn’t *“Is this story right?”* but *“Does this story serve me?”* A map that leads you into a swamp isn’t immoral; it’s simply inaccurate for the terrain you need to cross.  
 
 ---
 
-### Hard cases: when the story won’t shift
+### When it won't shift
 
 Sometimes you diagnose the Story layer correctly, apply evidence‑based rewriting, and still feel stuck. These hard cases often involve lower‑layer dysregulation that feeds the narrative.
 
-* **Wiring‑driven Story:** A trauma‑wired belief like *“The world is dangerous”* fires before any narrative forms. Even when you gather safe‑environment evidence, the autonomic alarm keeps flooding the system with threat signals, causing the Story to regenerate *“I’m not safe”* as fast as you edit it. Here, addressing the Wiring layer (e.g., through somatic regulation) must precede Story revision. *(as seen in trauma and PTSD research on conditioned threat responses)*  
+* **Wiring‑driven Story:** A trauma‑wired belief like *“The world is dangerous”* fires before any narrative forms. Even when you gather safe‑environment evidence, the autonomic alarm keeps flooding the system with threat signals, causing the Story to regenerate *“I’m not safe”* as fast as you edit it. Here, addressing the Wiring layer (e.g., through somatic regulation) must precede Story revision.  
 
-* **Body‑depleted Story:** Chronic sleep deprivation or malnutrition leaves the Body layer running on fumes. In this state, the system lacks the fuel to sustain new narrative effort; any attempt to rewrite the story feels exhausting and collapses back to the old script. Stabilising sleep, nutrition, and movement creates the energetic foundation for Story work. *(as research on sleep deprivation and self‑regulation shows)*  
+* **Body‑depleted Story:** Chronic sleep deprivation or malnutrition leaves the Body layer running on fumes. In this state, the system lacks the fuel to sustain new narrative effort; any attempt to rewrite the story feels exhausting and collapses back to the old script. Stabilising sleep, nutrition, and movement creates the energetic foundation for Story work.  
 
-* **Room‑locked Story:** You’re in an environment that continually reinforces a negative narrative—say, a workplace where your contributions are routinely ignored or mocked. No amount of internal story‑shifting will succeed while the external Room keeps supplying contradictory data. Changing the Room (setting boundaries, seeking allies, or leaving) is required before the Story can update. *(as social‑psychology research on environmental reinforcement demonstrates)*  
+* **Room‑locked Story:** You’re in an environment that continually reinforces a negative narrative—say, a workplace where your contributions are routinely ignored or mocked. No amount of internal story‑shifting will succeed while the external Room keeps supplying contradictory data. Changing the Room (setting boundaries, seeking allies, or leaving) is required before the Story can update.  
 
 These cases illustrate the diagnostic sequence: you must stabilise lower layers before higher‑layer work can hold.  
 
 ---
 
-### Counterexamples: when Story isn’t the primary lever
+### When this isn't the real problem
 
 The model works best when the issue truly lives in the narrative layer. There are situations where focusing on Story misses the real constraint.
 
-* **Acute Body crisis:** If you’re suffering from untreated hypoglycemia, panic attacks, or an infection, the Body layer is the source of distress. No Story revision will raise blood sugar or calm a cytokine storm; medical intervention is needed first. *(as medical literature indicates)*  
+* **Acute Body crisis:** If you’re suffering from untreated hypoglycemia, panic attacks, or an infection, the Body layer is the source of distress. No Story revision will raise blood sugar or calm a cytokine storm; medical intervention is needed first.  
 
 * **Externally imposed constraint:** You face a structural barrier—such as a discriminatory hiring policy or a lack of childcare—that limits your options regardless of your internal narrative. The Story layer may adapt (“I’m persistent”), but the constraint remains until the external system changes. Here, the appropriate response is advocacy or exit, not internal story work.  
 
-* **Habit‑driven loop:** You find yourself scrolling social media for hours each night, not because of a story about worthlessness, but because the habit groove is strong (cue → routine → reward). Trying to rewrite a story of *“I’m undisciplined”* while the habit loop remains untouched leads to frustration. Disrupting the habit (changing the cue, altering the reward) is the more direct lever. *(as habit‑formation research shows)*  
+* **Habit‑driven loop:** You find yourself scrolling social media for hours each night, not because of a story about worthlessness, but because the habit groove is strong (cue → routine → reward). Trying to rewrite a story of *“I’m undisciplined”* while the habit loop remains untouched leads to frustration. Disrupting the habit (changing the cue, altering the reward) is the more direct lever.  
 
 These counterexamples remind us to use the two‑question diagnostic: first locate the layer, then identify the currency cost. If the cost is primarily Physical exhaustion (Fuel depletion) or autonomic dysregulation (Charge imbalance), the Story layer may be a symptom, not the cause.  
 
 ---
 
-### Model limitations: what the Story layer concept cannot explain
+### What this can't do
 
 The Story layer is a powerful tool for understanding self‑narrative, but it has boundaries.
 
-* **Collective trauma:** Narratives shaped by historical oppression, war, or systemic racism are not merely individual stories; they are embedded in cultural memory and institutional practices. While personal Story work can help an individual navigate internalised messages, it does not dismantle the external structures that produce those narratives. *(as sociological and historical research shows)*  
+* **Collective trauma:** Narratives shaped by historical oppression, war, or systemic racism are not merely individual stories; they are embedded in cultural memory and institutional practices. While personal Story work can help an individual navigate internalised messages, it does not dismantle the external structures that produce those narratives.  
 
-* **Neurodivergent experience:** For some neurodivergent people, what feels like a rigid Story may actually be a difference in sensory processing or cognitive style (a Wiring variation). Labeling it purely as a narrative risk pathologizes a valid way of being. *(as neurodiversity research suggests)*  
+* **Neurodivergent experience:** For some neurodivergent people, what feels like a rigid Story may actually be a difference in sensory processing or cognitive style (a Wiring variation). Labeling it purely as a narrative risk pathologizes a valid way of being.  
 
-* **Acute psychosis or delirium:** In states where reality testing is severely impaired, the notion of a “story you tell yourself” loses meaning. Clinical support is required before any layered model can be applied. *(as clinical literature on psychosis indicates)*  
+* **Acute psychosis or delirium:** In states where reality testing is severely impaired, the notion of a “story you tell yourself” loses meaning. Clinical support is required before any layered model can be applied.  
 
 Recognising these limits keeps the model honest: it is a diagnostic and intervention framework for everyday self‑understanding, not a universal theory of mind.  
 
 ---
 
-### Applying the Wiring‑vs‑Story discrimination test
+### Telling Wiring and Story apart
 
 When you encounter a belief like *“I’m not enough,”* use the two criteria to locate it.
 
@@ -1024,33 +1022,33 @@ Tomorrow, Chapter 7 will show you how to read the whole system at once—layer b
 
 # Chapter 7: The Method Made Whole
 
-Maren’s vision blurs at the edges of her shift, the soft unfocus that slips one frame behind her gaze. She stares at the medication chart, the numbers swimming despite her effort to hold them steady. The blur is not in the chart; it is in her Body layer, running low on fuel after another night of fragmented sleep **(research shows sleep deprivation can impair visual acuity and increase subjective feelings of heaviness)**.  
+Maren’s vision blurs at the edges of her shift, the soft unfocus that slips one frame behind her gaze. She stares at the medication chart, the numbers swimming despite her effort to hold them steady. The blur is not in the chart; it is in her Body layer, running low on fuel after another night of fragmented sleep.  
 
 The relief of spotting a misplaced effort is real, but it is only the first step. The system does not reward luck; it rewards sequencing. When we address the wrong layer, we waste fuel, increase pressure, and scramble charge without moving the symptom. The method that prevents this waste is simple: two questions and one rule.  
 
 ---  
 
-### Why lower layers constrain higher ones  
+### Why the lower layers hold up everything above them  
 
-The five layers are stacked like a cascade of dependencies. Each layer runs on the substrate beneath it, and a breakdown in the substrate degrades everything above **(as systems theory describes)**.  
+The five layers are stacked. Each one runs on the layer beneath it, and when the layer underneath gives way, everything above it wobbles too.  
 
-*Body* is the physical machine. If it lacks sleep, nutrition, or movement, the autonomic nervous system (Wiring) receives erratic signals, making threat responses more likely to fire **(studies link sleep loss to heightened amygdala reactivity)**. A depleted Body also reduces the glucose and oxygen needed for prefrontal‑cortex‑driven Habit formation, so new routines feel impossible **(glucose is a primary fuel for prefrontal cortical function)**. When the body is strained, the Room layer suffers because we have less capacity to co‑regulate or to send clear social signals **(fatigue reduces social‑cognitive capacity)**. Finally, a chronically depleted Body fuels a Story of inadequacy (“I’m broken”) because the inner narrator interprets the physical deficit as identity **(chronic illness is associated with lower self‑esteem)**.  
+*Body* is the physical machine. When it lacks sleep, nutrition, or movement, your Wiring—the autonomic nervous system—starts getting erratic signals, and threat responses fire more easily. A depleted Body also starves the energy that new Habits need, so routines that should be simple feel impossible. When the body is strained, the Room layer suffers too: you have less in the tank to steady other people or to send clear, warm signals. And over time, a chronically empty Body feeds a Story of inadequacy—“I’m broken”—because the inner narrator mistakes the physical deficit for who you are.  
 
-*Wiring* is the automatic operating system. When it is stuck in a threat loop, it floods the body with stress hormones, degrading Body recovery over time **(chronic stress elevates cortisol, impairing tissue repair)**. It also hijacks attention, making it harder to notice cues for Habit loops **(anxiety narrows attentional focus)**. It colors our perception of Room, turning neutral faces into threats **(threat‑bias in social perception is well documented)**. The Story layer then receives a constant stream of danger‑based data, reinforcing narratives like “I’m not safe.” **(persistent threat input feeds negative self‑narratives)**.  
+*Wiring* is the automatic operating system. When it’s stuck in a threat loop, it floods the body with stress hormones and wears down your Body’s recovery. It hijacks attention, so you miss the cues that would let you change a Habit. It colors how you read the Room, turning a neutral face into a threat. And it feeds the Story layer a steady diet of danger, reinforcing lines like “I’m not safe.”  
 
-*Habit* is the set of automatic routines. When habits are broken—say, a collapsed morning routine—the Body receives irregular signals for sleep and food intake, pulling it downward **(irregular sleep/eating patterns disrupt metabolic homeostasis)**. Erratic habits also keep Wiring in a state of unpredictability because the environment never settles into a predictable pattern **(unpredictable environments increase physiological stress markers)**. In Room, inconsistent habits make co‑regulation difficult; others cannot rely on us **(reliability is a cornerstone of trust in relationships)**. Story then builds a narrative of unreliability (“I can’t stick to anything”). **(behavioral consistency shapes self‑concept of reliability)**.  
+*Habit* is the set of automatic routines. When a routine collapses—say, your mornings fall apart—the Body stops getting regular signals for sleep and food, and it drifts downward. Erratic habits keep Wiring on edge, because nothing in the day settles into a pattern it can trust. In the Room, people can’t rely on you when your rhythms keep shifting. And the Story quietly builds a case for unreliability: “I can’t stick to anything.”  
 
-*Room* is the relational field. A toxic or neglectful Room raises cortisol, which wears on Body (immune suppression, sleep disruption) **(chronic social stress elevates cortisol and impairs immunity and sleep)**. It keeps Wiring on high alert through chronic interpersonal threat cues **(ongoing interpersonal conflict sustains amygdala activation)**. It undermines Habit formation because the environment does not reinforce stable cues **(contextual cues are critical for habit maintenance)**. Finally, a destabilizing Room feeds Story with evidence of rejection or unworthiness **(social rejection predicts lower self‑worth)**.  
+*Room* is the relational field. A toxic or neglectful Room keeps your stress running high, and that wears on the Body—your immune system, your sleep. It keeps Wiring braced for the next interpersonal jolt. It makes new Habits hard to hold, because the environment never reinforces them. And a destabilizing Room hands your Story evidence of rejection, of not being wanted.  
 
-*Story* is the narrative identity. While it does not directly damage the lower layers, a rigid Story can prevent us from seeking the help that would repair Body, Wiring, Habit, or Room **(self‑stigma and independence beliefs reduce help‑seeking)**. For example, believing “I must handle this alone” stops us from asking for a nap, a conversation, or a routine adjustment, keeping the lower layers strained **(perceived self‑reliance is a barrier to utilizing support resources)**.  
+*Story* is the narrative identity. It doesn’t damage the lower layers directly, but a rigid Story can stop you from reaching for the very help that would repair Body, Wiring, Habit, or Room. Believe “I must handle this alone,” and you won’t ask for a nap, a conversation, or a change to your routine—so the lower layers stay strained.  
 
-Because of these feedback loops, the diagnostic sequence **Body → Wiring → Habit → Room → Story** is not arbitrary; it reflects the direction of constraint. You cannot reliably fix a higher layer while a lower one is broken **(this ordering follows the model’s causal premise)**.  
+Because of these loops, the sequence **Body → Wiring → Habit → Room → Story** isn’t arbitrary. It follows the direction of constraint. You can’t reliably fix a higher layer while a lower one is still broken.  
 
 ---  
 
 ### The two‑question method  
 
-The method distills the sequencing rule into a repeatable check:  
+Here is the whole thing, boiled down to a check you can run anywhere:  
 
 1. **Which layer?** – Locate where the symptom originates using the diagnostic tests for each layer.  
 2. **Which currency?** – Identify whether the symptom feels like Charge (activation level), Fuel (energy reserve), or Pressure (held weight/stagnation).  
@@ -1059,81 +1057,81 @@ The layer tells you *where* to intervene. The currency tells you *what kind* of 
 
 ---  
 
-### Worked examples (with Bible characters)  
+### The method at work  
 
-**Example 1 – Body/Fuel (Maren)**  
+**Maren — Body, running low on Fuel**  
 Maren finishes a night shift and tries to chart patient vitals. Her eyes blur (Body signature: soft unfocus), her limbs feel heavy, and she keeps rereading the same line. She assumes she needs to focus harder—a Habit problem—and drinks another coffee.  
 
 - **Which layer?** Body. The blur exists without interpretation; the diagnostic test (“Is this a physical sensation that exists without any narrative?”) returns YES.  
 - **Which currency?** Fuel. The sensation is one of emptiness, not jittery activation; she has low reserves.  
 - **Sequencing rule:** Address Body before Wiring, Habit, Room, or Story.  
-- **Action:** Maren protects a 20‑minute rest block, hydrates, and eats a protein snack. The blur lifts, her charge steadies, and she can finish the chart **(short rest, hydration, and protein intake have been shown to alleviate fatigue‑related visual symptoms)**.  
+- **Action:** Maren protects a 20‑minute rest block, hydrates, and eats a protein snack. The blur lifts, her charge steadies, and she can finish the chart.  
 
-**Example 2 – Wiring/Pressure (Callum)**  
+**Callum — Wiring, holding Pressure**  
 Callum is in a design critique. His mouth fires a sarcastic remark before he can stop it (Wiring signature: gear‑slip, reaction‑before‑decision). His jaw tightens, and he feels a weight in his chest that won’t shift. He blames himself for poor impulse control—a Habit problem—and tries to count to ten.  
 
 - **Which layer?** Wiring. The remark arrived before he could decide; the test (“Did this response happen before I had time to think?”) returns YES.  
 - **Which currency?** Pressure. The tightness is a held reaction, not a racing charge or empty tank.  
 - **Sequencing rule:** Address Wiring before Habit, Room, or Story (Body is steady: he slept, ate, moved).  
-- **Action:** Callum notices the part behind the remark that fears humiliation. He silently thanks it and asks what it needs to feel safe letting go a little. The pressure releases, his jaw softens, and he can re‑engage calmly **(naming and validating threat‑related parts can reduce physiological tension)**.  
+- **Action:** Callum notices the part behind the remark that fears humiliation. He silently thanks it and asks what it needs to feel safe letting go a little. The pressure releases, his jaw softens, and he can re‑engage calmly.  
 
-**Example 3 – Room/Charge (Marcus)**  
+**Marcus — Room, spiking Charge**  
 Marcus volunteers at the men’s shed. When a newcomer jokes about his quietness, Marcus feels a flush of heat and a urge to snap back (Room signature: temperature shift when he enters a space). He assumes he needs to be more sociable—a Habit problem—and forces himself to chat.  
 
 - **Which layer?** Room. The heat and urge change when the people around him change; the test (“Does this change when the people around me change?”) returns YES.  
 - **Which currency?** Charge. The sensation is a sudden spike of activation, not a held weight or empty reserve.  
 - **Sequencing rule:** Address Room before Habit or Story (Body and Wiring are steady).  
-- **Action:** Marcus steps outside for a breath, notices the weather‑change signature fading, and returns with a simple observation about the wood grain. The charge drops, the interaction stays neutral, and he feels steadier **(brief nature breaks can reduce acute arousal spikes)**.  
+- **Action:** Marcus steps outside for a breath, notices the weather‑change signature fading, and returns with a simple observation about the wood grain. The charge drops, the interaction stays neutral, and he feels steadier.  
 
 ---  
 
-### Common misdiagnoses (failure modes)  
+### Where people go wrong  
 
-Treating a symptom at the wrong layer creates predictable failure modes.  
+Work a symptom at the wrong layer and you get the same handful of predictable dead ends.  
 
-*Body mistaken for Wiring*: A heavy, leaden feeling (low Fuel) is taken as emotional numbness and met with “just push through.” The Body stays depleted, and the Wiring loop of self‑criticism intensifies **(clinical observations note that fatigue‑related low mood is often misattributed to emotional causes)**.  
+*Body mistaken for Wiring*: A heavy, leaden feeling—really just low Fuel—gets read as emotional numbness and met with “just push through.” The Body stays empty, and the Wiring loop of self‑criticism only gets louder.  
 
-*Wiring mistaken for Habit*: An automatic flash of anger (gear‑slip) is seen as a bad habit to be broken with willpower. Because the wiring fires before thought, habit‑change tools miss the trigger, and the flash returns stronger **(anger outbursts rooted in threat response resist habit‑based interventions)**.  
+*Wiring mistaken for Habit*: An automatic flash of anger—a gear‑slip—gets treated as a bad habit to break with willpower. But the wiring fires before thought, so habit‑change tools never reach the trigger, and the flash comes back stronger.  
 
-*Habit mistaken for Room*: Skipping meals because “I’m never hungry” is blamed on a unsupportive workplace. The real habit loop (cue → skipping → relief) persists, and the Room intervention (asking for break‑time accommodations) does not address the automatic behavior **(habit change requires addressing the cue‑routine‑reward loop, not just the environment)**.  
+*Habit mistaken for Room*: Skipping meals because “I’m never hungry” gets blamed on an unsupportive workplace. The real loop—cue, skip, relief—keeps running, and asking for break‑time accommodations does nothing to touch the automatic behavior.  
 
-*Room mistaken for Story*: Feeling excluded at a team meeting is taken as proof “I don’t belong.” The Story work (re‑writing the narrative) continues while the actual Room dynamic (a colleague who interrupts) remains unchanged, so the exclusion repeats **(social context must change for exclusion to cease)**.  
+*Room mistaken for Story*: Feeling left out of a team meeting becomes proof that “I don’t belong.” You keep rewriting the narrative while the actual Room dynamic—a colleague who talks over you—stays exactly the same, so the exclusion just repeats.  
 
-*Story mistaken for Body*: A persistent belief “I’m incapable” is treated with more sleep and nutrition. While Body improves, the Story narrative remains untouched, and the person still feels incapable despite having the energy to act **(identity beliefs can persist despite physiological improvement)**.  
-
----  
-
-### Hard cases  
-
-Sometimes the lowest layer that won’t move is not a simple deficit but a condition that resists ordinary intervention.  
-
-*Immutable constraint*: A genetic condition that limits mitochondrial output (Body) will not normalize with sleep or diet alone. The method still applies: we refuel as much as possible, then work upward, adapting habits and Room to the reduced energy budget **(mitochondrial disorders illustrate a hard physiological limit)**.  
-
-*Currently constrained*: Acute grief after a loss floods Wiring with threat‑response activation. The layer is “currently constrained” because it will shift with time and support. The method advises protecting Body (fuel) first, then using Wiring‑specific tools (naming the feeling, discharge) while the grief wave passes **(grief‑related hyperarousal responds to pacing and emotional processing)**.  
-
-*Externally imposed constraint*: A caregiver who works three jobs to support family experiences chronic Room depletion (low relational fuel). The constraint is imposed by circumstance, not personal wiring. The method directs the reader to challenge the external system (seek subsidies, respite care) rather than only adapting internally **(systemic barriers often require external advocacy)**.  
-
-*Changeable‑but‑costly constraint*: A person could leave a high‑paying but soul‑draining job (Room/Pressure) but would face financial hardship. The method names the cost clearly: the pressure of staying versus the pressure of leaving. It does not decide; it equips the reader to see the trade‑off **(decision‑making under competing pressures involves weighing tangible costs)**.  
-
-*Unsafe situation*: If the Room layer contains active abuse or coercion, the method’s “adapt around the constraint” advice is **never** appropriate. The correct response is exit, boundary, or professional safety planning **(safety takes precedence over adaptation in abusive contexts)**.  
+*Story mistaken for Body*: A stubborn belief that “I’m incapable” gets treated with more sleep and better food. The Body improves, but the Story is left untouched, and you still feel incapable even now that you have the energy to act.  
 
 ---  
 
-### Counterexamples  
+### When the lowest layer won’t budge  
 
-The model does not claim to explain every human experience.  
+Sometimes the lowest layer isn’t a simple deficit you can refill. It’s a condition that won’t yield to ordinary effort.  
 
-*Acute physical trauma*: A broken leg (Body) causes immediate pain and immobility. The two‑question method still works—identify Body/Fuel—but the primary intervention is medical care, not sequencing. The model is a lens, not a replacement for urgent treatment **(trauma care follows established medical protocols)**.  
+*An immutable constraint*: A genetic condition that limits the Body’s energy output won’t normalize with sleep or diet alone. The method still holds—refuel as much as you can, then work upward, adapting your habits and your Room to the smaller energy budget you actually have.  
 
-*Sudden external shock*: A layoff notice triggers a spike in Wiring (threat response) and Room (loss of income). The method helps locate the layers, but the immediate need may be practical (unemployment benefits, job search) before deeper layer work can begin **(practical safety nets precede psychological processing after job loss)**.  
+*A current constraint*: Acute grief after a loss floods Wiring with threat‑response. This one is only constrained for now; it will shift with time and support. So you protect the Body first, keep it fueled, then reach for Wiring tools—naming the feeling, discharge—while the grief wave passes through.  
 
-*Pharmacological influence*: Stimulant medication can raise Charge independently of Body state. The method flags the mismatch (high Charge, normal Fuel) and prompts a review of medication timing or dosage with a prescriber **(medication side‑effects can produce arousal states unrelated to energy reserves)**.  
+*An externally imposed constraint*: A caregiver working three jobs to keep a family afloat runs chronically low in the Room—little relational fuel left over. That limit was handed to them by circumstance, not by their own wiring. Here the honest move is to challenge the system itself—seek subsidies, respite care—not just to adapt around it quietly.  
+
+*A changeable‑but‑costly constraint*: You could leave the high‑paying job that’s draining you, but it would cost you financially. The method names the cost plainly—the pressure of staying weighed against the pressure of leaving. It doesn’t decide for you. It just helps you see the trade clearly.  
+
+*An unsafe situation*: If the Room holds active abuse or coercion, “adapt around the constraint” is **never** the answer. The right response is to leave, set a hard boundary, or get professional help with a safety plan.  
 
 ---  
 
-### The self‑check  
+### When it’s not what it looks like  
 
-Reading yourself is not vague soul‑searching; it is a calm, honest scan of each layer, one at a time.  
+The method doesn’t claim to explain every human experience.  
+
+*Acute physical trauma*: A broken leg lands in the Body, with immediate pain and immobility. The two questions still work—you’ll land on Body and Fuel—but the real intervention here is medical care, not sequencing. The method is a lens, not a substitute for urgent treatment.  
+
+*A sudden external shock*: A layoff notice spikes your Wiring with threat and empties your Room of income all at once. The method helps you name the layers, but the first thing you need may be practical—benefits, a job search—before any deeper layer work can begin.  
+
+*A pharmacological influence*: Stimulant medication can push your Charge up no matter what your Body is doing. The method flags the mismatch—high Charge, a full tank—and tells you to take that to your prescriber to review timing or dose.  
+
+---  
+
+### How to read yourself  
+
+Reading yourself isn’t vague soul‑searching. It’s a calm, honest scan of each layer, one at a time.  
 
 **Body**  
 - How has your energy been this week? Note when it dipped and when it lifted.  
@@ -1162,9 +1160,9 @@ Reading yourself is not vague soul‑searching; it is a calm, honest scan of eac
 
 ---  
 
-### The mode that isn’t improvement  
+### When the answer isn’t to improve at all  
 
-There is a mode the system enters that is not optimization. When signals show real distress—burnout that sleep doesn’t touch, a mood that won’t lift, a pressure that feels like a weight on the chest—the right response is not a clever reframe or a new habit. It is to stop optimizing entirely and ask: *How am I?* Let yourself be heard before anything gets fixed. A system in repair mode is never handed a growth goal. The honest move is a Full Stop: protect sleep, pause obligations, and let the lower layers recover. Only after the Body steadies can we safely work upward **(clinicians recommend a period of restorative rest before pursuing growth goals in burnout)**.  
+There is a mode the system enters that is not optimization. When signals show real distress—burnout that sleep doesn’t touch, a mood that won’t lift, a pressure that feels like a weight on the chest—the right response is not a clever reframe or a new habit. It is to stop optimizing entirely and ask: *How am I?* Let yourself be heard before anything gets fixed. A system in repair mode is never handed a growth goal. The honest move is a Full Stop: protect sleep, pause obligations, and let the lower layers recover. Only once the Body steadies can you safely start working upward again.  
 
 ---  
 
@@ -1256,17 +1254,9 @@ The long exhale is the one signal your body reads as *"the danger has passed."* 
 
 **What it feels like when it's working:** the upper back drops half an inch. The heart eases. The world stops feeling quite so close to your face.  
 
-**Its edge:** it takes the top off high charge; it won't fix what caused it. If panic is frequent or comes from nowhere, that's worth taking to a doctor—this tool is for the moment, not the pattern.  
+**Why it works:** A long out‑breath is the one signal your body trusts to mean *the danger has passed* — it's a direct line to the switch that turns the alarm down. It settles best on a rested, fed body; on an empty one the calm slips away fast, which is the clue you're low on Fuel, not high on Charge.  
 
-**Mechanism note:** Lengthening the exhale stimulates the vagus nerve, shifting the balance toward parasympathetic tone and lowering the firing rate. Because Wiring sits atop Body, a well‑resourced Body (adequate sleep, food, movement) lets the shift stick; if Body is depleted, the effect fades quickly.  
-
-**Failure mode:** Mistaking a Fuel‑depletion crash for high charge and using the long exhale when what’s needed is rest or food. The tool feels ineffective because the underlying low‑Fuel state keeps pulling Charge back down.  
-
-**Hard case:** Chronic pain that keeps the nervous system aroused despite regular exhale practice—indicating a Body‑driven nociceptive loop that overrides autonomic regulation.  
-
-**Counterexample:** A person with low‑Charge fatigue who finds the long exhale paradoxically energizing because the brief pause reduces mental rumination, freeing up attentional resources.  
-
-**Model limitation:** The tool addresses only the immediate electrical dimension; it cannot alter structural issues such as hormonal dysregulation that require medical intervention.  
+**Its edge:** it takes the top off high charge; it won't fix what caused it. If panic is frequent, comes from nowhere, or the body stays switched‑on no matter how often you breathe, that's worth taking to a doctor—this tool is for the moment, not the pattern.  
 
 ---
 
@@ -1287,17 +1277,9 @@ Callum sits at his desk at 2:58 p.m. on a Wednesday, the fluorescent light buz
 
 **What it feels like when it's working:** a half‑step of distance opens between you and the feeling. You're still feeling it, but you're now *beside* it, not *inside* it.  
 
-**Its edge:** it creates room; it doesn't erase the feeling, and it shouldn't. If naming it opens something far bigger and older than the moment, that's the walled‑off room—go gently, and see Tool 12.  
+**Why it works:** A feeling with no name runs the fast, wordless part of you. Putting a word on it hands it over to the slower, thinking part — and the thinking part can hold what the wordless part could only be swept away by.  
 
-**Mechanism note:** Naming engages prefrontal language circuits, which down‑regulate amygdala‑driven Wiring reactions. Because Wiring is automatic and pre‑thought, giving it a label creates a brief window for higher‑layer (Habit, Story) appraisal.  
-
-**Failure mode:** Using the tool on a pure Body sensation (e.g., low blood sugar shakiness) and expecting it to relieve the physical tremor; the naming helps the emotional overlay but the Body signal remains until fuel is restored.  
-
-**Hard case:** A trauma survivor whose flashback arrives with intense somatic terror; naming the fear does not stop the flashback because the Wiring pattern is tightly bound to somatic memory that requires bottom‑up regulation.  
-
-**Counterexample:** Naming a mild irritation as "annoyance" sometimes amplifies it because the act of labeling draws attention to the feeling, showing that the tool’s efficacy depends on the intensity of the underlying Wiring signal.  
-
-**Model limitation:** The tool cannot rewrite deep‑set core beliefs that live in Wiring as automatic predictions; it only offers a momentary pause.  
+**Its edge:** it creates room; it doesn't erase the feeling, and it shouldn't. If what you're naming is really a body signal — the shakiness of a missed meal, say — the word won't touch it; that's a Fuel fix, not a feeling. And if naming it opens something far bigger and older than the moment — a flashback, a terror that won't stop at the word — that's the walled‑off room; go gently, and reach for a person (Tool 12).  
 
 ---
 
@@ -1322,17 +1304,9 @@ The point is *out*, not *held*.
 
 **What it feels like when it's working:** something releases. A breath goes deeper than it has all day. The tight thing loosens a notch.  
 
-**Its edge:** discharge clears today's pressure. If the same pressure refills every single day, the tool isn't the fix—something upstream is generating it, and that's the thing to trace.  
+**Why it works:** Held tension is energy with nowhere to go. Give it a way out — through the body, through words — and the system can drop back to rest. Animals shake off a fright for exactly this reason.  
 
-**Mechanism note:** Pressure is the hydraulic dimension of held tension. Discharge provides a physical outlet for stored energy, allowing the system to return to baseline. Because Pressure can be generated by any layer, discharge works best when the source is identified; otherwise the pressure rebuilds.  
-
-**Failure mode:** Using discharge to relieve pressure that originates from a Story‑level identity conflict (e.g., "I must be perfect"); the bodily tension eases temporarily, but the mental pressure returns as soon as the narrative re‑engages.  
-
-**Hard case:** Chronic muscular guarding from an old injury that persists despite daily discharge; the Body layer has adapted to a new set‑point, making the pressure feel "normal" until movement triggers pain.  
-
-**Counterexample:** A person who finds that journaling about a work conflict actually increases pressure because the act of writing rehearses the narrative, showing that the outlet must match the source layer.  
-
-**Model limitation:** Discharge cannot change the structural conditions that create ongoing pressure (e.g., an untenable workload or a coercive relationship); it only offers temporary relief.  
+**Its edge:** discharge clears today's pressure. If the same pressure refills every single day, the tool isn't the fix—something upstream is generating it, whether that's a story you keep telling yourself or a situation that won't change on its own, like an untenable workload or a relationship that keeps you braced. That's the thing to trace, and sometimes the thing to get help with.  
 
 ---
 
@@ -1353,17 +1327,9 @@ Callum stands in the hallway at 6:47 p.m. on a Tuesday, upper back tight, jaw 
 
 **What it feels like when it's working:** the pressure of *holding* it all drops, because the page is holding it now, not you.  
 
-**Its edge:** great for overload and fog; it won't make a genuinely heavy load lighter—sometimes the honest finding is that you're carrying too much, and the fix is *fewer things*, not better sorting.  
+**Why it works:** Your head is a terrible place to store a long list — holding it all takes energy you could be using to act. Put it on a page and the page carries it, which frees you up to think and to settle.  
 
-**Mechanism note:** This tool offloads working‑memory load from the Habit layer (where attentional routines live) onto external storage. By reducing cognitive load, it frees bandwidth for lower‑layer regulation (Body, Wiring).  
-
-**Failure mode:** Applying it when the overload stems from a Body deficit (e.g., sleep deprivation impairing cognition); clearing the list helps momentarily, but the underlying fatigue quickly refills the mental space.  
-
-**Hard case:** A person with ADHD whose executive‑function challenges make the "one thing" selection itself overwhelming; the tool requires external scaffolding (e.g., a coach) to be usable.  
-
-**Counterexample:** Someone who discovers that listing tasks actually increases anxiety because the visual length of the list triggers a Wiring threat response; in that case, a brief discharge or breath work precedes the listing.  
-
-**Model limitation:** The tool assumes the user can write or type; it is inaccessible for those with severe motor or literacy constraints without adaptation.  
+**Its edge:** great for overload and fog; it won't make a genuinely heavy load lighter—sometimes the honest finding is that you're carrying too much, and the fix is *fewer things*, not better sorting. And if the fog is really tiredness, the list clears for a minute and then fills right back up — that's a Body fix first. If choosing the one thing is itself overwhelming no matter what, that's worth not doing alone — a steadying person beside you makes the tool usable.  
 
 ---
 
@@ -1386,23 +1352,13 @@ Marcus sits at the kitchen table at 7:19 p.m. on a Sunday, budget spreadsheet 
 
 **What it feels like when it's working:** the effort of ordinary things drops back toward normal. You stop white‑knuckling the day.  
 
-**Its edge:** this is for ordinary depletion. Exhaustion that sleep doesn't touch, week after week, is a different thing—that's the burnout pattern, and sometimes a doctor, not a tool.  
+**Why it works:** Fuel is the reserve the whole system runs on — give back the exact thing that's low, and everything above it has more to work with. The catch is honesty: a coffee can't repay a sleep debt, and the wrong refill just masks the real one until you crash.  
 
-**Mechanism note:** Fuel is the reserve dimension across all layers. Replenishing the specific depleted substrate (glucose for Body, neurotransmitters for Wiring, glucose for Habit, etc.) restores the system’s capacity to generate Charge and handle Pressure. Because Fuel underlies every layer, a refill lifts the whole system, but only if the deficit is correctly identified.  
-
-**Failure mode:** Mistaking low Fuel for low Charge and reaching for caffeine or a breath tool; the temporary alertness masks the deeper depletion, leading to a crash later.  
-
-**Hard case:** Chronic insomnia where extending sleep time does not improve restedness because the sleep architecture itself is disrupted (a Body‑layer pathology)^7.  
-
-**Counterexample:** A person who feels refueled after a brief walk despite low caloric intake because the movement stimulates mitochondrial efficiency, showing that Fuel perception can be influenced by Body‑layer activity.  
-
-**Model limitation:** The tool cannot address fuel‑loss mechanisms rooted in systemic inequities (e.g., food insecurity, unsafe sleeping environments) without external support.  
+**Its edge:** this is for ordinary depletion. Exhaustion that sleep doesn't touch, week after week, is a different thing—that's the burnout pattern, and sometimes a doctor, not a tool. The same goes for sleep that never leaves you rested no matter how long you lie there^7, or for an empty tank that comes from going without — not enough food, nowhere safe to sleep. Those need real‑world help, not a better refill.  
 
 ---
 
-Maya stands at the kitchen counter at 8:17 p.m. on a Tuesday, phone in hand, staring at the screen. She's meant to call her mum. She's meant to every night. But the tank is empty, and the call feels like too much. She puts the phone down, eats a proper meal first, then calls. The conversation is warm, steady, not drained.  
-*(Maya is replaced by Maren for consistency; Maren’s Body signature appears.)*  
-*A blur behind her eyes — the soft unfocus that arrives before she's aware she's tired*  
+Maren stands at the kitchen counter, phone in hand, a blur settling behind her eyes before she knows she's tired — it's 8:17 p.m. on a Tuesday, and she's staring at the screen. She's meant to call her mum. She's meant to every night. But the tank is empty, and the call feels like too much. She puts the phone down, eats a proper meal first, then calls. The conversation is warm, steady, not drained.  
 
 ---
 
@@ -1418,17 +1374,9 @@ Maya stands at the kitchen counter at 8:17 p.m. on a Tuesday, phone in hand, s
 
 **What it feels like when it's working:** the sense of imminent collapse eases. You're not better yet, but you've stopped digging.  
 
-**Its edge:** this is triage, not recovery. If you can't take anything off the pile, or you can't stop, that itself is the finding—and it usually means something at the story layer (*"my worth is my output"*) needs the deeper work.  
+**Why it works:** When nothing more comes in, your tank finally gets spent on recovery instead of the next demand. The hard part is that the pressure to keep going often comes from a story — *my worth is my output* — so stopping the inputs also quiets the voice driving them.  
 
-**Mechanism note:** The Full Stop reduces incoming Pressure and Charge demands, allowing the system to allocate existing Fuel to recovery processes. Because Story often drives the Pressure to keep performing, halting new inputs interrupts that feedback loop.  
-
-**Failure mode:** Using the tool to avoid a necessary but uncomfortable conversation (Room layer) and then experiencing relational Pressure that builds silently.  
-
-**Hard case:** A caregiver who cannot drop any responsibilities because others depend on them; the Full Stop is impossible without external respite, highlighting a Room‑layer constraint.  
-
-**Counterexample:** Someone who finds that stopping work actually increases anxiety because the unstructured time triggers rumination; in that case, a scheduled, low‑effort habit (e.g., a short walk) provides better regulation than pure cessation.  
-
-**Model limitation:** The tool assumes the user has agency to decline or delay commitments; it is not viable when external forces (e.g., employment demands, caregiving mandates) dictate the load.  
+**Its edge:** this is triage, not recovery. If you can't take anything off the pile, or you can't stop, that itself is the finding—and it usually means something at the story layer (*"my worth is my output"*) needs the deeper work. And sometimes you truly can't stop because others depend on you, or the demands aren't yours to decline — then the Full Stop needs someone to step in and give you the room, not willpower.  
 
 ---
 
@@ -1452,11 +1400,9 @@ Marcus sits at their desk at 9:12 p.m. on a Thursday, staring at the to‑do l
 
 **What it feels like when it's working:** the thought loosens its grip. It stops being *the truth* and becomes *a thought*—one you can disagree with.  
 
-**Its edge:** this works on distorted everyday thoughts. It does *not* work by force on the deepest beliefs (*"I am fundamentally not enough"*)—those are older and need the gentler, slower work of meeting the part beneath them (Tool 9), often with a good therapist. Don't bludgeon a deep wound with logic.  
+**Its edge:** this works on distorted everyday thoughts. It won't land on a body signal wearing a thought's clothes — *"I can't cope"* after two sleepless nights is a Fuel reading, not a distortion, and no amount of logic will argue it away. And it does *not* work by force on the deepest beliefs (*"I am fundamentally not enough"*)—those are older and need the gentler, slower work of meeting the part beneath them (Tool 9), often with a good therapist. Don't bludgeon a deep wound with logic.  
 
-**Mechanism note:** Checking the thought recruits the slower, evaluative Story layer to appraise a claim that Wiring produced automatically. By testing it against evidence, you convert an automatic prediction into a reviewable statement, which weakens its grip.  
-
-**Failure mode:** Applying it to a Body signal dressed as a thought—*"I can't cope"* when the real issue is two nights of no sleep. The logic doesn't land because the claim is a Fuel reading, not a distortion.  
+**Why it works:** A harsh thought arrives fast and automatic, dressed as fact. Slowing down to weigh the evidence turns it back into what it always was — a claim you're allowed to question — and a claim you can question loses its grip.  
 
 ---
 
@@ -1473,11 +1419,9 @@ Marcus sits at their desk at 9:12 p.m. on a Thursday, staring at the to‑do l
 
 **What it feels like when it's working:** the sinking lifts a notch. You still regret the act—but you're no longer dissolving into it. The problem becomes a thing you can mend instead of a verdict on who you are.  
 
-**Its edge:** guilt is workable; shame is older and heavier. If the shame won't re‑file—if it keeps collapsing *the act* back into *the self*—that's a deep Story wound, and it's worth meeting gently (Tool 9), often with a good therapist.  
+**Why it works:** Guilt points at something you *did*; shame points at who you *are*. Shame's whole trick is erasing the line between the two — so drawing that line back in is what loosens its hold.  
 
-**Mechanism note:** Guilt and shame live in the Story layer but point in opposite directions—one at behaviour, one at identity. Separating them restores a boundary between what you did and who you are, which is the boundary shame erases.  
-
-**Failure mode:** Trying to re‑file shame while the Body is depleted; a tired system defaults to the global, self‑condemning read, and the sort won't hold until the Body is steadier.  
+**Its edge:** guilt is workable; shame is older and heavier. If the shame won't re‑file—if it keeps collapsing *the act* back into *the self*—that's a deep Story wound, and it's worth meeting gently (Tool 9), often with a good therapist. And a tired body will always vote for the harsher read, so if the sort won't hold, steady the Body first and try again.  
 
 ---
 
@@ -1494,11 +1438,9 @@ Marcus sits at their desk at 9:12 p.m. on a Thursday, staring at the to‑do l
 
 **What it feels like when it's working:** not a bang, a softening. The old sentence loosens because it finally felt heard instead of argued with. Something in you unclenches that logic could never reach.  
 
-**Its edge:** this is the gentle, slow work, and it has a floor. Beliefs welded to trauma need bottom‑up care and a skilled person beside you. If meeting the part opens something far bigger and older than the moment—the walled‑off room—stop, go gently, and reach for help (Tool 12).  
+**Why it works:** An old belief was laid down early, when some part of you was scared and trying to keep you safe. It won't be argued out of existence — but it will loosen when it's finally met with safety instead of a fight. Curiosity *is* that safety, and it's the one condition under which the old sentence will update.  
 
-**Mechanism note:** Deep beliefs sit in the Story layer as predictions laid down early, often by Wiring under threat. They don't update by argument; they update by being met with safety. Curiosity signals safety, which is the only condition under which an old prediction will revise.  
-
-**Failure mode:** Using Meet the Part as a bypass—excavating old pain while skipping a depleted Body or an unsafe Room. The part cannot rest in a system that still isn't safe or fed.  
+**Its edge:** this is the gentle, slow work, and it has a floor. Beliefs welded to trauma need gentle, body‑first care and a skilled person beside you. Don't go digging into old pain while the Body is depleted or the Room is unsafe — the part can't rest in a system that still isn't fed or safe. And if meeting the part opens something far bigger and older than the moment—the walled‑off room—stop, go gently, and reach for help (Tool 12).  
 
 ---
 
@@ -1514,11 +1456,9 @@ Marcus sits at their desk at 9:12 p.m. on a Thursday, staring at the to‑do l
 
 **What it feels like when it's working:** a faint, steadying pull—not motivation, something quieter. You've stopped waiting to be moved and started moving, and the day gets a direction it didn't have.  
 
-**Its edge:** values can carry you across a feeling‑gap; they can't carry a system that's truly empty. If you can't locate any value you care about—if everything has gone grey and stays grey—that flatness is worth taking to someone, not pushing through alone.  
+**Why it works:** Most of the time your feelings decide what you do. A value doesn't wait for the mood — it gives you a reason to move that holds even when the feeling is missing, which is exactly why it works when motivation won't come.  
 
-**Mechanism note:** Values live in the Story layer and don't depend on Wiring's moment‑to‑moment charge. Acting from a value bypasses the feeling‑gate that normally decides behaviour, which is why it works when motivation is absent.  
-
-**Failure mode:** Mistaking burnout for a motivation problem and using values to flog an exhausted Body. The honest move there is the Full Stop (Tool 6) and the Honest Refill (Tool 5) first.  
+**Its edge:** values can carry you across a feeling‑gap; they can't carry a system that's truly empty. If the flatness is really burnout, don't use a value to flog an exhausted body — the honest move is the Full Stop (Tool 6) and the Honest Refill (Tool 5) first. And if you can't locate any value you care about—if everything has gone grey and stays grey—that flatness is worth taking to someone, not pushing through alone.  
 
 ---
 
@@ -1534,11 +1474,9 @@ Marcus sits at their desk at 9:12 p.m. on a Thursday, staring at the to‑do l
 
 **What it feels like when it's working:** a small warmth, a line reopened. The Room feels one degree less empty—and often, so does theirs.  
 
-**Its edge:** reconnection is a tool for drift, not for danger. A relationship that's harmful isn't a thing to reopen; some ties are healthier left closed, and knowing the difference is its own kind of care.  
+**Why it works:** We steady each other without trying — being near a calm person calms you. One real contact reopens a thread of that, which is why a small reconnect can lift the whole system far more than its size suggests.  
 
-**Mechanism note:** The Room layer runs partly on co‑regulation—other nervous systems help steady yours. A single real contact restores a thread of that regulation, which is why a small reconnect can lift the whole system more than its size suggests.  
-
-**Failure mode:** Reaching outward to avoid a Story that needs facing (*"I'm too much for people"*); the reconnect soothes the moment but the belief refills the loneliness unless it's met directly.  
+**Its edge:** reconnection is a tool for drift, not for danger. A relationship that's harmful isn't a thing to reopen; some ties are healthier left closed, and knowing the difference is its own kind of care. And if you're reaching out to dodge a story that needs facing—*"I'm too much for people"*—the contact soothes the moment but the belief quietly refills the loneliness until you meet it directly.  
 
 ---
 
@@ -1554,9 +1492,9 @@ Marcus sits at their desk at 9:12 p.m. on a Thursday, staring at the to‑do l
 
 **What it feels like when it's working:** the aloneness breaks first—before anything's solved. The weight is still there, but it's shared, and shared weight is a different weight.  
 
-**Its edge:** this tool has no edge, and that's the point. It is the floor under every other tool in this book. It is not the last resort; it is the first and best move when the load is more than everyday. Reaching for a person was always the truest tool in here.  
+**Why it works:** No one carries extraordinary weight alone — we were never built to. Another steady person lends you a calm you can't make on your own in that moment, which is why reaching out changes how you feel before it changes anything about the situation.  
 
-**Mechanism note:** No single layer carries extraordinary weight alone. Another steady nervous system, or a trained one, lends regulation your own system can't generate in the moment—which is why reaching out changes the state before it changes the situation.  
+**Its edge:** this tool has no edge, and that's the point. It is the floor under every other tool in this book. It is not the last resort; it is the first and best move when the load is more than everyday. Reaching for a person was always the truest tool in here.  
 
 ---
 
@@ -1594,73 +1532,73 @@ Not all limits are alike. The book’s advice to “adapt around the constraint�
 
 ---  
 
-### Mechanism: why lower layers constrain higher layers  
+### Why the lower layers hold up the higher ones  
 
-The Body layer is the physical platform. **Research suggests that** if it is low on sleep, nutrients, or regulated hormones, every signal above it—Wiring’s threat detection, Habit’s routines, Room’s relational cues, Story’s narratives—runs on a degraded substrate. **Studies indicate that** you cannot reliably calm a racing heart (Wiring) if your blood sugar is crashing (Body), and you cannot sustain a new habit if your muscles are exhausted (Body).  
+The Body layer is the physical platform. When it’s short on sleep, nutrients, or steady hormones, every signal above it—Wiring’s threat detection, Habit’s routines, Room’s relational cues, Story’s narratives—runs on shaky ground. You can’t reliably calm a racing heart (Wiring) while your blood sugar is crashing (Body), and you can’t sustain a new habit while your muscles are wrung out (Body).  
 
-Wiring is the automatic operating system. **Research shows that** when it is stuck in a threat loop, it floods the body with stress hormones, hijacks attention, and overrides deliberate choices. **Evidence indicates that** a habit you’ve practiced (Habit) will still be interrupted if a flash of fear fires before you can act. **Studies suggest that** a relational cue (Room) will be read as threat even when it is neutral. **Findings indicate that** a self‑narrative (Story) will be filtered through a lens of danger.  
+Wiring is the automatic operating system. When it’s stuck in a threat loop, it floods the body with stress hormones, grabs your attention, and overrides what you’d deliberately choose. A habit you’ve practiced for years will still get interrupted if a flash of fear fires before you can act. A neutral face in the Room will get read as a threat. And a self‑narrative in the Story will come back to you filtered through danger.  
 
-Habit is the set of automatic routines. **Research indicates that** if your default routine is to skip meals or to check email every five minutes, those patterns consume Fuel and generate Pressure that leave little room for new behaviours, even when you have the intention.  
+Habit is the set of automatic routines. If your default is to skip meals or check email every five minutes, those patterns burn Fuel and build Pressure, leaving little room for anything new—no matter how much you intend otherwise.  
 
-Room is the relational field. **Findings suggest that** a toxic workplace can keep your Wiring on high alert, drain your Fuel through constant vigilance, and pressure your Story into a narrative of inadequacy. **Research indicates that** even if your Body is rested and your Wiring calm, a hostile Room will pull you back into dysregulation.  
+Room is the relational field. A toxic workplace can keep your Wiring on high alert, drain your Fuel through constant vigilance, and press your Story toward a story of inadequacy. Even with a rested Body and a calm Wiring, a hostile Room will pull you back into dysregulation.  
 
-Story is the narrative identity. **Studies suggest that** when the story says “I am not enough,” it can drive you to over‑work (Habit), ignore bodily signals (Body), or stay in draining relationships (Room) because the narrative predicts failure if you stop.  
+Story is the narrative identity. When the story says “I am not enough,” it can push you to overwork (Habit), ignore what your body is telling you (Body), or stay in draining relationships (Room)—because the narrative keeps predicting failure if you stop.  
 
-Because each layer depends on the one beneath it, the diagnostic sequence—Body → Wiring → Habit → Room → Story—is the recommended order: you address the lowest layer that is unstable before expecting higher‑layer changes to hold.  
-
----  
-
-### Failure modes: common misattributions  
-
-When a problem persists, it is tempting to blame the wrong layer. These errors waste effort and deepen frustration:  
-
-* **Body mistaken for Wiring** – **Research indicates that** a pounding heart after coffee is often read as anxiety, when it is simply caffeine’s effect on the cardiovascular system. The fix: test whether the sensation exists without a trigger (Body) or appears only after an event (Wiring).  
-* **Wiring mistaken for Story** – **Studies suggest that** a flash of shame that arrives before thought is labeled a “belief I keep telling myself,” when it is actually a somatic memory firing automatically. The fix: ask if the feeling arrived before any language formed (Wiring) or as a sentence you can hear (Story).  
-* **Habit mistaken for Room** – **Evidence indicates that** snacking every time you sit down feels like a social cue, but it follows you everywhere, indicating a Habit loop. The fix: notice whether the behaviour changes when the people or setting change (Room) or stays constant (Habit).  
-* **Room mistaken for Story** – **Research shows that** feeling excluded at work is taken as “I’m unlikeable,” when the exclusion may come from a specific team’s norms. The fix: see if the feeling shifts in a different group (Room) or follows you everywhere (Story).  
-* **Story mistaken for Body** – **Findings suggest that** a heaviness in the chest that appears when you think about failure is taken as fatigue, when it is the emotional weight of a narrative. The fix: check whether the sensation disappears when the narrative is paused (Story) or persists regardless of thought (Body).  
-
-Each misdiagnosis leads you to apply a tool at the wrong layer, which is why the symptom seems unresponsive.  
+Because each layer leans on the one beneath it, the sequence—Body → Wiring → Habit → Room → Story—is the order to work in: steady the lowest layer that’s shaky before you expect any change higher up to hold.  
 
 ---  
 
-### Hard cases: when the lowest layer won’t move  
+### Where people go wrong  
 
-Sometimes the layer you’ve identified is truly fixed, and no amount of tool‑work at higher layers will shift the symptom. These are the hard cases the model acknowledges:  
+When a problem won’t quit, it’s tempting to pin it on the wrong layer. These are the mix‑ups that waste effort and deepen the frustration:  
 
-* **Immutable Body constraints** – **Research indicates that** a congenital condition that limits aerobic capacity will always produce a low‑Fuel sensation during exertion. Tools can optimize pacing, nutrition, and recovery, but the underlying limit remains.  
-* **Currently constrained Wiring** – **Studies show that** after a traumatic event, the threat system may stay heightened for weeks or months. Grounding practices, titration of stimulation, and professional trauma work can help the system recalibrate, but the wiring will not “turn off” on demand.  
-* **Habit locked by environment** – **Evidence suggests that** if you live in a food desert, the habit of seeking fresh produce is blocked by lack of access. Changing the habit requires altering the Room (e.g., joining a community garden, advocating for better supply).  
-* **Story shaped by irreversible loss** – **Findings indicate that** the narrative “I am a parent” after a child’s death cannot be rewritten to erase the loss; instead, the story integrates the loss while preserving other identity threads.  
-* **Room bound by law** – **Research indicates that** if a visa restricts your ability to work, no amount of relational skill will change that legal fact; the response is to navigate the system or seek adjustment of status.  
+* **Body mistaken for Wiring** – A pounding heart after coffee gets read as anxiety, when it’s just caffeine working on your cardiovascular system. The fix: test whether the sensation shows up with no trigger at all (Body) or only after something happens (Wiring).  
+* **Wiring mistaken for Story** – A flash of shame that lands before thought gets labeled “a belief I keep telling myself,” when it’s really a body memory firing on its own. The fix: ask whether the feeling arrived before any words formed (Wiring) or as a sentence you can actually hear (Story).  
+* **Habit mistaken for Room** – Snacking every time you sit down feels like a social cue, but it follows you everywhere—which makes it a Habit loop. The fix: notice whether the behavior changes when the people or the setting change (Room) or stays the same no matter what (Habit).  
+* **Room mistaken for Story** – Feeling left out at work becomes “I’m unlikeable,” when the exclusion may just be one team’s norms. The fix: see whether the feeling eases in a different group (Room) or follows you everywhere (Story).  
+* **Story mistaken for Body** – A heaviness in the chest that shows up when you think about failing gets read as fatigue, when it’s the weight of a narrative. The fix: check whether the sensation lifts when you set the story down (Story) or stays put no matter what you think (Body).  
 
-In these situations the book’s guidance shifts from “fix the layer” to “work with the constraint.” The tools still matter—they stabilize higher layers, reduce unnecessary Pressure, and preserve Fuel—but they do not erase the immutable or currently constrained reality.  
-
----  
-
-### Counterexamples: when the model’s boundaries blur  
-
-The five‑layer map is a tool, not a law. There are edges where the layers overlap or where a symptom straddles two domains:  
-
-* **Psychotropic medication** – **Studies indicate that** a drug that alters neurotransmitter levels acts directly on Wiring, yet its side‑effects (weight gain, sedation) appear in Body. The model helps you notice whether a change in mood is due to the medication’s primary effect (Wiring) or its bodily side‑effects (Body).  
-* **Chronic pain** – **Research suggests that** persistent tissue damage (Body) can rewire threat circuits (Wiring) so that pain persists even after healing. The diagnostic sequence still applies, but you may need to address both layers simultaneously: treat the tissue (Body) while retraining the alarm (Wiring).  
-* **Caregiving as both Room and Story** – **Evidence indicates that** looking after an aging parent is a relational demand (Room) that can become woven into your identity (“I am the dutiful daughter”) (Story). The model lets you see whether the exhaustion stems from the logistical load (Room) or the narrative pressure (Story), or both.  
-* **Financial strain** – **Findings suggest that** low income limits your ability to buy nutritious food (Body) and creates constant worry (Wiring). The model encourages you to trace the symptom to its origin: is the tightness in your chest from hunger (Body) or from the fear of bills (Wiring)?  
-
-These cases do not invalidate the model; they show where you may need to hold two layers in mind at once, using the diagnostic questions repeatedly.  
+Each mix‑up points your tool at the wrong layer—which is exactly why the symptom seems to shrug it off.  
 
 ---  
 
-### Model limitations: what the framework does not claim  
+### When the lowest layer is truly fixed  
 
-The five layers and three currencies are a pragmatic map for everyday self‑understanding. They are not:  
+Sometimes the layer you’ve landed on really is fixed, and no amount of tool‑work higher up will move the symptom. These are the hard cases, and the model names them honestly:  
+
+* **An immutable Body constraint** – A congenital condition that caps your aerobic capacity will always leave you low on Fuel during exertion. Tools can smooth your pacing, nutrition, and recovery, but the underlying limit stays.  
+* **A currently constrained Wiring** – After a traumatic event, the threat system can stay switched on for weeks or months. Grounding, careful dosing of stimulation, and professional trauma work can help it recalibrate, but the wiring won’t turn off on command.  
+* **A Habit locked by the environment** – If you live in a food desert, the habit of reaching for fresh produce is blocked by plain lack of access. Changing the habit means changing the Room—joining a community garden, pushing for better supply.  
+* **A Story shaped by irreversible loss** – The narrative “I am a parent” after a child’s death can’t be rewritten to erase the loss. Instead, the story learns to hold the loss while keeping your other threads of identity alive.  
+* **A Room bound by law** – If a visa restricts your right to work, no amount of relational skill changes that legal fact. The move is to navigate the system or seek a change in status.  
+
+In all of these, the guidance shifts from “fix the layer” to “work with the constraint.” The tools still matter—they steady the higher layers, let off unnecessary Pressure, and protect your Fuel—but they don’t erase a limit that is immutable, or fixed for now.  
+
+---  
+
+### When it’s not what it looks like  
+
+The five‑layer map is a tool, not a law. There are edges where the layers overlap, or where a symptom straddles two of them at once:  
+
+* **Psychotropic medication** – A drug that shifts neurotransmitter levels acts directly on Wiring, yet its side‑effects—weight gain, sedation—show up in the Body. The map helps you notice whether a change in mood is the medication’s main effect (Wiring) or a bodily side‑effect (Body).  
+* **Chronic pain** – Persistent tissue damage (Body) can rewire the threat circuits (Wiring) so that pain lingers even after the healing is done. The sequence still holds, but you may need to work both layers at once: tend the tissue (Body) while retraining the alarm (Wiring).  
+* **Caregiving as both Room and Story** – Looking after an aging parent is a relational demand (Room) that can get woven right into who you are—“I am the dutiful daughter” (Story). The map lets you see whether the exhaustion is the logistical load (Room), the narrative pressure (Story), or both.  
+* **Financial strain** – A low income limits what nutritious food you can buy (Body) and runs a constant low worry (Wiring). The map asks you to trace the symptom back to its source: is the tightness in your chest from hunger (Body) or from the fear of the bills (Wiring)?  
+
+None of these break the model. They just show where you may need to hold two layers in mind at once, running the questions more than once.  
+
+---  
+
+### What this can’t do  
+
+The five layers and three currencies are a practical map for understanding yourself day to day. They are not:  
 
 * A substitute for medical diagnosis, psychiatric evaluation, or legal advice.  
-* A guarantee that every problem can be resolved through self‑directed work.  
-* A complete description of human psychology or sociology.  
-* A tool for predicting complex systemic outcomes (e.g., market crashes, epidemiological spread).  
+* A promise that every problem can be solved on your own.  
+* A complete account of human psychology or sociology.  
+* A way to predict big, tangled outcomes like market crashes or how a disease spreads.  
 
-When you encounter a situation that involves acute danger, severe mental health crisis, or clear legal violation, the model’s role is to help you notice what you are feeling and where it lives, then point you toward appropriate professional help, safety planning, or advocacy.  
+When you’re facing real danger, a severe mental health crisis, or a clear legal violation, the map’s job is small and honest: help you notice what you’re feeling and where it lives, then point you toward the professional help, safety planning, or advocacy you actually need.  
 
 ---  
 
@@ -1704,7 +1642,7 @@ Before we name the constraint, let’s clarify the word *faith* as it appears in
 
 ---  
 
-### Why the bottom layer sets the boundary  
+### Why the bottom layer sets the limit  
 
 The model’s layers stack like floors in a building: Body supports Wiring, Wiring supports Habit, Habit supports Room, Room supports Story. If the floor beneath you is uneven, everything above it will tilt, no matter how nicely you decorate the upper rooms. This is not metaphor; it is cause and effect. A depleted Body (poor sleep, chronic pain, hormonal dysregulation) leaves less energy for Wiring to regulate reactions, for Habit to sustain new routines, for Room to engage co‑regulation, and for Story to rewrite identity. The sequencing rule—Body → Wiring → Habit → Room → Story—exists because you cannot reliably fix a higher layer while the lower one is broken.  
 
@@ -1712,22 +1650,22 @@ When the bottom layer is *fixed* in a way that cannot be altered by volition (a 
 
 ---  
 
-### Failure modes: mistaking the constraint for something else  
+### Where people go wrong  
 
-Because the lower layers are less conscious, we often misread their signals.  
+Because the lower layers run quietly, out of sight, we often misread what they’re telling us.  
 
 - **Body mistaken for Wiring:** A heavy, leaden feeling (low Body Fuel) can feel like emotional numbness, leading you to try “mindset” fixes when the real need is nutrition or rest.  
 - **Body mistaken for Story:** Persistent fatigue might be narrated as “I’m lazy,” prompting self‑critique instead of a medical check or load adjustment.  
 - **Wiring mistaken for Body:** A racing heart from a threat response (high Wiring Charge) can be read as “I need more cardio,” when the intervention should be safety cues or breath work.  
 - **Habit mistaken for Room:** Skipping lunch because you’re “just not hungry” might actually be a workplace culture that discourages breaks; treating it as a personal habit fails to shift the environment.  
 
-Each misdiagnosis wastes energy because the intervention targets the wrong layer. The diagnostic tests in the Model Bible—checking for speed of arrival, narrative attachment, and contextual dependence—help you locate the true source before you act.  
+Each mix‑up wastes energy, because the fix lands on the wrong layer. The diagnostic tests—checking how fast a signal arrives, whether a story is attached to it, and whether it changes with context—help you find the real source before you act.  
 
 ---  
 
-### Hard cases: when the lowest layer won’t move  
+### When the lowest layer won’t move  
 
-Some constraints are effectively immutable on the timescale of personal effort:  
+Some constraints simply won’t shift on the timescale of personal effort:  
 
 - **Genetic or structural bodily limits** (e.g., a connective‑tissue disorder that limits joint stability, a neurodegenerative condition that reduces dopamine production).  
 - **Chronic illness in a stable phase** where symptom management is the ceiling of improvement.  
@@ -1738,9 +1676,9 @@ These are not problems to “solve” with more willpower; they are **constraint
 
 ---  
 
-### Counterexamples: when the model needs nuance  
+### When it’s not what it looks like  
 
-The five‑layer model is a diagnostic tool, not a universal law. It works best when the constraint is relatively stable and the layers are reasonably differentiated. Situations that strain the model include:  
+The five‑layer model is a tool, not a universal law. It works best when the constraint sits fairly still and the layers are reasonably distinct. A few situations stretch it:  
 
 - **Fluctuating conditions** (e.g., relapsing‑remitting MS where good days mask underlying progression). In these cases, the apparent “movement” of the constraint can fool the sequencing rule, leading to cycles of over‑exertion and crash.  
 - **Acute trauma** where all layers are temporarily overwhelmed; the usual bottom‑up sequence may be inverted as Story (shock‑driven narrative) drives immediate Wiring and Body responses.  
@@ -1750,9 +1688,9 @@ In these edge cases, the tool remains useful if you treat it as a *starting poin
 
 ---  
 
-### Model limitations: what this framework cannot do  
+### What this can’t do  
 
-Being clear about the tool’s borders protects you from false expectations. The Model Bible does **not**:  
+Being clear about the edges of this tool protects you from expecting the wrong things of it. It does **not**:  
 
 - **Alter immutable biology** (you cannot rewrite a gene that causes early‑onset Parkinson’s).  
 - **Replace structural change** (no amount of personal adaptation will eliminate systemic racism or a living‑wage gap).  
@@ -1763,9 +1701,9 @@ Recognizing these limits keeps the approach honest: you use the model to steward
 
 ---  
 
-### Worked adaptations: steadying the system above the constraint  
+### Steadying the system above the constraint  
 
-Below are four ways Maren (whose signature blur behind her eyes signals low Body Fuel) has learned to work with a fixed bodily limit rather than fight it. Each example keeps the narrative function of the original cases while using the Model Bible’s terminology and physical signature.  
+Here are four ways Maren—whose signature blur behind the eyes signals low Body Fuel—has learned to work with a fixed bodily limit instead of fighting it.  
 
 1. **Long‑COVID‑like fatigue** – Maren notices her legs feel like wet sand after any exertion, her thoughts fog, and her Charge drops rapidly. Instead of pushing through, she uses **Tool 4: Empty the Head** before her shift, caps her workday at four hours, and says “no” to extra tasks. The system stops fighting the fog and begins to work *with* it, leaving her Fuel more stable for essential activities.  
 
@@ -1828,7 +1766,7 @@ She dries her hands slowly, the towel catching on the rough patch on her thumb. 
 
 She knows she should feel something. Pride. Purpose. Even just relief that she’s still standing. But the feeling is gone. Not angry. Not sad. Just… flat. Like a screen that’s been left on too long and now only shows grey.  
 
-She presses her palms into the counter edge, the cool biting into her skin. Behind her eyes, the soft unfocus arrives—the blur that signals her Body layer is running on empty *(as research links visual blur to fatigue)*. She understands the system. She knows the layers. She’s read the book. And yet. The knowing sits in her head like a fact she memorized for a test. The willingness? That’s still missing.  
+She presses her palms into the counter edge, the cool biting into her skin. Behind her eyes, the soft unfocus arrives—the blur that signals her Body layer is running on empty. She understands the system. She knows the layers. She’s read the book. And yet. The knowing sits in her head like a fact she memorized for a test. The willingness? That’s still missing.  
 
 She exhales, long and slow, and wonders: *If I understand, why won’t I move?*  
 
@@ -1838,7 +1776,7 @@ She exhales, long and slow, and wonders: *If I understand, why won’t I move?*
 
 You’ve been here before. Not in this exact kitchen, maybe, but in the quiet flatness that comes after the knowing settles in. You’ve traced the layers. You’ve named the currencies. You’ve even tried the tools—once, twice, a handful of times. And yet. The system doesn’t move. Not because you don’t understand. But because understanding isn’t enough.  
 
-There are two kinds of knowing in a human system. The first is **belief**—the map. The set of things you hold to be true: *I am capable. This matters. The world works like this.* Belief is corrected by evidence. You test it against reality, and if it’s false, you update it—as research on belief revision shows. That’s how you debug a thought. That’s how you fix a belief.  
+There are two kinds of knowing in a human system. The first is **belief**—the map. The set of things you hold to be true: *I am capable. This matters. The world works like this.* Belief is corrected by evidence. You test it against reality, and if it’s false, you update it. That’s how you debug a thought. That’s how you fix a belief.  
 
 But belief isn’t what moves you.  
 
@@ -1853,32 +1791,32 @@ Belief is the map on the wall. Faith is the compass in your hand. And a system c
 Let’s look at four people, each stuck in the same flat place, each with a different body.  
 
 **Elena, 40, deputy headteacher.**  
-The spreadsheet is open. The numbers add up. The new path pays less but feels meaningful. The old path pays well but feels like a cage. Elena understands the system. Her Body is steady *(as research indicates, a balanced physiological state supports cognitive clarity)*. Her Wiring is calm *(studies show low threat reactivity aids emotional regulation)*. Her Habits are worn-in but not serving *(habit literature notes that well‑learned routines can persist even when they no longer serve goals)*.  
+The spreadsheet is open. The numbers add up. The new path pays less but feels meaningful. The old path pays well but feels like a cage. Elena understands the system. Her Body is steady. Her Wiring is calm. Her Habits are worn‑in but no longer serving her.  
 
-The belief? *“I’m too old to start over.”* That can be corrected—as research on belief revision indicates, contradictory evidence can update self‑beliefs. *“I’m not old. I’m experienced.”* The evidence is there. But the willingness to click “accept” on the resignation email isn’t. Because the risk isn’t just financial. It’s the risk of living a life that doesn’t align with what Elena still holds as true.  
+The belief? *“I’m too old to start over.”* That can be corrected. *“I’m not old. I’m experienced.”* The evidence is there. But the willingness to click “accept” on the resignation email isn’t. Because the risk isn’t just financial. It’s the risk of living a life that doesn’t align with what Elena still holds as true.  
 
-Behind her eyes, the uninvited sentence appears—a beat before she speaks, as if someone else is writing her captions: *“You should be further by now.”* That is her Story layer, a narrative identity built from early experiences and reinforced by years of external praise—as research on narrative identity shows. It can be edited with evidence, but the Story alone does not generate motion.  
+Behind her eyes, the uninvited sentence appears—a beat before she speaks, as if someone else is writing her captions: *“You should be further by now.”* That is her Story layer, a narrative identity built from early experiences and reinforced by years of praise. It can be edited with evidence, but the Story alone doesn’t generate motion.  
 
 **Maren, 34, night‑shift charge nurse.**  
-The love is still there. The care is still there. But the meaning has leaked away. Maren understands the system. Her Body is depleted from fragmented sleep and constant adrenaline—as sleep research shows, fragmented sleep and chronic adrenaline elevation reduce physical energy. Her Wiring is on high alert, reacting to every monitor beep—studies indicate that chronic threat cues keep the autonomic nervous system in heightened arousal. Her Habits of checking vitals and comforting patients are automatic, yet feel hollow—habit research shows that automatic behaviors can persist even when they feel meaningless.  
+The love is still there. The care is still there. But the meaning has leaked away. Maren understands the system. Her Body is depleted from fragmented sleep and constant adrenaline. Her Wiring is on high alert, reacting to every monitor beep. Her Habits of checking vitals and comforting patients are automatic now, yet they feel hollow.  
 
-The belief? *“I should feel fulfilled by this.”* That can be corrected—as research on belief updating shows, contradictory evidence can revise negative beliefs. *“I don’t have to feel fulfilled to be a good nurse.”* But the willingness to show up isn’t. Because the resentment isn’t about the patients. It’s about the story of what a *“good nurse”* looks like—and that story no longer fits her exhausted Body.  
+The belief? *“I should feel fulfilled by this.”* That can be corrected. *“I don’t have to feel fulfilled to be a good nurse.”* But the willingness to show up isn’t. Because the resentment isn’t about the patients. It’s about the story of what a *“good nurse”* looks like—and that story no longer fits her exhausted Body.  
 
-Her physical signature—a blur behind her eyes, the world slipping one frame behind her gaze—tells her Body is running on fumes *(as research links visual blur to fatigue)*. No amount of Story‑revision will restore energy if the Body layer remains unsupported.  
+Her physical signature—a blur behind her eyes, the world slipping one frame behind her gaze—tells her the Body is running on fumes. No amount of Story‑revision will restore energy while the Body layer goes unsupported.  
 
 **Callum, 22, final‑year architecture student.**  
-Used to run marathons. Now spends days in pain. Callum understands the system. His Body is the foundation, but injury has altered its capacity—as orthopedic research shows, physical injury reduces functional capacity. His Wiring is stuck in threat mode, flashing anger before he can think—studies indicate that chronic threat activation can produce rapid emotional reactions preceding conscious thought.  
+Used to run marathons. Now spends days in pain. Callum understands the system. His Body is the foundation, but injury has changed what it can do. His Wiring is stuck in threat mode, flashing anger before he can think.  
 
-The belief? *“I’m still the same person.”* That can be corrected—as research on self‑concept updating shows, contradictory evidence can revise identity beliefs. *“I’m still me, even with limits.”* But the willingness to keep going isn’t. Because the meaning isn’t about what his Body can do. It’s about what Callum still chooses to value despite the limits.  
+The belief? *“I’m still the same person.”* That can be corrected. *“I’m still me, even with limits.”* But the willingness to keep going isn’t. Because the meaning isn’t about what his Body can do. It’s about what Callum still chooses to value despite the limits.  
 
-His physical signature—a gear‑slip in his voice, words firing before thought catches up—shows his Wiring layer is hijacking his intention *(as research on speech dysfluency links to heightened arousal)*. Even a corrected Story (“I am still valuable”) cannot move him if his Wiring keeps flooding the system with threat signals.  
+His physical signature—a gear‑slip in his voice, words firing before thought catches up—shows his Wiring layer hijacking his intention. Even a corrected Story (“I am still valuable”) can’t move him while his Wiring keeps flooding the system with threat.  
 
 **Grace, 47, regional sales manager.**  
-Used to feel vital posting online. Now posts to crickets. Market indifference makes her question if her art ever mattered. Grace understands the system. Her Habits of posting and sharing are deeply grooved—as habit research shows, repeated behaviors become automatic grooves. Her Wiring seeks validation, a pattern learned early—attachment research indicates early validation‑seeking patterns can persist.  
+Used to feel vital posting online. Now posts to crickets. The market’s indifference makes her question whether her art ever mattered. Grace understands the system. Her Habits of posting and sharing are deeply grooved. Her Wiring reaches for validation, a pattern learned early.  
 
-The belief? *“No one cares about this.”* That can be corrected—as research on belief updating shows, contradictory evidence can revise negative beliefs. *“Some people care; not everyone has to.”* But the willingness to keep creating isn’t. Because the meaning isn’t in the market’s response. It’s in the choice to make the art anyway.  
+The belief? *“No one cares about this.”* That can be corrected. *“Some people care; not everyone has to.”* But the willingness to keep creating isn’t. Because the meaning isn’t in the market’s response. It’s in the choice to make the art anyway.  
 
-Her physical signature—a groove in her routine, her hands reaching for keys, phone, bag in the same order every morning—reveals a Habit layer that runs on autopilot *(as behavioral automation literature describes)*. When the Habit no longer serves her Story, the system feels flat, even if her Body and Wiring are tolerable.  
+Her physical signature—a groove in her routine, her hands reaching for keys, phone, bag in the same order every morning—reveals a Habit layer running on autopilot. When the Habit no longer serves her Story, the system feels flat, even when her Body and Wiring are holding up fine.  
 
 ---  
 
@@ -1891,8 +1829,6 @@ The flatness isn’t a failure of understanding. It’s a failure of direction. 
 ### The compass in the dark  
 
 Faith isn’t religion here. It’s a capacity every human has—the ability to trust that something matters even when you can’t see proof. The devout reader points it at God. The secular reader points it at nature, or humanity, or the work, or the people they love. The *function* is the same. The object is yours to choose.  
-
-Research on meaning‑making shows that humans possess a capacity to trust in valued ends even absent immediate proof (e.g., Snyder’s hope theory).  
 
 But when the compass stops working, the system doesn’t move. Because a system without direction doesn’t idle. It drifts. And drifting feels like flatness.  
 
@@ -1914,91 +1850,79 @@ Grace’s value: *“I still choose creation over validation.”* Not because it
 
 ---  
 
-### Mechanism: why values bypass the feeling gap  
+### Why values can move you when the feeling can’t  
 
-When the Body layer is depleted (low Fuel, high Pressure), the system’s Charge drops—you feel flat, unmotivated *(research on autonomic regulation shows that low physiological energy correlates with reduced arousal and motivation)*. The Wiring layer may be stuck in threat or shutdown, sending urgent signals that drown out quieter impulses *(studies indicate that heightened threat reactivity can overwhelm goal‑directed processing)*. The Habit layer runs on autopilot, repeating what once worked but no longer fits *(habit literature notes that automatic behaviors persist despite changing goals)*. The Story layer can be edited with new evidence, but if the lower layers are in crisis, the revised narrative lacks the energetic push to become action *(narrative psychology suggests that belief change requires sufficient physiological and emotional resources)*.  
+When the Body layer is empty—low Fuel, high Pressure—your Charge drops, and you feel flat and unmotivated. The Wiring layer may be stuck in threat or shutdown, firing urgent signals that drown out the quieter impulses. The Habit layer runs on autopilot, repeating what once worked but no longer fits. The Story layer can be edited with new evidence, but while the lower layers are in crisis, the revised narrative has no energy behind it to become action.  
 
-Values operate at the Story layer but act as a *directive* that can be felt even when Charge is low. They are not dependent on emotional arousal; they are a cognitive‑behavioral anchor *(cognitive‑behavioral therapy shows that values can guide behavior independent of momentary mood)*. By naming a value (“I still choose presence over perfection”), you give the Habit layer a new cue‑routine‑reward loop to practice *(habit formation research shows that specifying a value can serve as a cue for new routines)*. You give the Wiring layer a competing signal that can, over time, reduce threat reactivity *(studies on emotion regulation show that competing appraisals can dampen threat responses over time)*. You give the Body layer a reason to move, however slightly, which begins to restore Fuel through action‑induced circulation *(exercise physiology indicates that even light movement can increase energy expenditure and improve perceived energy)*.  
+Values live at the Story layer, but they work differently—as a direction you can hold even when Charge is low. They don’t need an emotional charge to run; they’re an anchor you can act from no matter the mood. Name a value—“I still choose presence over perfection”—and you hand the Habit layer a new loop to practice. You hand the Wiring layer a competing signal that can, over time, quiet the threat response. You hand the Body a reason to move, however slightly, and that small motion begins to restore Fuel.  
 
-In short: values translate the abstract “what matters” into a concrete, repeatable behavior that the lower layers can learn, even when they are not feeling motivated *(this aligns with theories of embodied cognition)*.  
+In short: a value turns the vague “what matters” into a concrete, repeatable action the lower layers can learn—even on the days they don’t feel like it.  
 
 ---  
 
-### Failure modes: common mistakes when trying to restore faith  
+### Where people go wrong trying to restore faith  
 
 1. **Confusing belief with faith.**  
    Trying to “believe harder” (e.g., repeating affirmations) when the missing piece is willingness to act without feeling. Belief lives in the Story layer; faith lives in the willingness to behave despite low Charge.  
    *Correction:* Separate the two questions: *What do I believe to be true?* (Story) and *What am I willing to do even if I don’t feel it?* (faith/compass).  
-   *(Psychological research distinguishes belief (cognitive acceptance) from faith (behavioral commitment).)*  
 
 2. **Forcing feeling.**  
    Attempting to generate emotion through willpower (“I should feel passionate!”) ignores the Body‑Wiring axis. When Fuel is low, the system cannot sustain high Charge; forcing feeling only increases Pressure and leads to burnout.  
-   *Correction:* Work with the Body layer first—rest, nourish, move gently—to increase Fuel, then let values guide small actions.  
-   *(Research on self‑regulation shows that effortful emotion generation can deplete physiological resources and increase stress.)*  
+   *Correction:* Work with the Body layer first—rest, nourish, move gently—to build Fuel, then let values guide small actions.  
 
 3. **Ignoring layer constraints.**  
    Attempting to change a Story‑level value while the Body is depleted or the Wiring is threatened is like trying to rewrite software while the hardware is overheating. The lower layers will reject the new narrative as unsafe.  
-   *Correction:* Follow the diagnostic sequence: Body → Wiring → Habit → Room → Story. Stabilise the lower layer before expecting the Story to hold.  
-   *(Systems theory notes that higher‑level change is limited by lower‑level stability.)*  
+   *Correction:* Follow the sequence: Body → Wiring → Habit → Room → Story. Steady the lower layer before expecting the Story to hold.  
 
 4. **Mistaking values for goals.**  
    Treating a value like “I still choose integrity” as a target to achieve (“I will be perfectly honest”) turns it into a Habit‑level performance metric. When the goal isn’t met, shame arises, further depleting Fuel.  
-   *Correction:* Keep values as directional cues, not endpoints. Notice the direction, not the arrival.  
-   *(Goal‑setting research shows that treating values as rigid goals can lead to shame and reduced motivation.)*  
+   *Correction:* Keep values as directions, not endpoints. Notice the direction, not the arrival.  
 
 ---  
 
-### Hard cases: when values feel inaccessible  
+### When values feel out of reach  
 
-Even with the mechanism understood, some readers find the compass stubbornly stuck. These are not failures of the model but signals that a lower layer needs attention before values can engage.  
+Even once you understand how this works, you may find the compass stubbornly stuck. That’s not a failure of the model. It’s a signal that a lower layer needs attention before values can take hold.  
 
-* **Body‑level hard case:** Chronic pain or illness that leaves no usable Fuel. Example: Maren’s Body is so depleted that any attempt to act from her value of “presence” triggers exhaustion and shame.  
-  *Response:* Prioritise Body recovery—sleep, nutrition, medical care—before attempting values‑based action. Small, non‑demanding movements (stretching, breathing) can begin to rebuild Fuel.  
-  *(Chronic pain research shows that illness reduces available energy; graded activity can help rebuild capacity.)*  
+* **When it’s the Body:** Chronic pain or illness that leaves no usable Fuel. Maren’s Body is so depleted that any attempt to act from her value of “presence” tips her into exhaustion and shame.  
+  *Response:* Put Body recovery first—sleep, nutrition, medical care—before reaching for values‑based action. Small, undemanding movements like stretching or breathing can start to rebuild Fuel.  
 
-* **Wiring‑level hard case:** Trauma‑driven threat response that interprets any forward motion as danger. Example: Callum’s Wiring flashes fear when he considers applying for jobs, interpreting the act as risk of rejection.  
-  *Response:* Use Wiring‑specific tools (grounding, breathwork, titration of exposure) to reduce threat activation before values can guide behaviour.  
-  *(Trauma studies indicate that grounding and exposure can reduce threat reactivity.)*  
+* **When it’s the Wiring:** A trauma‑driven threat response that reads any step forward as danger. Callum’s Wiring flashes fear the moment he considers applying for jobs, treating the act itself as a risk of rejection.  
+  *Response:* Use Wiring tools—grounding, breathwork, easing into exposure a little at a time—to quiet the threat before you expect values to guide you.  
 
-* **Habit‑level hard case:** Deeply grooved avoidance patterns that feel safer than any value‑aligned action. Example: Grace’s Habit of scrolling numbs the discomfort of her value‑driven creation.  
-  *Response:* Disrupt the groove with a micro‑habit that mirrors the value (e.g., opening the sketchbook for two minutes) to create a competing automaticity.  
-  *(Habit change literature shows that micro‑habits can compete with entrenched routines.)*  
+* **When it’s the Habit:** Deeply grooved avoidance that feels safer than any value‑aligned action. Grace’s habit of scrolling numbs the discomfort of actually creating.  
+  *Response:* Interrupt the groove with a micro‑habit that points at the value—opening the sketchbook for two minutes—so a new automatic pattern can start to compete with the old one.  
 
-* **Room‑level hard case:** A relational field that punishes value‑aligned behaviour. Example: Elena’s workplace culture rewards overwork; attempting to leave on time (her value of “presence”) draws criticism.  
-  *Response:* Assess whether the Room is a currently constrained or externally imposed situation (see Chapter 9 taxonomy) and decide whether to adapt internally, seek allies, or change environment.  
-  *(Organizational psychology notes that workplace norms can constrain behavior; seeking allies or altering environment are evidence‑based strategies.)*  
+* **When it’s the Room:** A relational field that punishes value‑aligned behavior. Elena’s workplace rewards overwork, so leaving on time—her value of “presence”—draws criticism.  
+  *Response:* Work out whether the Room is a currently constrained or an externally imposed situation (see the five kinds of constraint in Chapter 9), then decide whether to adapt inside it, find allies, or change your environment.  
 
-* **Story‑level hard case:** A core identity belief that contradicts the value (“I am a burden” vs. “I still choose presence”).  
-  *Response:* Apply the Wiring‑vs‑Story discrimination test. If the belief arrives pre‑thought with no narrative, treat it as a Wiring issue; if it is a sentence you can hear, treat it as Story and begin gentle revision.  
-  *(Research on self‑concept distinguishes automatic self‑beliefs (implicit) from explicit narratives.)*  
+* **When it’s the Story:** A core belief about who you are that cuts against the value—“I am a burden” versus “I still choose presence.”  
+  *Response:* Run the Wiring‑vs‑Story test. If the belief lands before thought, with no narrative attached, treat it as Wiring. If it’s a sentence you can hear, treat it as Story and begin revising it gently.  
 
 ---  
 
-### Counterexamples: when the model needs nuance  
+### When it’s not what it looks like  
 
 1. **Faith as denial.**  
-   Sometimes what looks like faith (“I just know it will work out”) is actually a Story‑layer avoidance of uncomfortable data (e.g., ignoring financial reality).  
-   *Model response:* Use the two‑question diagnostic: Which layer? (Story) What’s it costing you? (Pressure from avoided truth). Then apply Story‑layer tools: seek evidence, revise the narrative.  
-   *(Research on motivated reasoning shows that belief can serve as denial of disconfirming evidence.)*  
+   Sometimes what looks like faith—“I just know it will work out”—is really the Story layer dodging uncomfortable facts, like an unpaid stack of bills.  
+   *What to do:* Run the two questions. Which layer? (Story.) What’s it costing you? (Pressure from the truth you’re avoiding.) Then use Story tools: go find the evidence, and revise the narrative.  
 
 2. **Values that harm.**  
-   A value like “I still choose loyalty to my family” may keep someone in an abusive Room.  
-   *Model response:* Recognise the Room as an unsafe situation (Chapter 9, category 5). The appropriate response is exit, boundary, or safety plan—not internal adaptation.  
-   *(Domestic violence research indicates that loyalty values can impede leaving abusive situations.)*  
+   A value like “I still choose loyalty to my family” can keep someone inside an abusive Room.  
+   *What to do:* Name the Room for what it is—an unsafe situation (Chapter 9, the fifth kind of constraint). The right response is to leave, set a hard boundary, or make a safety plan—never to adapt internally and stay.  
 
-3. **External validation as a temporary compass.**  
-   Relying on praise or metrics to feel direction works until the feedback stops, revealing that the compass was never internal.  
-   *Model response:* Treat the reliance on external signals as a Habit‑ or Wiring‑level pattern; rebuild internal values through small, repeatable choices that do not depend on outside approval.  
-   *(Studies on extrinsic motivation show that reliance on external feedback can undermine intrinsic drive.)*  
+3. **External validation as a borrowed compass.**  
+   Leaning on praise or metrics for a sense of direction works right up until the feedback stops—and then you see the compass was never really yours.  
+   *What to do:* Treat that reliance on outside signals as a Habit or Wiring pattern, and rebuild your own values through small, repeatable choices that don’t depend on anyone’s approval.  
 
 ---  
 
-### Model limitations: what this framework does not prescribe  
+### What this can’t do  
 
-- **The model does not tell you what values to hold.** It offers a method to discover and act from the values you already possess, however faint.  
-- **It does not replace professional care for trauma, psychosis, or severe mood disorders.** Those conditions may require clinical intervention that operates on the Body or Wiring layers before the model’s tools can be effective.  
-- **It does not guarantee external outcomes.** Acting from values may not produce the desired result in a hostile Room or under immutable constraints; the model’s promise is internal alignment, not worldly success.  
-- **It is not a substitute for systemic change.** When the Room is an externally imposed constraint (Chapter 9, category 3), the model supports personal resilience but does not negate the need to challenge the external system.  
+- **It won’t tell you what to value.** It gives you a way to find and act from the values you already hold, however faint they’ve grown.  
+- **It won’t replace professional care for trauma, psychosis, or severe mood disorders.** Those can need clinical help working at the Body or Wiring layer before any of these tools can do their part.  
+- **It won’t guarantee the outcome.** Acting from your values may not get you what you want inside a hostile Room or under an immutable constraint. What it offers is internal alignment, not worldly success.  
+- **It won’t stand in for systemic change.** When the Room is an externally imposed constraint (Chapter 9, the third kind of constraint), this approach can shore up your own resilience, but it doesn’t remove the need to challenge the system itself.  
 
 ---  
 
@@ -2095,7 +2019,7 @@ Some lines repeat.
 > *“I’m the kind of person who snaps when I’m hungry.”*  
 > *“I can’t focus when I haven’t slept.”*  
 
-If the same layer keeps appearing, that’s not a failure. That’s a *constraint*—the layer that sets the ceiling for everything above it **(as this model describes)**. The map shows you where to start *next time*.  
+If the same layer keeps appearing, that’s not a failure. That’s a *constraint*—the layer that sets the ceiling for everything above it. The map shows you where to start *next time*.  
 
 ### 2. The currency that drained you  
 
@@ -2105,7 +2029,7 @@ Some lines describe the *cost*.
 > *“I feel wired but empty.”*  
 > *“Everything feels like an effort.”*  
 
-Those aren’t moods. They’re gauges. The map shows you which currency you’ve been running on fumes—charge, pressure, or fuel—and which tools actually refilled it **(according to the model’s currency definitions)**.  
+Those aren’t moods. They’re gauges. The map shows you which currency you’ve been running on fumes—charge, pressure, or fuel—and which tools actually refilled it.  
 
 ### 3. The tools that worked (and the ones that didn’t)  
 
@@ -2125,7 +2049,7 @@ Some lines make you wince.
 > *“I can’t trust anyone.”*  
 > *“I’m falling apart.”*  
 
-Those aren’t you. They’re *armor*—old stories that once protected you but now just weigh you down. The map shows you which lines you’ve already outgrown **(as the model notes)**.  
+Those aren’t you. They’re *armor*—old stories that once protected you but now just weigh you down. The map shows you which lines you’ve already outgrown.  
 
 ### 5. The ripples  
 
@@ -2135,23 +2059,23 @@ Some lines record the shift.
 > *“I finished the project without dread.”*  
 > *“I reached out to someone I’d been avoiding.”*  
 
-Those aren’t wins. They’re *ripples*—the moment a fix at one layer made something easier two layers up. The map shows you how cause‑and‑effect actually works in *your* system **(as the model proposes)**.  
+Those aren’t wins. They’re *ripples*—the moment a fix at one layer made something easier two layers up. The map shows you how cause‑and‑effect actually works in *your* system.  
 
 ---  
 
-## Mechanism: Why lower layers constrain higher ones  
+## Why the lower layers come first  
 
-Before we look at the worked examples, it helps to see why the map’s ripples always flow upward. **According to this model:** the Body layer is the physical platform you run on—when it lacks sleep, food, or movement, every signal above it grows noisy or weak. Wiring runs on that platform; when the body is depleted, threat responses fire more easily and recovery slows. Habit depends on both: a tired body and a jangling wiring make it harder to insert a new routine or sustain an old one. Room reflects the state of the lower layers—if you’re running on empty, you withdraw or snap at others. Story sits on top; it can only shift when the foundations are stable enough to let a new narrative take hold.  
+Before we look at the worked examples, it helps to see why the map’s ripples always flow upward. The Body layer is the physical platform you run on—when it lacks sleep, food, or movement, every signal above it grows noisy or weak. Wiring runs on that platform; when the body is depleted, threat responses fire more easily and recovery slows. Habit depends on both: a tired body and a jangling wiring make it harder to insert a new routine or sustain an old one. Room reflects the state of the lower layers—if you’re running on empty, you withdraw or snap at others. Story sits on top; it can only shift when the foundations are stable enough to let a new narrative take hold.  
 
 Thus, when you fix a lower‑layer problem, you often see improvements in the layers above—not because you worked on them directly, but because the constraint has eased. The map makes those ripples visible.  
 
 ---  
 
-## Failure modes: Common mistakes in reading the map  
+## Common mistakes in reading your map  
 
 Each layer has a typical misreading that can send you down the wrong path.  
 
-- **Body mistaken for Wiring:** A racing heart from caffeine (Body) feels like anxiety (Wiring). If you treat it as wiring, you might miss the simple fix of cutting back on coffee **(as the model notes)**.  
+- **Body mistaken for Wiring:** A racing heart from caffeine (Body) feels like anxiety (Wiring). If you treat it as wiring, you might miss the simple fix of cutting back on coffee.  
 - **Wiring mistaken for Story:** A flash of shame that arrives before thought (Wiring) gets narrated as “I’m a terrible person” (Story). Working only on the story leaves the automatic firing untouched.  
 - **Habit mistaken for Room:** You snap at your partner only when they’re late (Room), but you assume it’s a habit of impatience. Changing the habit won’t help if the trigger is relational.  
 - **Room mistaken for Story:** You feel excluded at work (Room) and conclude “Nobody likes me” (Story). The story persists even after you move teams because the belief was never tested.  
@@ -2264,7 +2188,7 @@ The body fix (movement + protein) steadied the wiring (less alarm). The habit fi
 
 ---  
 
-## Hard cases: When the lowest layer won’t move  
+## When the lowest layer won’t move  
 
 Sometimes the map shows a line that repeats, month after month, despite honest effort. That’s a hard case—the lowest layer that won’t budge, and it blocks everything above.  
 
