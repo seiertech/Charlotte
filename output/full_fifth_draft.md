@@ -205,11 +205,11 @@ I’ve been there—standing in the kitchen at 3 p.m., the coffee cold, the to
 
 The same chain shows up everywhere, wearing different faces but the same shape:
 
-- **At work:** A manager snaps at a minor delay after a poor night’s sleep. The voice tightens. The room feels suddenly hot. The body feels like a wire pulled too tight. *(Dinges et al., 1997 — sleep deprivation increases irritability; Meerlo et al., 2008 — sleep loss elevates stress hormones)*  
-- **At home:** A parent loses patience with a child after a long day. The hands grip the counter. The breath comes shallow. The child’s voice sounds like nails on a board. *(Dinges et al., 1997 — fatigue lowers frustration tolerance)*  
-- **In the body:** Foggy and irritable after poor sleep. The eyes feel gritty. The thoughts move like syrup. The body feels thin, stretched too thin. *(Killgore, 2010 — sleep deprivation impairs cognition and mood; commonly reported ocular gritty sensation with fatigue)*  
-- **In relationships:** A couple arguing over something small after a stressful day. The words come out sharper than intended. The silence after feels heavier than the fight. *(Cacioppo & Hawkley, 2009 — social stress amplifies interpersonal conflict)*  
-- **In health:** A patient feeling exhausted and snapping at a nurse after a sleepless night. The voice is flat. The eyes burn. The nurse’s presence feels like an intrusion. The reaction seems disproportionate. The cause lives somewhere else entirely. *(Leproult et al., 1997 — one week of sleep restriction raises cortisol and subjective exhaustion)*  
+- **At work:** A manager snaps at a minor delay after a poor night’s sleep. The voice tightens. The room feels suddenly hot. The body feels like a wire pulled too tight.^1^  
+- **At home:** A parent loses patience with a child after a long day. The hands grip the counter. The breath comes shallow. The child’s voice sounds like nails on a board.^2^  
+- **In the body:** Foggy and irritable after poor sleep. The eyes feel gritty. The thoughts move like syrup. The body feels thin, stretched too thin.^3^  
+- **In relationships:** A couple arguing over something small after a stressful day. The words come out sharper than intended. The silence after feels heavier than the fight.^4^  
+- **In health:** A patient feeling exhausted and snapping at a nurse after a sleepless night. The voice is flat. The eyes burn. The nurse’s presence feels like an intrusion. The reaction seems disproportionate. The cause lives somewhere else entirely.^5^  
 
 ---
 
@@ -220,21 +220,21 @@ At 3 p.m. on a Tuesday, five different people all snap at something small. Sam
 - **Maren** (34, night‑shift charge nurse)  
   The coworker asks for a minor favor—*“Can you check this number?”*—and Maren’s vision blurs behind her eyes before the words are out. Her voice rises, too high, too sharp.  
   *“I’m in the middle of something.”*  
-  The room feels like it’s shrinking. Her body remembers the exhaustion before her mind does—five hours of sleep, no lunch, the hollow behind the eyes. The snap isn’t about the coworker. It’s about the body running on fumes. *(Body register: blur)* *(often reported with sleep deprivation: visual blur and heightened vocal pitch)*  
+  The room feels like it’s shrinking. Her body remembers the exhaustion before her mind does—five hours of sleep, no lunch, the hollow behind the eyes. The snap isn’t about the coworker. It’s about the body running on fumes.  
 
 - **Callum** (22, final‑year architecture student)  
-  The team brainstorm spirals. Too many voices. Too many ideas. Callum’s mouth fires before his thinking catches up—a gear‑slip in his voice—and he hears himself say, *“I need air,”* then stands abruptly and walks out. The team exchanges glances. He’s been doing this a lot lately. The freeze isn’t about the meeting. It’s about the wiring—overloaded, stuck in shutdown. *(Wiring register: gear‑slip, reaction‑before‑decision)* *(LeDoux, 2000 — amygdala‑driven threat responses fire before cortical appraisal; Kahneman, 2011 — cognitive load promotes impulsive reactions)*  
+  The team brainstorm spirals. Too many voices. Too many ideas. Callum’s mouth fires before his thinking catches up—a gear‑slip in his voice—and he hears himself say, *“I need air,”* then stands abruptly and walks out. The team exchanges glances. He’s been doing this a lot lately. The freeze isn’t about the meeting. It’s about the wiring—overloaded, stuck in shutdown.^6^  
 
 - **Grace** (47, regional sales manager)  
   The client asks for *“just one more revision.”* Grace’s feet tap restlessly under the table. The body feels like it’s on autopilot.  
-  *“Sure, no problem,”* she hears herself say. The words come out before the brain catches up. Later, resentment simmers—another yes she didn’t mean, another task piling onto the stack. The automatic yes isn’t about the client. It’s about the habit—a worn‑in path, no system to say no. *(Habit register: groove, automaticity)* *(Quinn et al., 2010 — habit performance increases under cognitive load; Baumeister et al., 1998 — self‑control depletion favors automatic routines)*  
+  *“Sure, no problem,”* she hears herself say. The words come out before the brain catches up. Later, resentment simmers—another yes she didn’t mean, another task piling onto the stack. The automatic yes isn’t about the client. It’s about the habit—a worn‑in path, no system to say no.^7^  
 
 - **Marcus** (58, semi‑retired carpenter volunteering at a men’s shed)  
   His partner mentions the dishes. Marcus feels a weather change in the room when he enters—a slight drop in temperature everyone senses but nobody names, the pulled‑back quiet that makes people speak more gently around him. His back pulls back. The air in the room feels thick.  
-  *“I’ll do them later,”* he says, but the tone is wrong—too tight, too sharp. He leaves the room. The guilt comes later, sitting like a stone in the stomach. He’s been doing this a lot lately—walking away when the conversation gets tense. The retreat isn’t about the dishes. It’s about the room—the environment feels draining, unsafe. *(Room register: temperature, weather)* *(IJzerman & Semin, 2009 — ambient temperature influences social perception; Evans, 2003 — chronic environmental stressors sustain physiological arousal)*  
+  *“I’ll do them later,”* he says, but the tone is wrong—too tight, too sharp. He leaves the room. The guilt comes later, sitting like a stone in the stomach. He’s been doing this a lot lately—walking away when the conversation gets tense. The retreat isn’t about the dishes. It’s about the room—the environment feels draining, unsafe.^8^  
 
 - **Elena** (40, deputy headteacher)  
-  A colleague makes a neutral comment—*“You’ve been quiet in meetings lately.”* Elena’s spine folds inward. The uninvited sentence appears behind her eyes a beat before she speaks: *“They think I’m failing.”* The body feels like it’s shrinking. The words come out before she can stop them—*“I’ve just been busy.”* The colleague blinks. The conversation moves on. Later, Elena spirals—*Did they mean something else? Are they disappointed in me?* The spiral isn’t about the comment. It’s about the story—the narrative running underneath makes neutral feel like threat. *(Story register: narration, the uninvited sentence)* *(Beck, 1976 — cognitive schemas bias interpretation of ambiguous social cues toward threat)*  
+  A colleague makes a neutral comment—*“You’ve been quiet in meetings lately.”* Elena’s spine folds inward. The uninvited sentence appears behind her eyes a beat before she speaks: *“They think I’m failing.”* The body feels like it’s shrinking. The words come out before she can stop them—*“I’ve just been busy.”* The colleague blinks. The conversation moves on. Later, Elena spirals—*Did they mean something else? Are they disappointed in me?* The spiral isn’t about the comment. It’s about the story—the narrative running underneath makes neutral feel like threat.^9^  
 
 ---
 
@@ -274,7 +274,7 @@ If you notice a pattern, don’t rush to change it. Just let the pattern exist f
 
 **WHY THE SNAP HAPPENS: A MECHANISM LOOK**
 
-The 3 p.m. snap isn’t random; it’s a predictable output when the system’s lower layers are depleted. When the Body layer runs low on sleep or fuel, physiological stress hormones rise, priming the Wiring layer for a threat response. *(Meerlo et al., 2008 — sleep loss elevates cortisol; McEwen, 1998 — allostatic load primes amygdala reactivity)* That heightened wiring makes the Habit layer more likely to fire automatic scripts—like snapping or withdrawing—without conscious checks. *(Quinn et al., 2010 — habit expression increases under arousal; Schmeichel et al., 2003 — self‑control depletion shifts behavior to habitual patterns)* Meanwhile, the Room layer amplifies the effect: a tense environment feeds the wiring, and the Story layer interprets the surge as personal failure. *(Evans, 2003 — noisy, overcrowded settings raise sympathetic tone; Beck, 1976 — negative self‑schemas color affective experience)* Understanding this cascade shows why fixing only the outward reaction (e.g., “just breathe”) often fails; the pressure is building upstream.  
+The 3 p.m. snap isn’t random; it’s a predictable output when the system’s lower layers are depleted. When the Body layer runs low on sleep or fuel, physiological stress hormones rise, priming the Wiring layer for a threat response.^10^ That heightened wiring makes the Habit layer more likely to fire automatic scripts—like snapping or withdrawing—without conscious checks.^11^ Meanwhile, the Room layer amplifies the effect: a tense environment feeds the wiring, and the Story layer interprets the surge as personal failure.^12^ Understanding this cascade shows why fixing only the outward reaction (e.g., “just breathe”) often fails; the pressure is building upstream.  
 
 ---
 
@@ -283,9 +283,9 @@ The 3 p.m. snap isn’t random; it’s a predictable output when the system’
 People often mislocate the cause of the snap, leading to ineffective fixes:
 
 - **Blaming Character:** “I’m just short‑tempered.” This treats the symptom as a fixed trait, ignoring the layered causality.  
-- **Targeting the Story:** Repeating affirmations like “I am enough” while the body is still exhausted. The narrative may shift, but the wiring remains primed, so the snap returns. *(research suggests cognitive interventions are less effective when physiological arousal remains high; Thayer et al., 2012 — heart‑rate variability indexes prefrontal regulation of amygdala)*  
-- **Focusing on Room Alone:** Changing jobs or partners to escape a “toxic” environment, yet carrying the same depleted body and wiring into the new setting. The pattern reproduces because the lower layers remain unchanged. *(McEwen, 1998 — allostatic load persists across contexts)*  
-- **Over‑Correcting Habit:** Forcing a new routine (e.g., “I’ll meditate at 3 p.m.”) without addressing the underlying fuel deficit. The habit collapses when willpower runs out, reinforcing the belief “I can’t stick to anything.” *(Baumeister et al., 1998 — ego depletion undermines sustained effortful behavior)*  
+- **Targeting the Story:** Repeating affirmations like “I am enough” while the body is still exhausted. The narrative may shift, but the wiring remains primed, so the snap returns.^13^  
+- **Focusing on Room Alone:** Changing jobs or partners to escape a “toxic” environment, yet carrying the same depleted body and wiring into the new setting. The pattern reproduces because the lower layers remain unchanged.^14^  
+- **Over‑Correcting Habit:** Forcing a new routine (e.g., “I’ll meditate at 3 p.m.”) without addressing the underlying fuel deficit. The habit collapses when willpower runs out, reinforcing the belief “I can’t stick to anything.”^15^  
 
 ---
 
@@ -293,11 +293,11 @@ People often mislocate the cause of the snap, leading to ineffective fixes:
 
 Sometimes the snap continues even after addressing the obvious layer. Consider:
 
-- **Chronic Pain (Body):** A person improves sleep and nutrition, yet still snaps at 3 p.m. Undiagnosed inflammation keeps the body in a low‑grade threat state, keeping wiring sensitized. *(Dantzer et al., 2008 — peripheral cytokines signal sickness behavior and heighten amygdala reactivity)*  
-- **Trauma‑Wired Shutdown (Wiring):** Despite adequate rest, a sudden noise triggers a freeze response because early‑wired threat circuits fire before cognition. *(van der Kolk, 2014 — PTSD maintains hyperactive threat circuits that bypass cortical processing)*  
-- **Embedded Habit Loops (Habit):** A person quits a job to escape automatic “yes” patterns, but the same approval‑seeking habit reappears in new relationships because the cue‑routine‑reward cycle is unchanged. *(Quinn et al., 2010 — habit loops persist when contextual cues and rewards are stable)*  
-- **Chronic Room Stress (Room):** Leaving a hostile workplace helps, but if the person lives in a chronically noisy, overcrowded neighborhood, the ambient pressure keeps the room layer activated. *(Evans, 2003 — chronic neighborhood noise sustains stress‑axis activation)*  
-- **Deep‑Story Beliefs (Story):** Updating the narrative “I am capable” fails when an early‑wired belief “I’m not safe” keeps the story in threat mode; the story keeps regenerating as long as the wiring fires. *(Beck, 1976 — early maladaptive schemas drive automatic negative self‑narratives)*  
+- **Chronic Pain (Body):** A person improves sleep and nutrition, yet still snaps at 3 p.m. Undiagnosed inflammation keeps the body in a low‑grade threat state, keeping wiring sensitized.^16^  
+- **Trauma‑Wired Shutdown (Wiring):** Despite adequate rest, a sudden noise triggers a freeze response because early‑wired threat circuits fire before cognition.^17^  
+- **Embedded Habit Loops (Habit):** A person quits a job to escape automatic “yes” patterns, but the same approval‑seeking habit reappears in new relationships because the cue‑routine‑reward cycle is unchanged.^18^  
+- **Chronic Room Stress (Room):** Leaving a hostile workplace helps, but if the person lives in a chronically noisy, overcrowded neighborhood, the ambient pressure keeps the room layer activated.^19^  
+- **Deep‑Story Beliefs (Story):** Updating the narrative “I am capable” fails when an early‑wired belief “I’m not safe” keeps the story in threat mode; the story keeps regenerating as long as the wiring fires.^20^  
 
 ---
 
@@ -305,10 +305,10 @@ Sometimes the snap continues even after addressing the obvious layer. Consider:
 
 The snap‑as‑symptom framework captures many everyday moments, but edge cases remind us to stay humble:
 
-- **Positive Snap:** A burst of irritation that fuels a needed boundary (“I won’t take on extra work”) can be adaptive, not a sign of depletion. Here the snap reflects a healthy wiring response to a genuine limit, not a system failure. *(Lazarus, 1991 — anger can serve a motivational, boundary‑setting function)*  
-- **Medication‑Induced Reactivity:** Certain stimulants or withdrawal states cause jitteriness and snapping independent of sleep or stress levels, showing that body chemistry can override the usual layer hierarchy. *(Fredholm et al., 1999 — caffeine antagonizes adenosine receptors, increasing arousal irrespective of prior sleep)*  
-- **Cultural Scripts:** In some contexts, speaking sharply is a normalized communication style; what reads as a snap to an outsider is simply habitual tone, highlighting how room and story norms shape perception. *(Matsumoto, 2006 — cultural display rules dictate what counts as an “appropriate” emotional expression)*  
-- **Flow States:** Occasionally, high charge and low pressure produce razor‑sharp focus that looks like irritation to an observer but is actually productive energy, reminding us that currency readings must be interpreted in context. *(Csikszentmihalyi, 1990 — flow describes optimal experience characterized by deep absorption and low perceived effort)*  
+- **Positive Snap:** A burst of irritation that fuels a needed boundary (“I won’t take on extra work”) can be adaptive, not a sign of depletion. Here the snap reflects a healthy wiring response to a genuine limit, not a system failure.^21^  
+- **Medication‑Induced Reactivity:** Certain stimulants or withdrawal states cause jitteriness and snapping independent of sleep or stress levels, showing that body chemistry can override the usual layer hierarchy.^22^  
+- **Cultural Scripts:** In some contexts, speaking sharply is a normalized communication style; what reads as a snap to an outsider is simply habitual tone, highlighting how room and story norms shape perception.^23^  
+- **Flow States:** Occasionally, high charge and low pressure produce razor‑sharp focus that looks like irritation to an observer but is actually productive energy, reminding us that currency readings must be interpreted in context.^24^  
 
 ---
 
@@ -526,17 +526,17 @@ Which one was yours?
 
 ---
 
-Your wiring handles more than you realize. It keeps you breathing while you decide what to have for lunch. It runs your threat detection—that sudden alert when someone steps too close, the way your body knows before your mind does [LeDoux, 1996 — amygdala rapid threat detection]. It handles your reactions to criticism, to praise, to silence, to loud voices.  
+Your wiring handles more than you realize. It keeps you breathing while you decide what to have for lunch. It runs your threat detection—that sudden alert when someone steps too close, the way your body knows before your mind does ^25^. It handles your reactions to criticism, to praise, to silence, to loud voices.  
 
 And it runs the programs you never chose—the ones installed by old experiences, by patterns that got worn in before you were old enough to question them.  
 
 This is where your feelings live before they reach your awareness. Fear isn’t a thought. It’s a smoke alarm, ringing in your wiring first. Anger isn’t a choice. It’s a *someone-crossed-a-line* alert, firing before you’ve decided how to respond. Sadness isn’t a mood. It’s the system adjusting after a loss, running the program that says *this matters; this needs acknowledging.*  
 
-Worry isn’t a personality trait. It’s your wiring running *what if* on a future that hasn’t happened, trying to prepare you for threats that may never arrive [Borkovec et al., 1983 — worry as future‑oriented threat preparation].  
+Worry isn’t a personality trait. It’s your wiring running *what if* on a future that hasn’t happened, trying to prepare you for threats that may never arrive ^26^.  
 
-Sleep is the reboot. The tidying, repairing, and filing-away happens here, and only here. Skip it, and every layer above degrades. The foggy head, the short temper, the inability to focus—these aren’t character flaws. They’re what happens when the wiring never gets its nightly maintenance [Diekelmann & Born, 2010 — sleep supports memory consolidation; Xie et al., 2013 — glymphatic clearance during sleep].  
+Sleep is the reboot. The tidying, repairing, and filing-away happens here, and only here. Skip it, and every layer above degrades. The foggy head, the short temper, the inability to focus—these aren’t character flaws. They’re what happens when the wiring never gets its nightly maintenance ^27^.  
 
-Old beliefs live deepest. A belief like *“I’m not enough”* isn’t a thought you have. It’s a program running in your wiring, installed early, quietly filtering every input before you even see it. It intercepts every win (*that was luck*), every compliment (*they’re just being nice*), every opportunity (*I’ll probably mess it up*). And because it’s running below awareness, you can achieve everything you set out to do and still feel like a fraud [Beck, 1976 — cognitive schemas filter self‑perception; Greenwald & Banaji, 1995 — implicit self‑esteem].  
+Old beliefs live deepest. A belief like *“I’m not enough”* isn’t a thought you have. It’s a program running in your wiring, installed early, quietly filtering every input before you even see it. It intercepts every win (*that was luck*), every compliment (*they’re just being nice*), every opportunity (*I’ll probably mess it up*). And because it’s running below awareness, you can achieve everything you set out to do and still feel like a fraud ^28^.  
 
 The wiring doesn’t care about your accomplishments. It’s running the old program.  
 
@@ -544,13 +544,13 @@ The wiring doesn’t care about your accomplishments. It’s running the old pro
 
 Why does this layer constrain everything above it? Because habits, relationships, and your story all sit on top of this wiring. If the wiring is misfiring, nothing above it holds reliably.  
 
-You can’t install a new habit on a machine that’s overheating. The habit might form, but it’ll be written in disappearing ink. You’ll start the new routine—the morning pages, the exercise, the meditation—and it’ll feel good for a few days. Then something small will trigger your wiring—a stressful email, a sleepless night, a loud voice—and the habit will slip. Not because you’re weak. Not because you lack discipline. But because the wiring beneath it was running on low fuel, high charge, or held pressure, and it pulled the plug on everything above it [Schwabe & Wolf, 2011 — stress shifts behavior from goal‑directed to habit; Baumeister et al., 1998 — ego depletion undermines self‑regulation].  
+You can’t install a new habit on a machine that’s overheating. The habit might form, but it’ll be written in disappearing ink. You’ll start the new routine—the morning pages, the exercise, the meditation—and it’ll feel good for a few days. Then something small will trigger your wiring—a stressful email, a sleepless night, a loud voice—and the habit will slip. Not because you’re weak. Not because you lack discipline. But because the wiring beneath it was running on low fuel, high charge, or held pressure, and it pulled the plug on everything above it ^29^.  
 
 The ceiling on your day isn’t set by your goals. It’s set by the state of your hidden machine.  
 
 A steady wiring lets you build habits that last. A misfiring wiring makes every habit feel like pushing uphill.  
 
-Relationships sit on this layer too. When your wiring is steady, you can listen without reacting, respond without snapping, stay present without drifting. When it’s misfiring, every conversation feels like walking through a minefield. The tone that lands wrong, the word that triggers an old program, the silence that feels like abandonment—these aren’t about the other person. They’re about your wiring interpreting their actions through old filters [Bowlby, 1969 — attachment shapes social perception; Lazarus, 1991 — appraisal of social cues].  
+Relationships sit on this layer too. When your wiring is steady, you can listen without reacting, respond without snapping, stay present without drifting. When it’s misfiring, every conversation feels like walking through a minefield. The tone that lands wrong, the word that triggers an old program, the silence that feels like abandonment—these aren’t about the other person. They’re about your wiring interpreting their actions through old filters ^30^.  
 
 Your story—the sense of who you are—sits at the very top. But it’s built on the wiring beneath it. If your wiring is running *“I’m not enough,”* every accomplishment will feel like a fluke. Every setback will feel like proof. The story won’t shift until the wiring beneath it does.  
 
@@ -560,25 +560,25 @@ Fix the wiring first. Everything else gets easier from there.
 
 What actually fails when this layer is broken?  
 
-**Old wiring** filters every input before you see it. Like a spam filter that’s too aggressive, it blocks the good stuff along with the bad. A compliment comes in, but the wiring intercepts it: *they’re just being nice.* An opportunity arises, but the wiring spins it: *I’ll probably mess it up.* The story you tell about yourself—*“I’m not the kind of person who succeeds at this”*—isn’t a conscious choice. It’s the output of an old program running in your wiring [Nickerson, 1998 — confirmation bias; Beck, 1976 — negative self‑schemas].  
+**Old wiring** filters every input before you see it. Like a spam filter that’s too aggressive, it blocks the good stuff along with the bad. A compliment comes in, but the wiring intercepts it: *they’re just being nice.* An opportunity arises, but the wiring spins it: *I’ll probably mess it up.* The story you tell about yourself—*“I’m not the kind of person who succeeds at this”*—isn’t a conscious choice. It’s the output of an old program running in your wiring ^31^.  
 
-**Fast loops** burn charge and pressure without resolution. You snap at a partner, then apologize, then snap again the next day. The loop keeps running because the wiring hasn’t updated. It’s still running the program: *loud voice = threat; threat = defend.* The charge spikes, the pressure builds, but nothing gets resolved because the wiring is stuck in gear [Brosschot et al., 2006 — perseverative cognition sustains physiological activation].  
+**Fast loops** burn charge and pressure without resolution. You snap at a partner, then apologize, then snap again the next day. The loop keeps running because the wiring hasn’t updated. It’s still running the program: *loud voice = threat; threat = defend.* The charge spikes, the pressure builds, but nothing gets resolved because the wiring is stuck in gear ^32^.  
 
-**Sleep debt** fogs everything above. When the wiring doesn’t get its nightly reboot, the habits slip, the relationships feel harder, the story feels heavier. The foggy head, the short temper, the inability to focus—these aren’t character flaws. They’re what happens when the wiring never gets its maintenance [Yoo et al., 2007 — sleep deprivation amplifies amygdala reactivity; Drummond et al., 2000 — prefrontal impairment after sleep loss].  
+**Sleep debt** fogs everything above. When the wiring doesn’t get its nightly reboot, the habits slip, the relationships feel harder, the story feels heavier. The foggy head, the short temper, the inability to focus—these aren’t character flaws. They’re what happens when the wiring never gets its maintenance ^33^.  
 
-**Alerts misread as faults** drain fuel and hold pressure. Anger isn’t a moral failing. It’s a *someone-crossed-a-line* alert. Fear isn’t weakness. It’s a smoke alarm. Sadness isn’t a personality flaw. It’s the system adjusting after a loss. But when you misread these alerts as faults—*I shouldn’t feel this way; I’m broken for feeling this*—you add a layer of self‑criticism on top of the original feeling. The wiring is doing its job. The problem isn’t the alert. It’s the interpretation [Gross & Levenson, 1997 — emotion suppression increases arousal; Neff, 2003 — self‑compassion reduces distress].  
+**Alerts misread as faults** drain fuel and hold pressure. Anger isn’t a moral failing. It’s a *someone-crossed-a-line* alert. Fear isn’t weakness. It’s a smoke alarm. Sadness isn’t a personality flaw. It’s the system adjusting after a loss. But when you misread these alerts as faults—*I shouldn’t feel this way; I’m broken for feeling this*—you add a layer of self‑criticism on top of the original feeling. The wiring is doing its job. The problem isn’t the alert. It’s the interpretation ^34^.  
 
 ---
 
 People often mistake this layer for something else.  
 
-**Mistaken for personality:** *“That’s just how I am.”* But personality isn’t fixed. It’s worn-in wiring, and wiring can be updated. The short temper, the avoidance of conflict, the tendency to freeze—these aren’t personality traits. They’re programs running in your wiring, installed by old experiences, by patterns that got worn in before you were old enough to question them [Doidge, 2007 — neuroplasticity permits change; Kleim & Jones, 2008 — experience‑dependent plasticity].  
+**Mistaken for personality:** *“That’s just how I am.”* But personality isn’t fixed. It’s worn-in wiring, and wiring can be updated. The short temper, the avoidance of conflict, the tendency to freeze—these aren’t personality traits. They’re programs running in your wiring, installed by old experiences, by patterns that got worn in before you were old enough to question them ^35^.  
 
 **Mistaken for habit:** *“I just have a short temper.”* But the temper is the *symptom*, not the cause. The habit is the output. The wiring is the hidden machine running the program. You can’t fix the habit reliably while the wiring beneath it is misfiring.  
 
 **Mistaken for mood:** *“I’m in a mood today.”* But moods are outputs. They’re the weather. The wiring is the climate. You don’t change the weather by complaining about the rain. You change the climate by updating the programs running beneath it.  
 
-**Mistaken for the body:** *“I’m just tired.”* But tiredness is often the *effect*, not the cause. When the wiring is stuck in gear—running old programs, misreading alerts, burning charge without resolution—the body feels the cost. The foggy head, the short temper, the heavy limbs—these aren’t just tiredness. They’re what happens when the wiring never gets its reboot [McEwen, 1998 — allostatic load links chronic stress to physical fatigue].  
+**Mistaken for the body:** *“I’m just tired.”* But tiredness is often the *effect*, not the cause. When the wiring is stuck in gear—running old programs, misreading alerts, burning charge without resolution—the body feels the cost. The foggy head, the short temper, the heavy limbs—these aren’t just tiredness. They’re what happens when the wiring never gets its reboot ^36^.  
 
 ---
 
@@ -613,9 +613,9 @@ One line for the picture of yourself:
 
 Sometimes wiring reactions persist even after you’ve noticed the trigger, paused, and tried to update the program. These are hard cases where the lowest layer won’t move.  
 
-- **Trauma‑wired responses**: A survivor of violence may startle at a slammed door years after the event. The threat system stays calibrated to danger because the nervous system never received a clear “all‑clear” signal [American Psychiatric Association, 2013 — PTSD hyperarousal; Orr et al., 2000 — startle potentiation in trauma].  
-- **Neurodivergent wiring**: Autistic sensory processing can cause a flickering light to register as a threat, triggering a fight‑or‑flight surge that feels disproportionate to outsiders [Ben‑Sasson et al., 2009 — sensory over‑responsivity in autism].  
-- **Chronic inflammation wiring**: Persistent low‑grade inflammation can keep the sympathetic nervous system mildly activated, producing a baseline of jitteriness that resists typical stress‑reduction techniques [Dantzer et al., 2008 — inflammation‑induced sickness behavior; Miller & Raison, 2016 — inflammatory pathways in depression/anxiety].  
+- **Trauma‑wired responses**: A survivor of violence may startle at a slammed door years after the event. The threat system stays calibrated to danger because the nervous system never received a clear “all‑clear” signal ^37^.  
+- **Neurodivergent wiring**: Autistic sensory processing can cause a flickering light to register as a threat, triggering a fight‑or‑flight surge that feels disproportionate to outsiders ^38^.  
+- **Chronic inflammation wiring**: Persistent low‑grade inflammation can keep the sympathetic nervous system mildly activated, producing a baseline of jitteriness that resists typical stress‑reduction techniques ^39^.  
 
 In these cases, the wiring isn’t “broken”—it’s adapting to a real internal or external condition. The appropriate response is not to suppress the reaction but to change the underlying condition (e.g., trauma‑informed therapy, sensory accommodations, medical treatment) while building regulatory skills that work *with* the wiring’s sensitivity.  
 
@@ -625,9 +625,9 @@ In these cases, the wiring isn’t “broken”—it’s adapting to a real inte
 
 Not every rapid reaction is a wiring misfire.  
 
-- **Genuine threat**: If a car swerves toward you, jumping back before you fully process the motion is wiring doing its job correctly. The charge surge and pressure spike are adaptive, not problematic [LeDoux, 1996 — low‑road threat response].  
-- **Expertise under pressure**: A firefighter’s instant decision to enter a burning building relies on wiring that has been trained through repetition to recognize patterns and act fast—here the wiring serves habit and story, not opposes them [Klein, 1998 — recognition‑primed decision making; Ericsson et al., 1993 — deliberate practice yields automaticity].  
-- **Positive surge**: The rush of joy when seeing a loved one after a long separation is also a wiring-mediated charge increase that feels good and connects rather than disrupts [Carter, 1998 — oxytocin and social bonding; Bartz et al., 2011 — oxytocin enhances trust].  
+- **Genuine threat**: If a car swerves toward you, jumping back before you fully process the motion is wiring doing its job correctly. The charge surge and pressure spike are adaptive, not problematic ^40^.  
+- **Expertise under pressure**: A firefighter’s instant decision to enter a burning building relies on wiring that has been trained through repetition to recognize patterns and act fast—here the wiring serves habit and story, not opposes them ^41^.  
+- **Positive surge**: The rush of joy when seeing a loved one after a long separation is also a wiring-mediated charge increase that feels good and connects rather than disrupts ^42^.  
 
 These examples show that wiring itself is neutral; its value depends on the match between the reaction’s intensity and the actual demand of the moment.  
 
@@ -637,9 +637,9 @@ These examples show that wiring itself is neutral; its value depends on the matc
 
 This framework describes how wiring works, but it does not prescribe a specific timeline for change. Rewiring deep‑set patterns requires:  
 
-1. **Safety** – The threat system will not down‑regulate while the environment (or inner landscape) signals danger [Porges, 2011 — polyvagal theory of safety cues].  
-2. **Repetition** – New patterns need consistent practice to compete with old ones [Lally et al., 2010 — habit formation requires ~66 days of repetition].  
-3. **Resource availability** – Attempts to update wiring fail when the body is depleted (low fuel) or the mind is overwhelmed (high pressure) [Baumeister et al., 1998 — ego depletion under low glucose/high demand].  
+1. **Safety** – The threat system will not down‑regulate while the environment (or inner landscape) signals danger ^43^.  
+2. **Repetition** – New patterns need consistent practice to compete with old ones ^44^.  
+3. **Resource availability** – Attempts to update wiring fail when the body is depleted (low fuel) or the mind is overwhelmed (high pressure) ^45^.  
 
 The model also does not address pharmacological or neurological interventions that directly alter neurotransmitter balance; such approaches fall outside its scope but can complement the regulatory strategies described here.  
 
@@ -661,28 +661,28 @@ I see you moving through your morning without really noticing how you do it—th
 
 The Habit layer consists of **the programs installed by repetition — automatic routines, skills, and everyday patterns that run without conscious effort because they were practised into permanence** (Model Bible). It sits atop the Wiring layer, which rests on the Body layer. When the lower layers are steady, habits free your attention for what needs deciding. When they are depleted, the same automaticity can feel like a trap.  
 
-Grace’s physical signature appears here: **a groove in her routine — the autopilot quality of her hands reaching for keys, phone, bag in the same order every morning, her body moving through the day like a track already worn into the floor** (Habit register: groove, automaticity).  
+Grace’s physical signature appears here: **a groove in her routine — the autopilot quality of her hands reaching for keys, phone, bag in the same order every morning, her body moving through the day like a track already worn into the floor.**  
 
 ---  
 
 ### How habits work  
 
-A habit follows a simple loop: a **cue** triggers a **routine**, which delivers a **reward**. Through repetition the loop becomes automatic, requiring little conscious thought **(Duhigg, 2012 — habit loop cue‑routine‑reward)**. The cue can be external (an alarm, a time of day) or internal (a feeling of boredom). The routine is the behaviour itself; the reward is the satisfaction that reinforces the loop.  
+A habit follows a simple loop: a **cue** triggers a **routine**, which delivers a **reward**. Through repetition the loop becomes automatic, requiring little conscious thought *^46^*. The cue can be external (an alarm, a time of day) or internal (a feeling of boredom). The routine is the behaviour itself; the reward is the satisfaction that reinforces the loop.  
 
-When the Body is well‑rested and nourished, and the Wiring is calm, the habit runs smoothly. If the Body is low on sleep or fuel, or the Wiring is stuck in threat response, the habit’s demand for attention does not shrink—it grows. The system beneath the habit is struggling, so the habit feels forced or fails altogether **(Killgore, 2010 — sleep deprivation impairs automatic behavior)**.  
+When the Body is well‑rested and nourished, and the Wiring is calm, the habit runs smoothly. If the Body is low on sleep or fuel, or the Wiring is stuck in threat response, the habit’s demand for attention does not shrink—it grows. The system beneath the habit is struggling, so the habit feels forced or fails altogether *^47^*.  
 
 ---  
 
 ### Mechanism explanations  
 
 **Attention bottleneck**  
-Your conscious mind can hold only a handful of items at once **(Miller, 1956 — limited capacity of conscious mind)**. A well‑installed habit offloads routine behaviours, preserving attention for novel decisions. When the Body is depleted (poor sleep, low nutrition) or the Wiring is overcharged (chronic stress), the habit’s automaticity weakens. The cue still fires, but the routine feels effortful because the system lacks the reserve to support it.  
+Your conscious mind can hold only a handful of items at once *^48^*. A well‑installed habit offloads routine behaviours, preserving attention for novel decisions. When the Body is depleted (poor sleep, low nutrition) or the Wiring is overcharged (chronic stress), the habit’s automaticity weakens. The cue still fires, but the routine feels effortful because the system lacks the reserve to support it.  
 
 **Dependency chain**  
 A habit built on an exhausted Body is like software running on failing hardware; a habit installed on a stressed Wiring is like code running on corrupted firmware. The habit itself is not flawed—the lower layers cannot sustain it. Fixing the Body (regular sleep, adequate food) or calming the Wiring (breathing, grounding) gives the habit a stable platform to hold.  
 
 **Hijacking**  
-Habits are not selective; they will automate any behaviour that feels rewarding, even if the reward is hollow. Checking email for a quick inbox‑zero hit, scrolling for novelty, or snacking for a brief dopamine lift can become automatic loops that starve more meaningful actions of attention and fuel. The loop persists because it *feels* like it’s delivering something, while the actual intention—deep work, a nourishing meal—gets starved **(Berridge & Robinson, 1998 — dopamine mediates incentive salience)**.  
+Habits are not selective; they will automate any behaviour that feels rewarding, even if the reward is hollow. Checking email for a quick inbox‑zero hit, scrolling for novelty, or snacking for a brief dopamine lift can become automatic loops that starve more meaningful actions of attention and fuel. The loop persists because it *feels* like it’s delivering something, while the actual intention—deep work, a nourishing meal—gets starved *^49^*.  
 
 ---  
 
@@ -703,7 +703,7 @@ Sometimes an identity narrative (“I’m a checker”) wraps around a habit. Us
 
 ### Hard cases  
 
-Even when Body and Wiring are steady, some habits resist change. These are often **coping mechanisms** that were installed to manage overwhelming Wiring signals (e.g., chronic anxiety) **(Marlatt & Gordon, 1985 — habits as coping strategies)**. The habit feels protective; removing it threatens to expose the underlying distress. In such cases, the solution is not to attack the habit directly but to first resource the Wiring layer (trauma‑informed grounding, therapy) so the habit loses its perceived necessity.  
+Even when Body and Wiring are steady, some habits resist change. These are often **coping mechanisms** that were installed to manage overwhelming Wiring signals (e.g., chronic anxiety) *^50^*. The habit feels protective; removing it threatens to expose the underlying distress. In such cases, the solution is not to attack the habit directly but to first resource the Wiring layer (trauma‑informed grounding, therapy) so the habit loses its perceived necessity.  
 
 Another hard case appears when the habit is tied to a **Story** identity that serves a protective function (“I’m the reliable one”). Changing the habit threatens the narrative, so the system resists. Here, gentle Story work (revisiting the identity belief) must accompany habit adjustment.  
 
@@ -1258,7 +1258,7 @@ The long exhale is the one signal your body reads as *"the danger has passed."* 
 
 **Its edge:** it takes the top off high charge; it won't fix what caused it. If panic is frequent or comes from nowhere, that's worth taking to a doctor—this tool is for the moment, not the pattern.  
 
-**Mechanism note:** Lengthening the exhale stimulates the vagus nerve, shifting the balance toward parasympathetic tone and lowering the firing rate^1^2. Because Wiring sits atop Body, a well‑resourced Body (adequate sleep, food, movement) lets the shift stick; if Body is depleted, the effect fades quickly.  
+**Mechanism note:** Lengthening the exhale stimulates the vagus nerve, shifting the balance toward parasympathetic tone and lowering the firing rate. Because Wiring sits atop Body, a well‑resourced Body (adequate sleep, food, movement) lets the shift stick; if Body is depleted, the effect fades quickly.  
 
 **Failure mode:** Mistaking a Fuel‑depletion crash for high charge and using the long exhale when what’s needed is rest or food. The tool feels ineffective because the underlying low‑Fuel state keeps pulling Charge back down.  
 
@@ -1289,7 +1289,7 @@ Callum sits at his desk at 2:58 p.m. on a Wednesday, the fluorescent light buz
 
 **Its edge:** it creates room; it doesn't erase the feeling, and it shouldn't. If naming it opens something far bigger and older than the moment, that's the walled‑off room—go gently, and see Tool 12.  
 
-**Mechanism note:** Naming engages prefrontal language circuits, which down‑regulate amygdala‑driven Wiring reactions^3. Because Wiring is automatic and pre‑thought, giving it a label creates a brief window for higher‑layer (Habit, Story) appraisal.  
+**Mechanism note:** Naming engages prefrontal language circuits, which down‑regulate amygdala‑driven Wiring reactions. Because Wiring is automatic and pre‑thought, giving it a label creates a brief window for higher‑layer (Habit, Story) appraisal.  
 
 **Failure mode:** Using the tool on a pure Body sensation (e.g., low blood sugar shakiness) and expecting it to relieve the physical tremor; the naming helps the emotional overlay but the Body signal remains until fuel is restored.  
 
@@ -1301,8 +1301,7 @@ Callum sits at his desk at 2:58 p.m. on a Wednesday, the fluorescent light buz
 
 ---
 
-The kitchen is too bright at 4:12 p.m. on a Thursday. Parent A stands at the counter, hands gripping the edge, breath shallow, vision narrowing. The child's voice rises, recounting the day's small victories, but the noise suddenly feels like too much. The torso feels tight, the stomach knotted. Parent A closes their eyes and names it silently: *This is exhaustion.* The world doesn't change, but the grip loosens a notch. The exhaustion is still there, but now it's beside them, not inside them.  
-*(Parent A is an unnamed background figure; no dialogue beyond one sentence.)*  
+The kitchen is too bright at 4:12 p.m. on a Thursday. Maren stands at the counter, hands gripping the edge, breath shallow, a blur settling behind her eyes before she knows she's tired. Her child's voice rises, recounting the day's small victories, but the noise suddenly feels like too much. The torso feels tight, the stomach knotted. She closes her eyes and names it silently: *This is exhaustion.* The world doesn't change, but the grip loosens a notch. The exhaustion is still there, but now it's beside her, not inside her.  
 
 ---
 
@@ -1325,7 +1324,7 @@ The point is *out*, not *held*.
 
 **Its edge:** discharge clears today's pressure. If the same pressure refills every single day, the tool isn't the fix—something upstream is generating it, and that's the thing to trace.  
 
-**Mechanism note:** Pressure is the hydraulic dimension of held tension. Discharge provides a physical outlet for stored energy, allowing the system to return to baseline^4. Because Pressure can be generated by any layer, discharge works best when the source is identified; otherwise the pressure rebuilds.  
+**Mechanism note:** Pressure is the hydraulic dimension of held tension. Discharge provides a physical outlet for stored energy, allowing the system to return to baseline. Because Pressure can be generated by any layer, discharge works best when the source is identified; otherwise the pressure rebuilds.  
 
 **Failure mode:** Using discharge to relieve pressure that originates from a Story‑level identity conflict (e.g., "I must be perfect"); the bodily tension eases temporarily, but the mental pressure returns as soon as the narrative re‑engages.  
 
@@ -1337,8 +1336,7 @@ The point is *out*, not *held*.
 
 ---
 
-Callum stands in the hallway at 6:47 p.m. on a Tuesday, upper back tight, jaw tight, breath held. The day's weight sits in the stomach like a stone. They shake it out—hands, arms, whole body—for thirty seconds. The trembling stops. The breath goes deeper. The evening isn't fixed, but it's no longer clenched.  
-*(Callum is an unnamed background figure; no dialogue beyond one sentence.)*  
+Callum stands in the hallway at 6:47 p.m. on a Tuesday, upper back tight, jaw tight, breath held. The day's weight sits in the stomach like a stone. He shakes it out—hands, arms, whole body—for thirty seconds. The trembling stops. The breath goes deeper. The evening isn't fixed, but it's no longer clenched.  
 
 ---
 
@@ -1357,7 +1355,7 @@ Callum stands in the hallway at 6:47 p.m. on a Tuesday, upper back tight, jaw 
 
 **Its edge:** great for overload and fog; it won't make a genuinely heavy load lighter—sometimes the honest finding is that you're carrying too much, and the fix is *fewer things*, not better sorting.  
 
-**Mechanism note:** This tool offloads working‑memory load from the Habit layer (where attentional routines live) onto external storage^5. By reducing cognitive load, it frees bandwidth for lower‑layer regulation (Body, Wiring).  
+**Mechanism note:** This tool offloads working‑memory load from the Habit layer (where attentional routines live) onto external storage. By reducing cognitive load, it frees bandwidth for lower‑layer regulation (Body, Wiring).  
 
 **Failure mode:** Applying it when the overload stems from a Body deficit (e.g., sleep deprivation impairing cognition); clearing the list helps momentarily, but the underlying fatigue quickly refills the mental space.  
 
@@ -1369,8 +1367,7 @@ Callum stands in the hallway at 6:47 p.m. on a Tuesday, upper back tight, jaw 
 
 ---
 
-Marcus sits at the kitchen table at 7:19 p.m. on a Sunday, budget spreadsheet open, the numbers swimming. The head feels full—bills, groceries, the car needing an oil change, the birthday gift still not bought. They grab a notebook and empty it all onto the page. The list is long, but most of it feels smaller outside the head. They circle the one thing that actually matters tonight: *pay the overdue bill.* The rest can wait.  
-*(Marcus is an unnamed background figure; no dialogue beyond one sentence.)*  
+Marcus sits at the kitchen table at 7:19 p.m. on a Sunday, budget spreadsheet open, the numbers swimming. The head feels full—bills, groceries, the car needing an oil change, the birthday gift still not bought. He grabs a notebook and empties it all onto the page. The list is long, but most of it feels smaller outside the head. He circles the one thing that actually matters tonight: *pay the overdue bill.* The rest can wait.  
 
 ---
 
@@ -1391,7 +1388,7 @@ Marcus sits at the kitchen table at 7:19 p.m. on a Sunday, budget spreadsheet 
 
 **Its edge:** this is for ordinary depletion. Exhaustion that sleep doesn't touch, week after week, is a different thing—that's the burnout pattern, and sometimes a doctor, not a tool.  
 
-**Mechanism note:** Fuel is the reserve dimension across all layers. Replenishing the specific depleted substrate (glucose for Body, neurotransmitters for Wiring, glucose for Habit, etc.) restores the system’s capacity to generate Charge and handle Pressure^6. Because Fuel underlies every layer, a refill lifts the whole system, but only if the deficit is correctly identified.  
+**Mechanism note:** Fuel is the reserve dimension across all layers. Replenishing the specific depleted substrate (glucose for Body, neurotransmitters for Wiring, glucose for Habit, etc.) restores the system’s capacity to generate Charge and handle Pressure. Because Fuel underlies every layer, a refill lifts the whole system, but only if the deficit is correctly identified.  
 
 **Failure mode:** Mistaking low Fuel for low Charge and reaching for caffeine or a breath tool; the temporary alertness masks the deeper depletion, leading to a crash later.  
 
@@ -1423,7 +1420,7 @@ Maya stands at the kitchen counter at 8:17 p.m. on a Tuesday, phone in hand, s
 
 **Its edge:** this is triage, not recovery. If you can't take anything off the pile, or you can't stop, that itself is the finding—and it usually means something at the story layer (*"my worth is my output"*) needs the deeper work.  
 
-**Mechanism note:** The Full Stop reduces incoming Pressure and Charge demands, allowing the system to allocate existing Fuel to recovery processes^8. Because Story often drives the Pressure to keep performing, halting new inputs interrupts that feedback loop.  
+**Mechanism note:** The Full Stop reduces incoming Pressure and Charge demands, allowing the system to allocate existing Fuel to recovery processes. Because Story often drives the Pressure to keep performing, halting new inputs interrupts that feedback loop.  
 
 **Failure mode:** Using the tool to avoid a necessary but uncomfortable conversation (Room layer) and then experiencing relational Pressure that builds silently.  
 
@@ -1435,8 +1432,7 @@ Maya stands at the kitchen counter at 8:17 p.m. on a Tuesday, phone in hand, s
 
 ---
 
-Marcus sits at their desk at 9:12 p.m. on a Thursday, staring at the to‑do list. The exhaustion isn't ordinary. Sleep doesn't touch it. They stop adding. They drop the side project they'd been clinging to out of guilt. They protect sleep, food, and one gentle walk each day. The collapse eases. They're not better yet, but they've stopped digging.  
-*(Marcus is an unnamed background figure; no dialogue beyond one sentence.)*  
+Marcus sits at their desk at 9:12 p.m. on a Thursday, staring at the to‑do list. The exhaustion isn't ordinary. Sleep doesn't touch it. He stops adding. He drops the side project he'd been clinging to out of guilt. He protects sleep, food, and one gentle walk each day — and feels the room settle a half-degree as he does. The collapse eases. He's not better yet, but he's stopped digging.  
 
 ---
 
@@ -2510,3 +2506,110 @@ You are a system. You always were. Now you have the kit to work it — one quiet
 Go gently.
 
 ---
+
+---
+
+# Notes
+
+The ideas in this book rest on a wide body of research across sleep science, stress physiology, cognitive and behavioural psychology, and neuroscience. The notes below point to the sources behind the claims in the text. They are offered for the curious reader who wants to go deeper; you never need them to use the book.
+
+1. Dinges et al., 1997 — sleep deprivation increases irritability; Meerlo et al., 2008 — sleep loss elevates stress hormones
+
+2. Dinges et al., 1997 — fatigue lowers frustration tolerance
+
+3. Killgore, 2010 — sleep deprivation impairs cognition and mood; commonly reported ocular gritty sensation with fatigue
+
+4. Cacioppo & Hawkley, 2009 — social stress amplifies interpersonal conflict
+
+5. Leproult et al., 1997 — one week of sleep restriction raises cortisol and subjective exhaustion
+
+6. LeDoux, 2000 — amygdala-driven threat responses fire before cortical appraisal; Kahneman, 2011 — cognitive load promotes impulsive reactions
+
+7. Quinn et al., 2010 — habit performance increases under cognitive load; Baumeister et al., 1998 — self-control depletion favors automatic routines
+
+8. IJzerman & Semin, 2009 — ambient temperature influences social perception; Evans, 2003 — chronic environmental stressors sustain physiological arousal
+
+9. Beck, 1976 — cognitive schemas bias interpretation of ambiguous social cues toward threat
+
+10. Meerlo et al., 2008 — sleep loss elevates cortisol; McEwen, 1998 — allostatic load primes amygdala reactivity
+
+11. Quinn et al., 2010 — habit expression increases under arousal; Schmeichel et al., 2003 — self-control depletion shifts behavior to habitual patterns
+
+12. Evans, 2003 — noisy, overcrowded settings raise sympathetic tone; Beck, 1976 — negative self-schemas color affective experience
+
+13. research suggests cognitive interventions are less effective when physiological arousal remains high; Thayer et al., 2012 — heart-rate variability indexes prefrontal regulation of amygdala
+
+14. McEwen, 1998 — allostatic load persists across contexts
+
+15. Baumeister et al., 1998 — ego depletion undermines sustained effortful behavior
+
+16. Dantzer et al., 2008 — peripheral cytokines signal sickness behavior and heighten amygdala reactivity
+
+17. van der Kolk, 2014 — PTSD maintains hyperactive threat circuits that bypass cortical processing
+
+18. Quinn et al., 2010 — habit loops persist when contextual cues and rewards are stable
+
+19. Evans, 2003 — chronic neighborhood noise sustains stress-axis activation
+
+20. Beck, 1976 — early maladaptive schemas drive automatic negative self-narratives
+
+21. Lazarus, 1991 — anger can serve a motivational, boundary-setting function
+
+22. Fredholm et al., 1999 — caffeine antagonizes adenosine receptors, increasing arousal irrespective of prior sleep
+
+23. Matsumoto, 2006 — cultural display rules dictate what counts as an “appropriate” emotional expression
+
+24. Csikszentmihalyi, 1990 — flow describes optimal experience characterized by deep absorption and low perceived effort
+
+25. LeDoux, 1996 — amygdala rapid threat detection
+
+26. Borkovec et al., 1983 — worry as future-oriented threat preparation
+
+27. Diekelmann & Born, 2010 — sleep supports memory consolidation; Xie et al., 2013 — glymphatic clearance during sleep
+
+28. Beck, 1976 — cognitive schemas filter self-perception; Greenwald & Banaji, 1995 — implicit self-esteem
+
+29. Schwabe & Wolf, 2011 — stress shifts behavior from goal-directed to habit; Baumeister et al., 1998 — ego depletion undermines self-regulation
+
+30. Bowlby, 1969 — attachment shapes social perception; Lazarus, 1991 — appraisal of social cues
+
+31. Nickerson, 1998 — confirmation bias; Beck, 1976 — negative self-schemas
+
+32. Brosschot et al., 2006 — perseverative cognition sustains physiological activation
+
+33. Yoo et al., 2007 — sleep deprivation amplifies amygdala reactivity; Drummond et al., 2000 — prefrontal impairment after sleep loss
+
+34. Gross & Levenson, 1997 — emotion suppression increases arousal; Neff, 2003 — self-compassion reduces distress
+
+35. Doidge, 2007 — neuroplasticity permits change; Kleim & Jones, 2008 — experience-dependent plasticity
+
+36. McEwen, 1998 — allostatic load links chronic stress to physical fatigue
+
+37. American Psychiatric Association, 2013 — PTSD hyperarousal; Orr et al., 2000 — startle potentiation in trauma
+
+38. Ben-Sasson et al., 2009 — sensory over-responsivity in autism
+
+39. Dantzer et al., 2008 — inflammation-induced sickness behavior; Miller & Raison, 2016 — inflammatory pathways in depression/anxiety
+
+40. LeDoux, 1996 — low-road threat response
+
+41. Klein, 1998 — recognition-primed decision making; Ericsson et al., 1993 — deliberate practice yields automaticity
+
+42. Carter, 1998 — oxytocin and social bonding; Bartz et al., 2011 — oxytocin enhances trust
+
+43. Porges, 2011 — polyvagal theory of safety cues
+
+44. Lally et al., 2010 — habit formation requires ~66 days of repetition
+
+45. Baumeister et al., 1998 — ego depletion under low glucose/high demand
+
+46. Duhigg, 2012 — habit loop cue-routine-reward
+
+47. Killgore, 2010 — sleep deprivation impairs automatic behavior
+
+48. Miller, 1956 — limited capacity of conscious mind
+
+49. Berridge & Robinson, 1998 — dopamine mediates incentive salience
+
+50. Marlatt & Gordon, 1985 — habits as coping strategies
+
