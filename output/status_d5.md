@@ -63,19 +63,33 @@ honest log, not a rubber stamp.
 - Added a bridge at the end of Ch4 (→ Room) and strengthened the Ch5 → Story
   bridge.
 
-## Known remaining items (honest list — not yet done)
-- **Ch9 / Ch10 still overlap** in constraint taxonomy. Compressed the duplicated
-  mechanism explainer, but the two chapters' *purpose* could still be
-  differentiated more sharply (Ch9 = recognising a hard case; Ch10 = living with
-  an immovable one). Recommend a focused structural edit or a merge.
-- Every layer chapter still shares a similar internal shape (what it gets
-  mistaken for / hard cases / limits). Warmed in Wave 2, but a reader may still
-  feel the pattern by Ch4–6. Optional further variation.
+## Structural pass (now done)
+- **Ch9 + Ch10 MERGED** into a single chapter, "When the Layer Won't Move"
+  (Ch9). The four duplicated sections (where people go wrong / lowest layer
+  won't move / when it's not what it looks like / what this can't do) are now
+  stated once; the chapter keeps the five-kinds-of-constraint taxonomy and
+  Maren's worked adaptations and bridges cleanly into faith. Chapters renumbered:
+  the book is now **12 chapters** (old Ch11→10, Ch12→11, Ch13→12). All chapter
+  cross-references and the Ch8 bridge verified.
+- **Layer-chapter sameness reduced.** The two driest repeated sections
+  (counterexamples + model-limitations) in Ch2, Ch4, Ch6 were collapsed from
+  labelled bulleted sections into short in-prose caveats, breaking the
+  spec-sheet rhythm while preserving every point and every safety caveat.
+
+## Known remaining items (honest list)
 - A short standard medical/crisis disclaimer in the front or back matter is
-  recommended (belt-and-braces).
+  still recommended (belt-and-braces) — the ethos is woven through the text and
+  Tool 12 now names UK crisis lines, but an explicit disclaimer page is
+  conventional for the genre.
+- The layer chapters (2–6) still share a common spine (scene → what it is →
+  how it works → how to tell it apart → Notice this in you). This is now a
+  deliberate, reader-helpful consistency rather than a spec-sheet repeat; no
+  further change planned unless the author wants it.
 
 ## Verdict
-**NOT auto-cleared.** The blocking credibility/consistency/safety issues are
-resolved and verified, but the Ch9/Ch10 overlap and the layer-chapter sameness
-are real read-quality items a publisher or editor may still want addressed.
-Ready for the author's own re-read and decision, not an automated "ship it."
+**Materially stronger, and ready for the author's re-read.** Every blocking
+credibility/consistency/safety issue from the reader pass is resolved and
+verified, and the two structural read-quality items (Ch9/Ch10 overlap, layer-
+chapter sameness) have now been addressed. The book is a tight 12 chapters with
+aligned endnotes. The one conventional nicety still outstanding is an explicit
+disclaimer page. This is the author's call to ship, not an automated one.
