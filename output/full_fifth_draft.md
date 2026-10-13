@@ -715,6 +715,10 @@ Pick one habit you do without thinking today—something neutral or helpful. Don
 
 ---
 
+But habits don’t run in a vacuum. Watch closely and you’ll notice the same routine holds easily in one setting and falls apart in another—steady at home, impossible at your mother’s; effortless alone, gone the moment certain people walk in. That’s not the habit failing. That’s the next layer making itself felt: the room you’re in, and the people in it. That’s where we go next.
+
+---
+
 # Chapter 5: Room
 
 The shed door creaks open at 4:45 p.m. on a Tuesday. Marcus steps inside and the air seems to thin—a faint chill slips over his skin, the kind of temperature shift that makes the hairs on his forearms lift. The usual hum of conversation drops; the men who were laughing over a half‑finished birdhouse fall quiet, their voices softening as if the room itself has asked them to speak gently. Marcus hangs his coat on the peg, feels the pulled‑back quiet settle in his chest, and for a moment the hollow sensation he’s carried all day deepens. It isn’t fatigue from lifting timber; it’s the quiet pressure of being unseen, the sense that his presence doesn’t shift the temperature of the room at all. He sets his mug on the workbench, the ceramic cool against his palm, and waits for the familiar gear‑slip in his voice that never comes—because here, in this space, his words don’t rush ahead of his thoughts. Instead, they hang in the air, unanswered, and the hollowness lingers like fog that won’t burn off.
@@ -796,7 +800,9 @@ The belief “Nobody likes me” can arise from a genuinely excluding Room (you 
 
 ---
 
-When the network is steady, the story you tell about yourself starts to shift—not because you have rewritten your inner monologue, but because the Room layer is no longer feeding the wiring layer with cues of threat. The system can then settle into a rhythm where Charge flows, Pressure releases, and Fuel lasts longer. That shift is not a matter of willpower; it is the result of changing the field that surrounds you, one small, steadying connection at a time.
+When the network around you steadies, something quieter steadies with it: the story you tell about yourself. Not because you’ve rewritten your inner monologue by force, but because the Room is no longer feeding you cues of threat. Charge flows, Pressure releases, Fuel lasts longer—one small, steadying connection at a time.
+
+But that inner story has a life of its own, too. It can outlast the room that first wrote it, running the same old sentence long after the people who taught it have gone. That top layer—the narrator behind your eyes—is where we go last, and where we go next.
 
 ---
 
@@ -1471,19 +1477,9 @@ Not all limits are alike. The book’s advice to “adapt around the constraint�
 
 ---  
 
-### Why the lower layers hold up the higher ones  
+### Why a hard case blocks everything above it  
 
-The Body layer is the physical platform. When it’s short on sleep, nutrients, or steady hormones, every signal above it—Wiring’s threat detection, Habit’s routines, Room’s relational cues, Story’s narratives—runs on shaky ground. You can’t reliably calm a racing heart (Wiring) while your blood sugar is crashing (Body), and you can’t sustain a new habit while your muscles are wrung out (Body).  
-
-Wiring is the automatic operating system. When it’s stuck in a threat loop, it floods the body with stress hormones, grabs your attention, and overrides what you’d deliberately choose. A habit you’ve practiced for years will still get interrupted if a flash of fear fires before you can act. A neutral face in the Room will get read as a threat. And a self‑narrative in the Story will come back to you filtered through danger.  
-
-Habit is the set of automatic routines. If your default is to skip meals or check email every five minutes, those patterns burn Fuel and build Pressure, leaving little room for anything new—no matter how much you intend otherwise.  
-
-Room is the relational field. A toxic workplace can keep your Wiring on high alert, drain your Fuel through constant vigilance, and press your Story toward a story of inadequacy. Even with a rested Body and a calm Wiring, a hostile Room will pull you back into dysregulation.  
-
-Story is the narrative identity. When the story says “I am not enough,” it can push you to overwork (Habit), ignore what your body is telling you (Body), or stay in draining relationships (Room)—because the narrative keeps predicting failure if you stop.  
-
-Because each layer leans on the one beneath it, the sequence—Body → Wiring → Habit → Room → Story—is the order to work in: steady the lowest layer that’s shaky before you expect any change higher up to hold.  
+You already know the sequence—Body → Wiring → Habit → Room → Story—and the rule that each layer leans on the one beneath it. A hard case is simply what happens when the lowest shaky layer *won’t steady*: because everything above it depends on that foundation, the whole system stays stuck until the constraint is either eased or worked around. That’s why no amount of effort higher up moves the symptom—you’re building on ground that won’t hold.  
 
 ---  
 
@@ -1575,17 +1571,9 @@ I see you, I’ve been here too—that quiet moment when you know exactly what�
 
 ---  
 
-### Trust versus faith  
+### When the floor itself won’t level  
 
-Before we name the constraint, let’s clarify the word *faith* as it appears in this book. For many, “faith” carries religious or metaphysical weight—belief in something unseen, often tied to doctrine. Here, I use it differently: **trust** is confidence grounded in evidence you already have; **faith** is the capacity to act when that evidence runs out, to hold a direction forward even when the data isn’t in yet. It is not a leap into the irrational; it is the willingness to keep the system oriented toward what matters while you work with what you *can* change. The term was chosen deliberately because no weaker word captures this function of persisting in the face of an unmovable bottom layer.  
-
----  
-
-### Why the bottom layer sets the limit  
-
-The model’s layers stack like floors in a building: Body supports Wiring, Wiring supports Habit, Habit supports Room, Room supports Story. If the floor beneath you is uneven, everything above it will tilt, no matter how nicely you decorate the upper rooms. This is not metaphor; it is cause and effect. A depleted Body (poor sleep, chronic pain, hormonal dysregulation) leaves less energy for Wiring to regulate reactions, for Habit to sustain new routines, for Room to engage co‑regulation, and for Story to rewrite identity. The sequencing rule—Body → Wiring → Habit → Room → Story—exists because you cannot reliably fix a higher layer while the lower one is broken.  
-
-When the bottom layer is *fixed* in a way that cannot be altered by volition (a genetic mutation, a structural injury, a socioeconomic barrier), the system’s only honest move is to **adapt everything above it to respect that limit**. The fight is not to change the unchangeable; it is to stop spending precious Charge, Fuel, and Pressure on a battle the bottom layer will never lose.  
+You know the stack by now—Body supports Wiring, Wiring supports Habit, Habit supports Room, Room supports Story—and the rule that you steady the lowest shaky layer first. But sometimes the lowest layer isn’t shaky in a way you can fix. It’s *fixed*: a genetic condition, a structural injury, a socioeconomic barrier, a loss that won’t reverse. When that happens, the honest move changes. You stop trying to level a floor that will never be level, and instead **adapt everything above it to respect the limit**—so you stop spending precious Charge, Fuel, and Pressure on a battle the bottom layer will never lose.  
 
 ---  
 
@@ -2004,9 +1992,7 @@ Those aren’t wins. They’re *ripples*—the moment a fix at one layer made so
 
 ## Why the lower layers come first  
 
-Before we look at the worked examples, it helps to see why the map’s ripples always flow upward. The Body layer is the physical platform you run on—when it lacks sleep, food, or movement, every signal above it grows noisy or weak. Wiring runs on that platform; when the body is depleted, threat responses fire more easily and recovery slows. Habit depends on both: a tired body and a jangling wiring make it harder to insert a new routine or sustain an old one. Room reflects the state of the lower layers—if you’re running on empty, you withdraw or snap at others. Story sits on top; it can only shift when the foundations are stable enough to let a new narrative take hold.  
-
-Thus, when you fix a lower‑layer problem, you often see improvements in the layers above—not because you worked on them directly, but because the constraint has eased. The map makes those ripples visible.  
+Before we look at the worked examples, one thing to notice about the map: its ripples always flow *upward*. That’s the sequence you’ve known since the method—steady a lower layer and the layers above it ease, not because you worked on them directly, but because the constraint beneath them has lifted. The map is simply where those ripples become visible: fix the Body, and watch the Wiring, the Habit, the Room, the Story settle in turn.  
 
 ---  
 
